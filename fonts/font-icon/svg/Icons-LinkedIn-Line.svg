@@ -1,0 +1,6 @@
+<svg id="Icons_LinkedIn_Line" data-name="Icons/LinkedIn/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Vector" d="M16,2H4A2,2,0,0,0,2,4V16a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V4A2,2,0,0,0,16,2ZM4,0A4,4,0,0,0,0,4V16a4,4,0,0,0,4,4H16a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Vector-2" data-name="Vector" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(6 6)" fill="#777e90"/>
+  <path id="Vector-3" data-name="Vector" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" transform="translate(6 10)" fill="#777e90"/>
+  <path id="Vector-4" data-name="Vector" d="M4,2A2,2,0,0,0,2,4V7A1,1,0,0,1,0,7V1A1,1,0,0,1,1.911.588,4,4,0,0,1,8,4V7A1,1,0,0,1,6,7V4A2,2,0,0,0,4,2Z" transform="translate(10 10)" fill="#777e90"/>
+</svg>

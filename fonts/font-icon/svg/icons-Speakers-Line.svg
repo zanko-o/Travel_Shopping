@@ -1,0 +1,5 @@
+<svg id="icons_Speakers_Line" data-name="icons/Speakers/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M20,2H4A2,2,0,0,0,2,4v8a2,2,0,0,0,2,2H20a2,2,0,0,0,2-2V4A2,2,0,0,0,20,2ZM4,0A4,4,0,0,0,0,4v8a4,4,0,0,0,4,4H20a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z" transform="translate(4 24) rotate(-90)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M4,6A2,2,0,1,0,2,4,2,2,0,0,0,4,6ZM4,8A4,4,0,1,0,0,4,4,4,0,0,0,4,8Z" transform="translate(8 12)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M3,4A1,1,0,1,0,2,3,1,1,0,0,0,3,4ZM3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" transform="translate(9 4)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

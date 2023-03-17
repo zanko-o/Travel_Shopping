@@ -1,0 +1,6 @@
+<svg id="Icons_Android_Filled" data-name="Icons/Android/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Vector" d="M0,.5A.5.5,0,0,1,.5,0h11a.5.5,0,0,1,.5.5V5a3,3,0,0,1-2,2.829V10a1,1,0,0,1-2,0V8H4v2a1,1,0,0,1-2,0V7.829A3,3,0,0,1,0,5Z" transform="translate(6 11)" fill="#777e90"/>
+  <path id="Vector-2" data-name="Vector" d="M1,0A1,1,0,0,0,0,1V5A1,1,0,0,0,2,5V1A1,1,0,0,0,1,0Z" transform="translate(2 9)" fill="#777e90"/>
+  <path id="Vector-3" data-name="Vector" d="M1,0A1,1,0,0,0,0,1V5A1,1,0,0,0,2,5V1A1,1,0,0,0,1,0Z" transform="translate(20 9)" fill="#777e90"/>
+  <path id="Vector-4" data-name="Vector" d="M1.534.106A1,1,0,0,1,2.875.553l.516,1.033a6.014,6.014,0,0,1,5.178,0L9.087.553a1,1,0,0,1,1.789.894l-.654,1.308A5.981,5.981,0,0,1,11.961,6.5a.47.47,0,0,1-.479.5h-11A.47.47,0,0,1,0,6.5,5.981,5.981,0,0,1,1.741,2.755L1.087,1.447A1,1,0,0,1,1.534.106Z" transform="translate(6.019 2)" fill="#777e90"/>
+</svg>

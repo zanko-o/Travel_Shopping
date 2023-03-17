@@ -1,0 +1,8 @@
+<svg id="icons_Bowling_Ball_Line" data-name="icons/Bowling Ball/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 7)">
+    <path id="B2A4F697-E456-478C-9A2C-5F2CE701206B" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(2)" fill="#777e90"/>
+    <path id="F103A534-CC9A-4B96-B038-8FCD07F73061" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 3)" fill="#777e90"/>
+    <path id="_035E2CC0-1385-4FDD-B7DF-4A784F0AFAC2" data-name="035E2CC0-1385-4FDD-B7DF-4A784F0AFAC2" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(4 3)" fill="#777e90"/>
+  </g>
+</svg>

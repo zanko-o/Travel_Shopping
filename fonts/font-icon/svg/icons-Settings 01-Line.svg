@@ -1,0 +1,6 @@
+<svg id="icons_Settings_01_Line" data-name="icons/Settings 01/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M1,0A1,1,0,0,0,1,2H12a1,1,0,0,0,0-2ZM18,0a1,1,0,0,0,0,2h3a1,1,0,0,0,0-2Z" transform="translate(1 16)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M4,6A2,2,0,1,0,2,4,2,2,0,0,0,4,6ZM4,8A4,4,0,1,0,0,4,4,4,0,0,0,4,8Z" transform="translate(12 13)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Zm9,0a1,1,0,0,0,0,2H21a1,1,0,0,0,0-2Z" transform="translate(1 6)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-4" data-name="Shape" d="M4,6A2,2,0,1,0,2,4,2,2,0,0,0,4,6ZM4,8A4,4,0,1,0,0,4,4,4,0,0,0,4,8Z" transform="translate(4 3)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="icons_Fencing_Line" data-name="icons/Fencing/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="_64895289-2B5F-4B97-AB1E-99A2B82323FF" data-name="64895289-2B5F-4B97-AB1E-99A2B82323FF" d="M14.207,1.707A1,1,0,1,0,12.793.293l-12.5,12.5a1,1,0,0,0,1.414,1.414Z" transform="translate(5.5 0)" fill="#777e90"/>
+    <path id="_8027C84E-9312-4121-8FCA-35407680DB1D" data-name="8027C84E-9312-4121-8FCA-35407680DB1D" d="M3.207,1.707A1,1,0,0,0,1.793.293l-1.5,1.5A1,1,0,0,0,1.707,3.207Z" transform="translate(0 16.5)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M4.132,5.418a.762.762,0,0,0,1.012.137A2,2,0,1,0,2.331,2.742a.762.762,0,0,0,.137,1.012ZM5.109,7.81a2.127,2.127,0,0,1-2.1-.688L.764,4.879a2.127,2.127,0,0,1-.688-2.1A4,4,0,1,1,5.109,7.81Z" transform="translate(2.114 14)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(22 2) rotate(180)">
+    <path id="_96FA90CF-46DD-486B-9DDA-2AE5CC585307" data-name="96FA90CF-46DD-486B-9DDA-2AE5CC585307" d="M14.207-1.707a1,1,0,0,1,0,1.414,1,1,0,0,1-1.414,0l-12.5-12.5a1,1,0,0,1,0-1.414,1,1,0,0,1,1.414,0Z" transform="translate(5.5 0)" fill="#777e90"/>
+    <path id="_713C5BAA-B64C-4499-960B-897EF52841EC" data-name="713C5BAA-B64C-4499-960B-897EF52841EC" d="M3.207-1.707a1,1,0,0,1,0,1.414,1,1,0,0,1-1.414,0l-1.5-1.5a1,1,0,0,1,0-1.414,1,1,0,0,1,1.414,0Z" transform="translate(0 -16.5)" fill="#777e90"/>
+  </g>
+  <path id="Shape-4" data-name="Shape" d="M4.132-5.418a.762.762,0,0,1,1.012-.137A2,2,0,0,1,5.886-4a2,2,0,0,1-2,2,2,2,0,0,1-1.555-.742.762.762,0,0,1,.137-1.012ZM5.109-7.81a2.127,2.127,0,0,0-2.1.688L.764-4.879a2.127,2.127,0,0,0-.688,2.1A4,4,0,0,0,3.886,0a4,4,0,0,0,4-4A4,4,0,0,0,5.109-7.81Z" transform="translate(21.886 14) rotate(180)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

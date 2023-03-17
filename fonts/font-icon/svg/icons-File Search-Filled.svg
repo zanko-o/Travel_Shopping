@@ -1,0 +1,7 @@
+<svg id="icons_File_Search_Filled" data-name="icons/File Search/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 1)">
+    <path id="_53677BA0-2D8A-43E0-8926-F33BF0DF8EA6" data-name="53677BA0-2D8A-43E0-8926-F33BF0DF8EA6" d="M2,4A2,2,0,1,0,0,2,2,2,0,0,0,2,4Z" transform="translate(6 9)" fill="#777e90"/>
+    <path id="_0CEA0DE5-5744-4936-882F-8D0A8C1BECE3" data-name="0CEA0DE5-5744-4936-882F-8D0A8C1BECE3" d="M11,1a1,1,0,0,0-1-1H3A3,3,0,0,0,0,3V19a3,3,0,0,0,3,3H15a3,3,0,0,0,3-3V8a1,1,0,0,0-1-1H14a3,3,0,0,1-3-3ZM8,15a3.982,3.982,0,0,0,2.032-.554l2.261,2.261a1,1,0,0,0,1.414-1.414l-2.261-2.261A4,4,0,1,0,8,15Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M.977.052C.468-.162,0,.322,0,.874v3a1,1,0,0,0,1,1H4c.552,0,1.036-.468.822-.977a1.88,1.88,0,0,0-.408-.608L1.586.46A1.88,1.88,0,0,0,.977.052Z" transform="translate(16 1.126)" fill="#777e90"/>
+</svg>

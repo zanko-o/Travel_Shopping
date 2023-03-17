@@ -1,0 +1,10 @@
+<svg id="icons_Perspective_Filled" data-name="icons/Perspective/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 1.492)">
+    <path id="_229F7A78-F677-463A-A0E8-A3F72BF0A4FB" data-name="229F7A78-F677-463A-A0E8-A3F72BF0A4FB" d="M0,.5A.5.5,0,0,1,.608.012l3,.667A.5.5,0,0,1,4,1.167V7.6a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,7.6Z" transform="translate(8 1.408)" fill="#777e90"/>
+    <path id="A54D5E14-6B24-4FAE-B1B2-DDBB20580823" d="M5.5,9.508a.5.5,0,0,0,.5-.5V1.242A.5.5,0,0,0,5.608.754L2.434.048A2,2,0,0,0,0,2V9.008a.5.5,0,0,0,.5.5Z" transform="translate(0 0)" fill="#777e90"/>
+    <path id="EA9A1843-3FD5-4B85-965D-BE250F4B65EB" d="M0,.5A.5.5,0,0,1,.5,0h5A.5.5,0,0,1,6,.5V8.265a.5.5,0,0,1-.392.488l-3.175.705A2,2,0,0,1,0,7.506Z" transform="translate(0 11.508)" fill="#777e90"/>
+    <path id="_89E696CB-2E9A-4D80-89D1-82B385E74E32" data-name="89E696CB-2E9A-4D80-89D1-82B385E74E32" d="M0,.5A.5.5,0,0,1,.5,0h3A.5.5,0,0,1,4,.5V6.932a.5.5,0,0,1-.391.488l-3,.667A.5.5,0,0,1,0,7.6Z" transform="translate(8 11.508)" fill="#777e90"/>
+    <path id="_64974D4D-ED6C-4C34-B0E9-A136A36D3785" data-name="64974D4D-ED6C-4C34-B0E9-A136A36D3785" d="M.5,0A.5.5,0,0,0,0,.5V6.265a.5.5,0,0,0,.609.488l1.825-.406A2,2,0,0,0,4,4.4V.5A.5.5,0,0,0,3.5,0Z" transform="translate(14 11.508)" fill="#777e90"/>
+    <path id="_4E0035FF-1E36-47CD-9253-BA102E4084AB" data-name="4E0035FF-1E36-47CD-9253-BA102E4084AB" d="M3.5,6.766a.5.5,0,0,0,.5-.5V2.37A2,2,0,0,0,2.434.418L.609.012A.5.5,0,0,0,0,.5V6.266a.5.5,0,0,0,.5.5Z" transform="translate(14 2.742)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="icons_Hand_Cart_Filled" data-name="icons/Hand Cart/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(6 17)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 4)">
+    <path id="EEEDD75B-9B06-49FA-832E-4FC8223C592E" d="M11.171.258a1,1,0,0,1,.071,1.412L8.874,4.288a.5.5,0,0,0,.017.689l1.316,1.316A1,1,0,0,1,8.793,7.707L7.583,6.5a.5.5,0,0,0-.724.018L1.741,12.171A1,1,0,0,1,.258,10.829l9.5-10.5A1,1,0,0,1,11.171.258Z" transform="translate(8.5 0)" fill="#777e90"/>
+    <path id="CCF1D1DB-C405-4E97-BFEB-6AD1500DD1E0" d="M.293.293a1,1,0,0,1,1.414,0l1.5,1.5A1,1,0,0,1,1.793,3.207l-1.5-1.5A1,1,0,0,1,.293.293Z" transform="translate(0 9)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M.586,8.586l3.172,3.172a2,2,0,0,0,2.828,0l5.172-5.172a2,2,0,0,0,0-2.828L8.586.586a2,2,0,0,0-2.828,0L.586,5.757A2,2,0,0,0,.586,8.586Z" transform="translate(2.828 1.828)" fill="#777e90"/>
+</svg>

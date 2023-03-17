@@ -1,0 +1,8 @@
+<svg id="icons_File_Chart_Line" data-name="icons/File Chart/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,4A4,4,0,0,1,4,0h8.343a4,4,0,0,1,2.829,1.172l1.657,1.657A4,4,0,0,1,18,5.657V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM16,7V18a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2h7V4a3,3,0,0,0,3,3Zm-.111-2a2,2,0,0,0-.475-.757L13.757,2.586A2,2,0,0,0,13,2.111V4a1,1,0,0,0,1,1Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(7 11)">
+    <path id="_17839345-9052-4E9F-A9CB-A57F2E199010" data-name="17839345-9052-4E9F-A9CB-A57F2E199010" d="M0,1A1,1,0,0,1,2,1V6A1,1,0,0,1,0,6Z" transform="translate(4)" fill="#777e90"/>
+    <path id="DD9AEC98-462A-4D97-B1FF-9A80D4BD946C" d="M0,1A1,1,0,0,1,2,1V3A1,1,0,0,1,0,3Z" transform="translate(0 3)" fill="#777e90"/>
+    <path id="_0123C712-7444-4DB4-8D3E-3713CA6200D6" data-name="0123C712-7444-4DB4-8D3E-3713CA6200D6" d="M1,0A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4V1A1,1,0,0,0,1,0Z" transform="translate(8 2)" fill="#777e90"/>
+  </g>
+</svg>

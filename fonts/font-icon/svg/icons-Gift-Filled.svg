@@ -1,0 +1,14 @@
+<svg id="icons_Gift_Filled" data-name="icons/Gift/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 15)">
+    <path id="_53756EFE-1DFF-4CB2-9AC2-2148AAAA9726" data-name="53756EFE-1DFF-4CB2-9AC2-2148AAAA9726" d="M8,.5A.5.5,0,0,0,7.5,0H1A1,1,0,0,0,0,1V4A3,3,0,0,0,3,7H7.5A.5.5,0,0,0,8,6.5Z" fill="#777e90"/>
+    <path id="_8E910595-6CB9-4103-9540-C2D56D4A5B49" data-name="8E910595-6CB9-4103-9540-C2D56D4A5B49" d="M0,6.5A.5.5,0,0,0,.5,7H5A3,3,0,0,0,8,4V1A1,1,0,0,0,7,0H.5A.5.5,0,0,0,0,.5Z" transform="translate(10)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 8)">
+    <path id="_9ECA0D68-A4F3-4F63-BA79-15CF5D14557A" data-name="9ECA0D68-A4F3-4F63-BA79-15CF5D14557A" d="M9,.5A.5.5,0,0,0,8.5,0H2A2,2,0,0,0,0,2V3A2,2,0,0,0,2,5H8.5A.5.5,0,0,0,9,4.5Z" fill="#777e90"/>
+    <path id="D421F3CF-00FF-4A6F-A3E1-AE5F10D6212B" d="M0,4.5A.5.5,0,0,0,.5,5H7A2,2,0,0,0,9,3V2A2,2,0,0,0,7,0H.5A.5.5,0,0,0,0,.5Z" transform="translate(11)" fill="#777e90"/>
+  </g>
+  <g id="Shape-3" data-name="Shape" transform="translate(7 2)">
+    <path id="_3E219A0A-C267-44AB-97EC-47EC57369913" data-name="3E219A0A-C267-44AB-97EC-47EC57369913" d="M0,2A2,2,0,0,1,4,2V3.5a.5.5,0,0,1-.5.5H2A2,2,0,0,1,0,2Z" fill="#777e90"/>
+    <path id="_679474D5-8156-4BC0-B24A-D2038CE9E14D" data-name="679474D5-8156-4BC0-B24A-D2038CE9E14D" d="M4,2A2,2,0,0,0,0,2V3.5A.5.5,0,0,0,.5,4H2A2,2,0,0,0,4,2Z" transform="translate(6)" fill="#777e90"/>
+  </g>
+</svg>

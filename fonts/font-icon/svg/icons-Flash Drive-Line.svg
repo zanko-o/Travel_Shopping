@@ -1,0 +1,5 @@
+<svg id="icons_Flash_Drive_Line" data-name="icons/Flash Drive/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M3.172,12.586,4.686,14.1a4,4,0,0,0,5.657,0l4.636-4.636a1,1,0,0,0,0-1.414L9.222,2.293a1,1,0,0,0-1.414,0L3.172,6.929A4,4,0,0,0,3.172,12.586ZM1.757,14l1.515,1.515a6,6,0,0,0,8.485,0l4.636-4.636a3,3,0,0,0,0-4.243L10.636.879a3,3,0,0,0-4.243,0L1.757,5.515A6,6,0,0,0,1.757,14Z" transform="translate(1.485 5.243)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(7 15)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0,3.35a3,3,0,0,1,.714.529l.793.793L3.885,2.293a1,1,0,0,1,1.414,0L8.057,5.05a1,1,0,0,1,0,1.414L5.678,8.843l.793.793A3,3,0,0,1,7,10.35L9.471,7.879a3,3,0,0,0,0-4.243L6.714.879a3,3,0,0,0-4.243,0Z" transform="translate(11.408 2.243)" fill="#777e90"/>
+</svg>

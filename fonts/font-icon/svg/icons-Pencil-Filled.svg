@@ -1,0 +1,7 @@
+<svg id="icons_Pencil_Filled" data-name="icons/Pencil/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2.06 6.207)">
+    <path id="_099FF3D2-D25B-4CE9-8D4F-C228C5B7BAD6" data-name="099FF3D2-D25B-4CE9-8D4F-C228C5B7BAD6" d="M.1,5.7,1.636,1.6A4,4,0,0,1,2.553.18L2.587.146a.5.5,0,0,1,.707,0L7.587,4.439a.5.5,0,0,1,0,.707l-.034.034A4,4,0,0,1,6.129,6.1L2.03,7.634A1.5,1.5,0,0,1,.1,5.7Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="ADBCD0DC-38BE-43AA-AEDE-8D430F22A055" d="M4.439,10.939a.5.5,0,0,0,.707,0l5.793-5.793a.5.5,0,0,0,0-.707L6.646.146a.5.5,0,0,0-.707,0L.146,5.939a.5.5,0,0,0,0,.707Z" transform="translate(4.647 0)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M.146,1.9a.5.5,0,0,0,0,.707L4.439,6.9a.5.5,0,0,0,.707,0L6.172,5.879a3,3,0,0,0,0-4.243L5.414.879a3,3,0,0,0-4.243,0Z" transform="translate(14.707 2.243)" fill="#777e90"/>
+</svg>

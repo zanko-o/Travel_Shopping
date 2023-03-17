@@ -1,0 +1,14 @@
+<svg id="icons_Stacked_Column_01_Up_Line" data-name="icons/Stacked Column 01 Up/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 11)">
+    <path id="CD67857A-D472-4E7B-8471-E60810BEEDC6" d="M1,0A1,1,0,0,0,0,1v9a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(18)" fill="#777e90"/>
+    <path id="_4051E665-BEC4-44A7-A341-89A76628A533" data-name="4051E665-BEC4-44A7-A341-89A76628A533" d="M0,1A1,1,0,0,1,2,1V8A1,1,0,0,1,0,8Z" transform="translate(12 2)" fill="#777e90"/>
+    <path id="_33935A2A-1CD7-455B-8833-5AF5F492E167" data-name="33935A2A-1CD7-455B-8833-5AF5F492E167" d="M1,0A1,1,0,0,0,0,1V6A1,1,0,0,0,2,6V1A1,1,0,0,0,1,0Z" transform="translate(6 4)" fill="#777e90"/>
+    <path id="BB4DB858-FFCB-4ED4-BB91-2D1FCAA5E6D2" d="M1,0A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4V1A1,1,0,0,0,1,0Z" transform="translate(0 6)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 2)">
+    <path id="_63C5EDDB-8B39-4FAD-B349-F343B530EFB1" data-name="63C5EDDB-8B39-4FAD-B349-F343B530EFB1" d="M1,0A1,1,0,0,0,0,1V12a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_6621D815-73B3-42E4-8FCC-F66A1E73B7E0" data-name="6621D815-73B3-42E4-8FCC-F66A1E73B7E0" d="M1,0A1,1,0,0,0,0,1v9a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(6)" fill="#777e90"/>
+    <path id="_6C6EBB10-843A-4587-BA09-8E0AC06515D4" data-name="6C6EBB10-843A-4587-BA09-8E0AC06515D4" d="M0,1A1,1,0,0,1,2,1V8A1,1,0,0,1,0,8Z" transform="translate(12)" fill="#777e90"/>
+    <path id="_4066BEAE-DC34-4A75-82AC-7CDFA89EAF5E" data-name="4066BEAE-DC34-4A75-82AC-7CDFA89EAF5E" d="M1,0A1,1,0,0,0,0,1V6A1,1,0,0,0,2,6V1A1,1,0,0,0,1,0Z" transform="translate(18)" fill="#777e90"/>
+  </g>
+</svg>

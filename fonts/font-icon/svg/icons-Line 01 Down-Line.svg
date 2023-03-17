@@ -1,0 +1,13 @@
+<svg id="icons_Line_01_Down_Line" data-name="icons/Line 01 Down/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(20.168 8.721) rotate(180)">
+    <path id="E2FE11BB-121D-474D-85A9-FFB8D175970E" d="M1.711,0,0-2.4A3.005,3.005,0,0,0,1.627-3.559l1.711,2.4A3.005,3.005,0,0,0,1.711,0Z" transform="translate(13)" fill="#777e90"/>
+    <path id="CB7407AB-C698-40E7-822D-BFF44CD395D8" d="M3.835-1.47A2.992,2.992,0,0,1,2.94-3.259L0-1.789A2.992,2.992,0,0,1,.895,0Z" transform="translate(6.252 -1.65)" fill="#777e90"/>
+    <path id="_76D5DA9E-F629-4980-BC36-6540105ECB3E" data-name="76D5DA9E-F629-4980-BC36-6540105ECB3E" d="M1.711,0,0-2.4A3.005,3.005,0,0,0,1.627-3.559l1.711,2.4A3.005,3.005,0,0,0,1.711,0Z" transform="translate(0 -3)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(24 4) rotate(180)">
+    <path id="C446DDFA-8934-4803-8F82-EC83BFDD5B40" d="M24-3a3,3,0,0,0-3-3,3,3,0,0,0-3,3,3,3,0,0,0,3,3A3,3,0,0,0,24-3ZM22-3a1,1,0,0,0-1-1,1,1,0,0,0-1,1,1,1,0,0,0,1,1A1,1,0,0,0,22-3Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_42366755-7A55-45F7-B1E5-BDA9E24747A0" data-name="42366755-7A55-45F7-B1E5-BDA9E24747A0" d="M11-6A3,3,0,0,0,8-9,3,3,0,0,0,5-6,3,3,0,0,0,8-3,3,3,0,0,0,11-6ZM9-6A1,1,0,0,0,8-7,1,1,0,0,0,7-6,1,1,0,0,0,8-5,1,1,0,0,0,9-6Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="ED31C43F-965F-4A0D-B81A-4EFC179ED3A6" d="M6-13a3,3,0,0,0-3-3,3,3,0,0,0-3,3,3,3,0,0,0,3,3A3,3,0,0,0,6-13ZM4-13a1,1,0,0,0-1-1,1,1,0,0,0-1,1,1,1,0,0,0,1,1A1,1,0,0,0,4-13Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_7A8E9E4A-8D97-468C-AF0B-1B9E634031DA" data-name="7A8E9E4A-8D97-468C-AF0B-1B9E634031DA" d="M16-13a3,3,0,0,1,3,3,3,3,0,0,1-3,3,3,3,0,0,1-3-3A3,3,0,0,1,16-13Zm0,2a1,1,0,0,1,1,1,1,1,0,0,1-1,1,1,1,0,0,1-1-1A1,1,0,0,1,16-11Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

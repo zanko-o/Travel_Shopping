@@ -1,0 +1,8 @@
+<svg id="icons_Stopwatch_Line" data-name="icons/Stopwatch/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9,16A7,7,0,1,0,2,9,7,7,0,0,0,9,16Zm0,2A9,9,0,1,0,0,9,9,9,0,0,0,9,18Z" transform="translate(3 5)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,2,1V5A1,1,0,0,1,0,5Z" transform="translate(11 9)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(9 1)">
+    <path id="EC8B56F8-5B01-443E-9525-C99B71A41D9A" d="M1,0A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" fill="#777e90"/>
+    <path id="_351A47A9-B07E-4518-8954-1FBABFFC347D" data-name="351A47A9-B07E-4518-8954-1FBABFFC347D" d="M1.707.293A1,1,0,0,0,.293,1.707l1,1A1,1,0,0,0,2.707,1.293Z" transform="translate(10 3)" fill="#777e90"/>
+  </g>
+</svg>

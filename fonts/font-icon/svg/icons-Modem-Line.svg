@@ -1,0 +1,15 @@
+<svg id="icons_Modem_Line" data-name="icons/Modem/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(5 21)">
+    <path id="_89694F24-FCAD-4D62-B7C8-B7461EE07820" data-name="89694F24-FCAD-4D62-B7C8-B7461EE07820" d="M1,1A1,1,0,0,0,2,0H0A1,1,0,0,0,1,1Z" fill="#777e90"/>
+    <path id="_63542A15-FD17-4781-8C15-1E4E4BCA2E35" data-name="63542A15-FD17-4781-8C15-1E4E4BCA2E35" d="M1,1A1,1,0,0,0,2,0H0A1,1,0,0,0,1,1Z" transform="translate(12)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M17,2H3A1,1,0,0,0,2,3V7A1,1,0,0,0,3,8H17a1,1,0,0,0,1-1V3A1,1,0,0,0,17,2ZM3,0A3,3,0,0,0,0,3V7a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(2 11)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(6 2)">
+    <path id="_86DF2616-E6FD-4018-ACAF-D2588D913F0F" data-name="86DF2616-E6FD-4018-ACAF-D2588D913F0F" d="M1,0A1,1,0,0,0,0,1V9H2V1A1,1,0,0,0,1,0Z" transform="translate(10)" fill="#777e90"/>
+    <path id="EE8381DC-DB35-4670-9A5A-3DC9BE3EB83F" d="M1,0A1,1,0,0,0,0,1V5H2V1A1,1,0,0,0,1,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+  <g id="Shape-4" data-name="Shape" transform="translate(6 15)">
+    <path id="_84DD70D9-C560-478F-BAF1-202F7A70140C" data-name="84DD70D9-C560-478F-BAF1-202F7A70140C" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_943645FA-7B15-4E41-BB81-9504FB37C5D4" data-name="943645FA-7B15-4E41-BB81-9504FB37C5D4" d="M1,0A1,1,0,0,0,1,2H7A1,1,0,0,0,7,0Z" transform="translate(4)" fill="#777e90"/>
+  </g>
+</svg>

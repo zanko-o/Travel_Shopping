@@ -1,0 +1,5 @@
+<svg id="icons_Pear_Filled" data-name="icons/Pear/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12,5.03a5,5,0,1,0-10,0A8.272,8.272,0,0,1,.793,8.76a7,7,0,1,0,12.413,0A8.272,8.272,0,0,1,12,5.03Z" transform="translate(5 5)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M5.708,2A3,3,0,0,0,2.923,3.886L1.929,6.371A1,1,0,1,1,.072,5.629l.994-2.486A5,5,0,0,1,5.708,0H8A1,1,0,1,1,8,2Z" transform="translate(11)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M2.667,0h-2A.667.667,0,0,0,0,.667,3.333,3.333,0,0,0,3.333,4h2A.667.667,0,0,0,6,3.333,3.333,3.333,0,0,0,2.667,0Z" transform="translate(4)" fill="#777e90"/>
+</svg>

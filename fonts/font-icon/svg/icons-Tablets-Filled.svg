@@ -1,0 +1,7 @@
+<svg id="icons_Tablets_Filled" data-name="icons/Tablets/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M4,13a.2.2,0,0,1-.288.181,7,7,0,1,1,9.469-9.469A.2.2,0,0,1,13,4,9,9,0,0,0,4,13Z" transform="translate(2 2)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 8)">
+    <path id="_1D50B4A7-B5CF-4692-9CE0-57A754989BC9" data-name="1D50B4A7-B5CF-4692-9CE0-57A754989BC9" d="M4.192,11.192A7,7,0,0,0,9.8,0L0,9.8A6.969,6.969,0,0,0,4.192,11.192Z" transform="translate(2.808 2.808)" fill="#777e90"/>
+    <path id="E76732AD-1EA9-4838-94BC-BFBCF6B9B66D" d="M1.394,11.192l9.8-9.8a7,7,0,0,0-9.8,9.8Z" fill="#777e90"/>
+  </g>
+</svg>

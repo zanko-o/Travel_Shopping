@@ -1,0 +1,4 @@
+<svg id="icons_Zoom_In_Line" data-name="icons/Zoom In/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12.906,14.32a8,8,0,1,1,1.414-1.414l5.387,5.387a1,1,0,0,1-1.414,1.414ZM14,8A6,6,0,1,1,8,2,6,6,0,0,1,14,8Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M4,0A1,1,0,0,0,3,1V3H1A1,1,0,0,0,1,5H3V7A1,1,0,0,0,5,7V5H7A1,1,0,0,0,7,3H5V1A1,1,0,0,0,4,0Z" transform="translate(6 6)" fill="#777e90"/>
+</svg>

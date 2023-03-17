@@ -1,0 +1,4 @@
+<svg id="icons_Stop_Circle_Line" data-name="icons/Stop Circle/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,2A2,2,0,0,1,2,0H6A2,2,0,0,1,8,2V6A2,2,0,0,1,6,8H2A2,2,0,0,1,0,6Z" transform="translate(8 8)" fill="#777e90"/>
+</svg>

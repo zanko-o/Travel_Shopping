@@ -1,0 +1,7 @@
+<svg id="icons_Camera_Line" data-name="icons/Camera/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M5.235,4.753l-1.72.43A2,2,0,0,0,2,7.123V16a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V7.123a2,2,0,0,0-1.515-1.94l-1.72-.43L13.226,2.445A1,1,0,0,0,12.394,2H7.606a1,1,0,0,0-.832.445ZM4,3l-.97.243A4,4,0,0,0,0,7.123V16a4,4,0,0,0,4,4H16a4,4,0,0,0,4-4V7.123a4,4,0,0,0-3.03-3.881L16,3,14.891,1.336A3,3,0,0,0,12.394,0H7.606a3,3,0,0,0-2.5,1.336Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 9)">
+    <path id="_5B68F725-3A81-4328-ADFD-570C478558E1" data-name="5B68F725-3A81-4328-ADFD-570C478558E1" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4ZM6,4A2,2,0,1,1,4,2,2,2,0,0,1,6,4Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="D0B984CE-299A-47DD-BBC6-DF39267EE296" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8)" fill="#777e90"/>
+  </g>
+</svg>

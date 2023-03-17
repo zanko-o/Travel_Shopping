@@ -1,0 +1,11 @@
+<svg id="icons_Modem_Filled" data-name="icons/Modem/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,3A3,3,0,0,1,3,0H17a3,3,0,0,1,3,3V7a3,3,0,0,1-3,3H3A3,3,0,0,1,0,7ZM4,5A1,1,0,1,1,5,6,1,1,0,0,1,4,5ZM9,4A1,1,0,0,0,9,6h6a1,1,0,0,0,0-2Z" transform="translate(2 11)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(5 21)">
+    <path id="_548FE154-D442-4832-856B-6B4AF9F2CF29" data-name="548FE154-D442-4832-856B-6B4AF9F2CF29" d="M1,1A1,1,0,0,0,2,0H0A1,1,0,0,0,1,1Z" fill="#777e90"/>
+    <path id="_89EEFCDB-0C0A-4000-8FCA-B9061769428D" data-name="89EEFCDB-0C0A-4000-8FCA-B9061769428D" d="M1,1A1,1,0,0,0,2,0H0A1,1,0,0,0,1,1Z" transform="translate(12)" fill="#777e90"/>
+  </g>
+  <g id="Shape-3" data-name="Shape" transform="translate(6 2)">
+    <path id="C4DE69D3-3888-48DB-B42F-DA04650AF6E1" d="M1,0A1,1,0,0,0,0,1V9H2V1A1,1,0,0,0,1,0Z" transform="translate(10)" fill="#777e90"/>
+    <path id="_102A524D-8E67-4356-8CE7-C5C720A3D4E3" data-name="102A524D-8E67-4356-8CE7-C5C720A3D4E3" d="M1,0A1,1,0,0,0,0,1V5H2V1A1,1,0,0,0,1,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+</svg>

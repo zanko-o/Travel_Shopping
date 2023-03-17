@@ -1,0 +1,12 @@
+<svg id="icons_Darts_Line" data-name="icons/Darts/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(9 2)">
+    <path id="_0E0E8035-8122-41CC-802D-B0CDA29F418E" data-name="0E0E8035-8122-41CC-802D-B0CDA29F418E" d="M3.543.293a1,1,0,0,1,0,1.414L1.414,3.836A2.821,2.821,0,0,0,.836,3,2.822,2.822,0,0,0,0,2.422L2.129.293A1,1,0,0,1,3.543.293Z" transform="translate(9.164 0)" fill="#777e90"/>
+    <path id="DD5BD107-5598-4EFE-B37E-404A06EA70F9" d="M3.421,0,.293,3.128A1,1,0,0,0,1.707,4.543L4.836,1.414A2.822,2.822,0,0,1,4,.836,2.822,2.822,0,0,1,3.421,0Z" transform="translate(0 8.164)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 2)">
+    <path id="B49F4105-2119-4B6D-B181-E6B1BC16EF46" d="M4.207,1.707A1,1,0,0,0,2.793.293l-2.5,2.5A1,1,0,0,0,1.707,4.207Z" transform="translate(8.5 0)" fill="#777e90"/>
+    <path id="BEE6F0A7-6AC2-4C25-8DB4-0EAA763ED91D" d="M5.207,1.707A1,1,0,0,0,3.793.293l-3.5,3.5A1,1,0,0,0,1.707,5.207Z" transform="translate(0 7.5)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M3.414,5.414l2-2A.828.828,0,0,0,4.243,2.243l-2,2A.828.828,0,0,0,3.414,5.414Zm3.414-.586-2,2a2.828,2.828,0,1,1-4-4l2-2a2.828,2.828,0,1,1,4,4Z" transform="translate(12.172 4.172)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-4" data-name="Shape" d="M3.636,8.666a3,3,0,0,0,4.243,0l.787-.787A3,3,0,0,0,9.5,5.264L8.875,1.492A1,1,0,0,0,8.053.67L4.28.041A3,3,0,0,0,1.666.879l-.787.787a3,3,0,0,0,0,4.243Zm3.5-5.436a1,1,0,0,0-.822-.822L3.951,2.014a1,1,0,0,0-.872.279l-.787.787a1,1,0,0,0,0,1.414L5.05,7.252a1,1,0,0,0,1.414,0l.787-.787a1,1,0,0,0,.279-.872Z" transform="translate(2.243 12.213)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

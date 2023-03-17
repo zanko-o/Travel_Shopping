@@ -1,0 +1,4 @@
+<svg id="icons_File_Video_Line" data-name="icons/File Video/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,4A4,4,0,0,1,4,0h8.343a4,4,0,0,1,2.829,1.172l1.657,1.657A4,4,0,0,1,18,5.657V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM16,7V18a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2h7V4a3,3,0,0,0,3,3Zm-.111-2a2,2,0,0,0-.475-.757L13.757,2.586A2,2,0,0,0,13,2.111V4a1,1,0,0,0,1,1Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M.133,4.488,2.41.5A1,1,0,0,1,4.147.5L6.423,4.488a1,1,0,0,1-.868,1.5H1A1,1,0,0,1,.133,4.488Z" transform="translate(14.984 10.722) rotate(90)" fill="#777e90"/>
+</svg>

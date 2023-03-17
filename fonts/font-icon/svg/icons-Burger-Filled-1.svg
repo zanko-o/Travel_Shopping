@@ -1,0 +1,5 @@
+<svg id="icons_Burger_Filled" data-name="icons/Burger/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2,1,1,0,0,1-1,1H1A1,1,0,0,1,0,2Z" transform="translate(22 21) rotate(180)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,1,0H21a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(1 14)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M8,0A8,8,0,0,0,0,8,1,1,0,0,0,1,9H19a1,1,0,0,0,1-1,8,8,0,0,0-8-8ZM6,6A1,1,0,1,0,5,5,1,1,0,0,0,6,6Zm5-1a1,1,0,1,1-1-1A1,1,0,0,1,11,5Zm3,1a1,1,0,1,0-1-1A1,1,0,0,0,14,6Z" transform="translate(2 3)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

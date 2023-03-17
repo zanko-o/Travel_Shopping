@@ -1,0 +1,5 @@
+<svg id="icons_Table_Tennis_Line" data-name="icons/Table Tennis/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M18,9a9,9,0,0,1-6,8.488V21a3,3,0,0,1-6,0V17.488A9,9,0,1,1,12.025.521a4.018,4.018,0,0,0-1.573,1.63,6.992,6.992,0,1,0,5.4,5.4,4.019,4.019,0,0,0,1.63-1.573A8.986,8.986,0,0,1,18,9ZM9,18a9.1,9.1,0,0,0,1-.055V21a1,1,0,0,1-2,0V17.945A9.1,9.1,0,0,0,9,18Z" transform="translate(3)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M1,2A8.968,8.968,0,0,1,0,0H16.976a8.97,8.97,0,0,1-1,2Z" transform="translate(3.512 12)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M4,6A2,2,0,1,0,2,4,2,2,0,0,0,4,6ZM4,8A4,4,0,1,0,0,4,4,4,0,0,0,4,8Z" transform="translate(13)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

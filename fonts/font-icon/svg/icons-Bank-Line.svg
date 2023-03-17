@@ -1,0 +1,8 @@
+<svg id="icons_Bank_Line" data-name="icons/Bank/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(5 9)">
+    <path id="B785112E-A78F-4DEB-95D7-7CB058CBAE64" d="M0,9V0H6V9ZM4,2V7H2V2Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="BF926C64-10B5-4320-927B-0E4DCD2F5563" d="M8,9V0h6V9Zm4-7V7H10V2Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M17,2H3A1,1,0,0,0,3,4H17a1,1,0,0,0,0-2ZM3,0A3,3,0,0,0,3,6H17a3,3,0,0,0,0-6Z" transform="translate(2 16)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M18,5.868V5.1a1,1,0,0,0-.713-.958l-7-2.1a1,1,0,0,0-.575,0l-7,2.1A1,1,0,0,0,2,5.1v.768a1,1,0,0,0,1,1H17A1,1,0,0,0,18,5.868ZM2.138,2.227A3,3,0,0,0,0,5.1v.768a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V5.1a3,3,0,0,0-2.138-2.873l-7-2.1a3,3,0,0,0-1.724,0Z" transform="translate(2 2.132)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

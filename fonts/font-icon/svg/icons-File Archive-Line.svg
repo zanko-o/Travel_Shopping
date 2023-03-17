@@ -1,0 +1,14 @@
+<svg id="icons_File_Archive_Line" data-name="icons/File Archive/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,4A4,4,0,0,1,4,0h8.343a4,4,0,0,1,2.829,1.172l1.657,1.657A4,4,0,0,1,18,5.657V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM16,7V18a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2h7V4a3,3,0,0,0,3,3Zm-.111-2a2,2,0,0,0-.475-.757L13.757,2.586A2,2,0,0,0,13,2.111V4a1,1,0,0,0,1,1Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 3)">
+    <path id="_81BEDA34-377B-461C-A9D9-F3D30226101D" data-name="81BEDA34-377B-461C-A9D9-F3D30226101D" d="M0,.5A.5.5,0,0,1,.5,0h1A.5.5,0,0,1,2,.5v1a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,1.5Z" fill="#777e90"/>
+    <path id="E73E8831-8749-4315-AE69-EFACC062B1EC" d="M0,.5A.5.5,0,0,1,.5,0h1A.5.5,0,0,1,2,.5v1a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,1.5Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="A40FAF53-B478-4079-AB3E-417A66CD9E55" d="M0,.5A.5.5,0,0,1,.5,0h1A.5.5,0,0,1,2,.5v1a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,1.5Z" transform="translate(2 6)" fill="#777e90"/>
+    <path id="BE41502A-ECCC-4523-A2C4-87B27EAE947B" d="M.5,0A.5.5,0,0,0,0,.5v1A.5.5,0,0,0,.5,2h1A.5.5,0,0,0,2,1.5V.5A.5.5,0,0,0,1.5,0Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="AE4EB9F1-6797-4C27-97BC-C4CBBEF3BD70" d="M0,.5A.5.5,0,0,1,.5,0h1A.5.5,0,0,1,2,.5v1a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,1.5Z" transform="translate(2 10)" fill="#777e90"/>
+    <path id="BC9D181D-50D8-4F88-A9F7-31AD9F29A93B" d="M.5,0A.5.5,0,0,0,0,.5v1A.5.5,0,0,0,.5,2h1A.5.5,0,0,0,2,1.5V.5A.5.5,0,0,0,1.5,0Z" transform="translate(0 12)" fill="#777e90"/>
+    <path id="_6806B164-B441-4072-AC29-EC987236FAF2" data-name="6806B164-B441-4072-AC29-EC987236FAF2" d="M0,.5A.5.5,0,0,1,.5,0h1A.5.5,0,0,1,2,.5v1a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,1.5Z" transform="translate(2 14)" fill="#777e90"/>
+    <path id="_99B7EBEB-B98C-4A29-B2D4-E7676CBFC922" data-name="99B7EBEB-B98C-4A29-B2D4-E7676CBFC922" d="M.5,0A.5.5,0,0,0,0,.5v1A.5.5,0,0,0,.5,2h1A.5.5,0,0,0,2,1.5V.5A.5.5,0,0,0,1.5,0Z" transform="translate(0 16)" fill="#777e90"/>
+    <path id="_7AB9A10D-91FC-493F-A0D8-EFBBB52F6BBC" data-name="7AB9A10D-91FC-493F-A0D8-EFBBB52F6BBC" d="M.5,0A.5.5,0,0,0,0,.5v1A.5.5,0,0,0,.5,2h1A.5.5,0,0,0,2,1.5V.5A.5.5,0,0,0,1.5,0Z" transform="translate(2 2)" fill="#777e90"/>
+  </g>
+</svg>

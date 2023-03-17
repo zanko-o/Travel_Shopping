@@ -1,0 +1,9 @@
+<svg id="icons_Patch_Line" data-name="icons/Patch/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9.657,17.657l8-8a5.657,5.657,0,0,0-8-8l-8,8a5.657,5.657,0,0,0,8,8ZM9.45,15.036,15.035,9.45,9.864,4.278,4.278,9.864ZM8.027,16.442,2.872,11.286a3.657,3.657,0,0,0,5.155,5.155ZM11.286,2.872l5.155,5.155a3.657,3.657,0,0,0-5.155-5.155Z" transform="translate(2.343 2.343)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 9)">
+    <path id="_83E7335C-756D-4AEC-8F10-E684E2688302" data-name="83E7335C-756D-4AEC-8F10-E684E2688302" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(2)" fill="#777e90"/>
+    <path id="E8549229-5A0C-4BBA-A203-89037E1DE8BB" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(2 4)" fill="#777e90"/>
+    <path id="_914910EC-7427-4857-B1F5-17E7165C6043" data-name="914910EC-7427-4857-B1F5-17E7165C6043" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 2)" fill="#777e90"/>
+    <path id="C7691E92-D25A-45D5-A256-38083C1B1DBE" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 2)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="icons_Scatter_Down_Line" data-name="icons/Scatter Down/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 11)">
+    <path id="_2B1A31CF-C133-471E-AE5D-4E50F51BDD45" data-name="2B1A31CF-C133-471E-AE5D-4E50F51BDD45" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" fill="#777e90"/>
+    <path id="_2303C183-ADD2-40A4-950F-8647FD6F6443" data-name="2303C183-ADD2-40A4-950F-8647FD6F6443" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_7EDC977C-D6B1-4B14-827F-98BCD382A1EF" data-name="7EDC977C-D6B1-4B14-827F-98BCD382A1EF" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="_8E8636DE-5131-4286-AFCB-9726D2850B38" data-name="8E8636DE-5131-4286-AFCB-9726D2850B38" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="_3BBB4E65-ADBC-4348-837C-8D86C8834562" data-name="3BBB4E65-ADBC-4348-837C-8D86C8834562" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 8)" fill="#777e90"/>
+    <path id="_26C374D9-A226-4A2B-AB43-985B84A5F31E" data-name="26C374D9-A226-4A2B-AB43-985B84A5F31E" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(16 8)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(1 3)">
+    <path id="_82021814-988F-4F65-A8A1-2639ABBED598" data-name="82021814-988F-4F65-A8A1-2639ABBED598" d="M0,3A3,3,0,1,0,3,0,3,3,0,0,0,0,3ZM2,3A1,1,0,1,0,3,2,1,1,0,0,0,2,3Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_47B2A093-78C3-4E15-951E-1E1140D46ED8" data-name="47B2A093-78C3-4E15-951E-1E1140D46ED8" d="M11,10a3,3,0,1,1,3-3A3,3,0,0,1,11,10Zm0-2a1,1,0,1,1,1-1A1,1,0,0,1,11,8Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_116A2355-FC43-4EBF-9826-93D9404F3296" data-name="116A2355-FC43-4EBF-9826-93D9404F3296" d="M19,14a3,3,0,1,1,3-3A3,3,0,0,1,19,14Zm0-2a1,1,0,1,1,1-1A1,1,0,0,1,19,12Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

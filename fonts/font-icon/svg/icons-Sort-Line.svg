@@ -1,0 +1,5 @@
+<svg id="icons_Sort_Line" data-name="icons/Sort/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M5,2H3A1,1,0,0,0,3,4H5A1,1,0,0,0,5,2ZM3,0A3,3,0,0,0,3,6H5A3,3,0,0,0,5,0Z" transform="translate(8 17)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M11,2H3A1,1,0,0,0,3,4h8a1,1,0,0,0,0-2ZM3,0A3,3,0,0,0,3,6h8a3,3,0,0,0,0-6Z" transform="translate(5 9)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M17,2H3A1,1,0,0,0,3,4H17a1,1,0,0,0,0-2ZM3,0A3,3,0,0,0,3,6H17a3,3,0,0,0,0-6Z" transform="translate(2 1)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

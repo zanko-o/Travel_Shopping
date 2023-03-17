@@ -1,0 +1,5 @@
+<svg id="icons_Sports-flag_Filled" data-name="icons/Sports-flag/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,2,1V23a1,1,0,0,1-2,0Z" transform="translate(4)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,1,0H5.382a1,1,0,0,1,.894,1.447L4.224,5.553a1,1,0,0,0,0,.894l2.053,4.106A1,1,0,0,1,5.382,12H2a2,2,0,0,1-2-2Z" transform="translate(14 4)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0,1A1,1,0,0,1,1,0H2A2,2,0,0,1,4,2v9a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1Z" transform="translate(8 2)" fill="#777e90"/>
+</svg>

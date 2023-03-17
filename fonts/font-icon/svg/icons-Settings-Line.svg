@@ -1,0 +1,15 @@
+<svg id="icons_Settings_Line" data-name="icons/Settings/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(4 2)">
+    <path id="E00427F1-F7AE-4DFA-AE0B-44F20B5E74ED" d="M1,0A1,1,0,0,1,2,1V12a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(14 7)" fill="#777e90"/>
+    <path id="_4A6129DF-0531-416A-8D62-F23F7A0BA77A" data-name="4A6129DF-0531-416A-8D62-F23F7A0BA77A" d="M1,0A1,1,0,0,1,2,1V4A1,1,0,0,1,0,4V1A1,1,0,0,1,1,0Z" transform="translate(14 0)" fill="#777e90"/>
+    <path id="_881E3778-09B5-431E-A7FE-4169481E2783" data-name="881E3778-09B5-431E-A7FE-4169481E2783" d="M2,1A1,1,0,0,0,0,1V12a1,1,0,0,0,2,0Z" transform="translate(7 0)" fill="#777e90"/>
+    <path id="_2DEFEF34-70F2-448A-A436-B5CDFEBAC9A9" data-name="2DEFEF34-70F2-448A-A436-B5CDFEBAC9A9" d="M2,1A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4Z" transform="translate(7 15)" fill="#777e90"/>
+    <path id="_5C0F77D2-4E13-4232-8AA1-72015FE8CB36" data-name="5C0F77D2-4E13-4232-8AA1-72015FE8CB36" d="M2,1A1,1,0,1,0,0,1V8A1,1,0,1,0,2,8Z" transform="translate(0 0)" fill="#777e90"/>
+    <path id="_74A95448-8B2A-4EBF-9D88-6C2BDD25A4E1" data-name="74A95448-8B2A-4EBF-9D88-6C2BDD25A4E1" d="M2,1A1,1,0,1,0,0,1V8A1,1,0,1,0,2,8Z" transform="translate(0 11)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 5)">
+    <path id="_83667EC9-8FB2-4767-AC71-04DEE84E5456" data-name="83667EC9-8FB2-4767-AC71-04DEE84E5456" d="M17,6a3,3,0,1,1,3-3A3,3,0,0,1,17,6Zm0-2a1,1,0,1,1,1-1A1,1,0,0,1,17,4Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_33C8AE59-2BF6-484C-9395-8E8BF8B9361E" data-name="33C8AE59-2BF6-484C-9395-8E8BF8B9361E" d="M7,11a3,3,0,1,0,3-3A3,3,0,0,0,7,11Zm2,0a1,1,0,1,0,1-1A1,1,0,0,0,9,11Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="D72BFDD7-6B7A-45C6-8827-0BB3089834EC" d="M0,7A3,3,0,1,0,3,4,3,3,0,0,0,0,7ZM2,7A1,1,0,1,0,3,6,1,1,0,0,0,2,7Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

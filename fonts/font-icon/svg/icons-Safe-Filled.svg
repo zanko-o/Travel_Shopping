@@ -1,0 +1,6 @@
+<svg id="icons_Safe_Filled" data-name="icons/Safe/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="CA00B117-4249-40AE-9AB9-D84569AF1298" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(9 8)" fill="#777e90"/>
+    <path id="F2261267-6E8A-450A-8E73-B9D00EEADAB6" d="M3,0A3,3,0,0,0,0,3V15a3,3,0,0,0,3,3v1a1,1,0,0,0,2,0V18H15v1a1,1,0,0,0,2,0V18a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Zm7,4A1,1,0,0,0,9,5V6.171A3.008,3.008,0,0,0,7.171,8H6a1,1,0,0,0,0,2H7.171A3.008,3.008,0,0,0,9,11.829V13a1,1,0,0,0,2,0V11.829A3.009,3.009,0,0,0,12.829,10H14a1,1,0,0,0,0-2H12.829A3.008,3.008,0,0,0,11,6.171V5A1,1,0,0,0,10,4Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="icons_Eraser_Filled" data-name="icons/Eraser/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,1,0H15a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(6 19)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(0.828 1.829)">
+    <path id="_30992FC8-6B9C-4B5F-A95B-3879F140DF97" data-name="30992FC8-6B9C-4B5F-A95B-3879F140DF97" d="M7.707.586l4.172,4.172a2,2,0,0,1,0,2.828L7.146,12.318a.5.5,0,0,1-.707,0L.146,6.025a.5.5,0,0,1,0-.707L4.879.586A2,2,0,0,1,7.707.586Z" transform="translate(7.879 0)" fill="#777e90"/>
+    <path id="EFB69945-E657-4CD3-B81C-656E86A2A6C3" d="M6.525.146a.5.5,0,0,0-.707,0L.586,5.379a2,2,0,0,0,0,2.828l2.707,2.707a3,3,0,0,0,2.121.879H8.172l4.647-4.647a.5.5,0,0,0,0-.707Z" transform="translate(0 7.379)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+<svg id="icons_Archive_Filled" data-name="icons/Archive/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M1,0A1,1,0,0,0,0,1V9a3,3,0,0,0,3,3H15a3,3,0,0,0,3-3V1a1,1,0,0,0-1-1ZM7,2A1,1,0,0,0,7,4h4a1,1,0,0,0,0-2Z" transform="translate(3 10)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V4a2,2,0,0,1-2,2H2A2,2,0,0,1,0,4Z" transform="translate(2 2)" fill="#777e90"/>
+</svg>

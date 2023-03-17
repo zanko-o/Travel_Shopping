@@ -1,0 +1,6 @@
+<svg id="icons_Megaphone_Line" data-name="icons/Megaphone/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,0A2.023,2.023,0,0,0,.016.315L.444,3.741a2.656,2.656,0,0,0,5.291-.329V.35a10,10,0,0,0-2-.276V3.411a.656.656,0,0,1-1.306.081L2,.067H.735A4.023,4.023,0,0,1,0,0Z" transform="translate(4.265 14.933)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M6.639,6.15H4a2,2,0,0,0,0,4H6.639a12,12,0,0,1,5.367,1.267l5.547,2.773A1,1,0,0,0,19,13.3V3a1,1,0,0,0-1.447-.894L12.006,4.883A12,12,0,0,1,6.639,6.15ZM4,4.15a4,4,0,0,0,0,8H6.639a10,10,0,0,1,4.472,1.056l5.547,2.773A3,3,0,0,0,21,13.3V3A3,3,0,0,0,16.658.321L11.111,3.094A10,10,0,0,1,6.639,4.15Z" transform="translate(1 2.85)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M2,9.163a10,10,0,0,0-2-.489V.489A10,10,0,0,0,2,0Z" transform="translate(9 6.418)" fill="#777e90"/>
+  <path id="Shape-4" data-name="Shape" d="M0,3.829A1.5,1.5,0,0,0,1,2.415v-1A1.5,1.5,0,0,0,0,0Z" transform="translate(22 9.085)" fill="#777e90"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="icons_Pause_Circle_Line" data-name="icons/Pause Circle/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 8)">
+    <path id="_1ACF2492-E1D9-4BAF-A5FE-939C57594292" data-name="1ACF2492-E1D9-4BAF-A5FE-939C57594292" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="A2BFFB8C-B9D3-4911-BEF4-E75AF73D9E5B" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" transform="translate(4)" fill="#777e90"/>
+  </g>
+</svg>

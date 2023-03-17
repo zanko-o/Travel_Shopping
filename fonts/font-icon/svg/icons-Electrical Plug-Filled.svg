@@ -1,0 +1,8 @@
+<svg id="icons_Electrical_Plug_Filled" data-name="icons/Electrical Plug/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12.5,2A1.5,1.5,0,0,0,11,3.5v11a5.5,5.5,0,0,1-11,0V13H2v1.5a3.5,3.5,0,0,0,7,0V3.5a3.5,3.5,0,0,1,7,0V19a1,1,0,0,1-2,0V3.5A1.5,1.5,0,0,0,12.5,2Z" transform="translate(22 6) rotate(90)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0,4A4,4,0,0,1,4,0H9a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1H4A4,4,0,0,1,0,6Z" transform="translate(9 2)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(19 4)">
+    <path id="A0E3C6D0-62FC-4C48-87CF-2D5FE52A48A3" d="M2,0H0V2H2A1,1,0,0,0,2,0Z" fill="#777e90"/>
+    <path id="_33D38153-540C-45E1-8016-B2ECAF08D3A9" data-name="33D38153-540C-45E1-8016-B2ECAF08D3A9" d="M2,0H0V2H2A1,1,0,0,0,2,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+</svg>

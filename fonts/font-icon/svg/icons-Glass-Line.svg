@@ -1,0 +1,8 @@
+<svg id="icons_Glass_Line" data-name="icons/Glass/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12.479,2H3A1,1,0,0,0,2,3.083l1.5,18A1,1,0,0,0,4.5,22h6.479a1,1,0,0,0,1-.917l1.5-18A1,1,0,0,0,12.479,2ZM3,0A3,3,0,0,0,.011,3.249l1.5,18A3,3,0,0,0,4.5,24h6.479a3,3,0,0,0,2.99-2.751l1.5-18A3,3,0,0,0,12.479,0Z" transform="translate(4.26)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 12)">
+    <path id="_001C9998-C5A1-4CD5-A7FA-EE828EE6DBC0" data-name="001C9998-C5A1-4CD5-A7FA-EE828EE6DBC0" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" fill="#777e90"/>
+    <path id="BC9028C0-F09B-4909-A097-61BEF3A74880" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 5)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M10.82,1.986a15.029,15.029,0,0,1-4.994-.934l-.017-.006A17.076,17.076,0,0,0,0,0L.167,2a15.029,15.029,0,0,1,4.993.934l.017.006a16.976,16.976,0,0,0,5.477,1.038Z" transform="translate(6.507 6.005)" fill="#777e90"/>
+</svg>

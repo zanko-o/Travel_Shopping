@@ -1,0 +1,5 @@
+<svg id="icons_Palette_Line" data-name="icons/Palette/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,18.757H11a3,3,0,0,0,3-3v-4a3,3,0,0,0-3-3l.879-.879a3,3,0,0,0,0-4.243L9.121.879a3,3,0,0,0-4.243,0L4,1.757H4V4.586L6.293,2.293a1,1,0,0,1,1.414,0L10.465,5.05a1,1,0,0,1,0,1.414L4,12.929v2.828l5-5h2a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1H3.83a3,3,0,0,1-2.829,2Z" transform="translate(8 3.243)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M7,2H3A1,1,0,0,0,2,3V17a1,1,0,0,0,1,1H7a1,1,0,0,0,1-1V3A1,1,0,0,0,7,2ZM3,0A3,3,0,0,0,0,3V17a3,3,0,0,0,3,3H7a3,3,0,0,0,3-3V3A3,3,0,0,0,7,0Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(6 16)" fill="#777e90"/>
+</svg>

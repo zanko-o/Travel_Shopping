@@ -1,0 +1,15 @@
+<svg id="icons_Phone_Filled" data-name="icons/Phone/Filled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icons_Phone_Filled_clip_mask_" data-name="icons/Phone/Filled (clip mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="icons_Phone_Filled_clip_mask_2" data-name="icons/Phone/Filled (clip mask)" width="24" height="24" fill="none"/>
+  <g id="Group_0" data-name="Group 0">
+    <g id="Mask_Group_56" data-name="Mask Group 56" clip-path="url(#clip-path)">
+      <g id="icons_Phone_Filled_clip_group_" data-name="icons/Phone/Filled (clip group)" transform="translate(-1.021 1.195)">
+        <path id="Shape" d="M7.694,24H5S0,22,0,12,5,0,5,0H7.694a2,2,0,0,1,1.98,2.283l-.429,3A2,2,0,0,1,7.265,7H5S4,8,4,12s1,5,1,5H7.265a2,2,0,0,1,1.98,1.717l.429,3A2,2,0,0,1,7.694,24Z" transform="translate(0 6.855) rotate(-45)" fill="#777e90"/>
+      </g>
+    </g>
+  </g>
+</svg>

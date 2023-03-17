@@ -1,0 +1,13 @@
+<svg id="icons_Brightness_Up_Filled" data-name="icons/Brightness Up/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="_2B7E70F0-2CEF-4B66-BC49-784C256C4AC2" data-name="2B7E70F0-2CEF-4B66-BC49-784C256C4AC2" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" transform="translate(9)" fill="#777e90"/>
+    <path id="_4647CD9B-0C97-4CA4-9FF0-DA3FAC136687" data-name="4647CD9B-0C97-4CA4-9FF0-DA3FAC136687" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" transform="translate(9 16)" fill="#777e90"/>
+    <path id="_288A245C-3E87-43F0-BBCA-36FAED57FFE9" data-name="288A245C-3E87-43F0-BBCA-36FAED57FFE9" d="M3,0A1,1,0,0,1,3,2H1A1,1,0,0,1,1,0Z" transform="translate(16 9)" fill="#777e90"/>
+    <path id="_32869D28-108F-42D7-A9A0-5D308F310E6B" data-name="32869D28-108F-42D7-A9A0-5D308F310E6B" d="M4,1A1,1,0,0,0,3,0H1A1,1,0,0,0,1,2H3A1,1,0,0,0,4,1Z" transform="translate(0 9)" fill="#777e90"/>
+    <path id="F01C48D1-E2D3-4A62-A597-5DAB29C495CE" d="M1.707.293A1,1,0,1,1,3.121,1.707L1.707,3.121A1,1,0,1,1,.293,1.707Z" transform="translate(13.95 2.636)" fill="#777e90"/>
+    <path id="A08D241C-2513-4D18-9AF9-AED244509280" d="M3.121.293a1,1,0,0,0-1.414,0L.293,1.707A1,1,0,0,0,1.707,3.121L3.121,1.707A1,1,0,0,0,3.121.293Z" transform="translate(2.636 13.95)" fill="#777e90"/>
+    <path id="_60723EBD-7E1F-4023-8BF8-56BFCDA2B774" data-name="60723EBD-7E1F-4023-8BF8-56BFCDA2B774" d="M3.121,1.707A1,1,0,0,1,1.707,3.121L.293,1.707A1,1,0,0,1,1.707.293Z" transform="translate(13.95 13.95)" fill="#777e90"/>
+    <path id="_02743FF7-6D64-4E6F-A2B4-6457B9416577" data-name="02743FF7-6D64-4E6F-A2B4-6457B9416577" d="M3.121,3.121a1,1,0,0,0,0-1.414L1.707.293A1,1,0,0,0,.293,1.707L1.707,3.121A1,1,0,0,0,3.121,3.121Z" transform="translate(2.636 2.636)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4Z" transform="translate(8 8)" fill="#777e90"/>
+</svg>

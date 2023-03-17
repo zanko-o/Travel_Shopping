@@ -1,0 +1,9 @@
+<svg id="icons_Bar_02_Down_Line" data-name="icons/Bar 02 Down/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(6 5)">
+    <path id="_338DE2E6-434B-44B5-8696-9F7D862EC163" data-name="338DE2E6-434B-44B5-8696-9F7D862EC163" d="M1,0A1,1,0,0,0,1,2H15a1,1,0,0,0,0-2Z" fill="#777e90"/>
+    <path id="_302245FD-4580-455C-9E33-FD71B82125A1" data-name="302245FD-4580-455C-9E33-FD71B82125A1" d="M1,0A1,1,0,0,0,1,2H7A1,1,0,0,0,7,0Z" transform="translate(0 12)" fill="#777e90"/>
+    <path id="_276BE89D-49F8-45B1-B628-D658A1892B6A" data-name="276BE89D-49F8-45B1-B628-D658A1892B6A" d="M0,1A1,1,0,0,1,1,0H11a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_2575ABBA-AF79-4015-BFA0-0870006D1EF9" data-name="2575ABBA-AF79-4015-BFA0-0870006D1EF9" d="M1,0A1,1,0,0,0,1,2H13a1,1,0,0,0,0-2Z" transform="translate(0 8)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M1,0A1,1,0,0,1,2,1V19a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(2 2)" fill="#777e90"/>
+</svg>

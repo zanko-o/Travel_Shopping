@@ -1,0 +1,9 @@
+<svg id="icons_Chart_Bar_Line" data-name="icons/Chart Bar/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M1,0A1,1,0,0,1,2,1V15a1,1,0,0,0,1,1H21a1,1,0,0,1,0,2H3a3,3,0,0,1-3-3V1A1,1,0,0,1,1,0Z" transform="translate(1 3)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(5 5)">
+    <path id="_392C3F83-0629-4397-982F-130EB86539EC" data-name="392C3F83-0629-4397-982F-130EB86539EC" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(12)" fill="#777e90"/>
+    <path id="AEE0FFBE-8C37-4482-9762-B824666D2CC7" d="M1,0A1,1,0,0,0,0,1V9A1,1,0,0,0,2,9V1A1,1,0,0,0,1,0Z" transform="translate(4 2)" fill="#777e90"/>
+    <path id="_4D6E825B-6CEC-4717-8B34-23A17B927966" data-name="4D6E825B-6CEC-4717-8B34-23A17B927966" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="EB1C7C06-AF9F-4461-BEE3-770B60EA80DF" d="M0,1A1,1,0,0,1,2,1V7A1,1,0,0,1,0,7Z" transform="translate(8 4)" fill="#777e90"/>
+  </g>
+</svg>

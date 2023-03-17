@@ -1,0 +1,8 @@
+<svg id="icons_Full_Screen_Line" data-name="icons/Full Screen/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="B2044E15-C03B-4160-99CE-13D8CA17F78B" d="M1,7A1,1,0,0,0,2,6V3A1,1,0,0,1,3,2H6A1,1,0,0,0,6,0H3A3,3,0,0,0,0,3V6A1,1,0,0,0,1,7Z" fill="#777e90"/>
+    <path id="_45C30E4C-E9C5-47AF-BC11-06B3E04ACBA1" data-name="45C30E4C-E9C5-47AF-BC11-06B3E04ACBA1" d="M2,1A1,1,0,0,0,0,1V4A3,3,0,0,0,3,7H6A1,1,0,0,0,6,5H3A1,1,0,0,1,2,4Z" transform="translate(0 13)" fill="#777e90"/>
+    <path id="_9262AC32-945E-4BA0-927F-13B0011842A0" data-name="9262AC32-945E-4BA0-927F-13B0011842A0" d="M5,1A1,1,0,0,1,7,1V4A3,3,0,0,1,4,7H1A1,1,0,0,1,1,5H4A1,1,0,0,0,5,4Z" transform="translate(13 13)" fill="#777e90"/>
+    <path id="_9334D3A4-7842-4DD4-9042-7F61F129EB59" data-name="9334D3A4-7842-4DD4-9042-7F61F129EB59" d="M5,6A1,1,0,0,0,7,6V3A3,3,0,0,0,4,0H1A1,1,0,0,0,1,2H4A1,1,0,0,1,5,3Z" transform="translate(13)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="icons_Shopping_Basket_Line" data-name="icons/Shopping Basket/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M2.771,2a.5.5,0,0,0-.493.582l.958,5.747A2,2,0,0,0,5.208,10h7.223A2,2,0,0,0,14.4,8.329l.958-5.747A.5.5,0,0,0,14.869,2ZM1,0A1,1,0,0,0,.014,1.164L1.263,8.658A4,4,0,0,0,5.208,12h7.223a4,4,0,0,0,3.946-3.342l1.249-7.493A1,1,0,0,0,16.639,0Z" transform="translate(3.18 10)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 14)">
+    <path id="_6572BBDC-4A05-4CF8-9E80-99DBEBA91E22" data-name="6572BBDC-4A05-4CF8-9E80-99DBEBA91E22" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_0ABDB013-947B-4196-BDA6-A0EFA2E16EC6" data-name="0ABDB013-947B-4196-BDA6-A0EFA2E16EC6" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" transform="translate(4)" fill="#777e90"/>
+  </g>
+  <g id="Shape-3" data-name="Shape" transform="translate(5 2)">
+    <path id="C4291DDB-4CA7-4269-93B9-36684B129748" d="M5.707,1.707A1,1,0,1,0,4.293.293l-4,4A1,1,0,0,0,1.707,5.707Z" transform="translate(0 0)" fill="#777e90"/>
+    <path id="_28805AB3-BFBF-4FDB-8EEB-597457A1D37C" data-name="28805AB3-BFBF-4FDB-8EEB-597457A1D37C" d="M.293,1.707A1,1,0,0,1,1.707.293l4,4A1,1,0,0,1,4.293,5.707Z" transform="translate(8 0)" fill="#777e90"/>
+  </g>
+  <path id="Shape-4" data-name="Shape" d="M17,2H3A1,1,0,0,0,3,4H17a1,1,0,0,0,0-2ZM3,0A3,3,0,0,0,3,6H17a3,3,0,0,0,0-6Z" transform="translate(2 6)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

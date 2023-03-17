@@ -1,0 +1,8 @@
+<svg id="icons_Backward_15_sec_Line" data-name="icons/Backward 15 sec/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9-2A6.9,6.9,0,0,1,2-9a6.9,6.9,0,0,1,7-7,6.9,6.9,0,0,1,7,7,1,1,0,0,0,1,1,1,1,0,0,0,1-1,8.9,8.9,0,0,0-9-9A8.9,8.9,0,0,0,0-9,8.9,8.9,0,0,0,9,0H19a1,1,0,0,0,1-1,1,1,0,0,0-1-1Z" transform="translate(23 3) rotate(180)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M2.293-.293a1,1,0,0,0,1.414,0l2-2a1,1,0,0,0,0-1.414,1,1,0,0,0-1.414,0L3-2.414,1.707-3.707a1,1,0,0,0-1.414,0,1,1,0,0,0,0,1.414Z" transform="translate(1 1) rotate(90)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(10 8)">
+    <path id="_4D52691C-E66C-43D2-BDD0-036CA73AD628" data-name="4D52691C-E66C-43D2-BDD0-036CA73AD628" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_17F36C39-EC62-4F78-BC28-A326B04DFEBC" data-name="17F36C39-EC62-4F78-BC28-A326B04DFEBC" d="M1.5,0A1.5,1.5,0,0,0,0,1.5v2A1.5,1.5,0,0,0,1.5,5H3V6H1A1,1,0,0,0,1,8H3.5A1.5,1.5,0,0,0,5,6.5v-2A1.5,1.5,0,0,0,3.5,3H2V2H4A1,1,0,0,0,4,0Z" transform="translate(3)" fill="#777e90"/>
+  </g>
+</svg>

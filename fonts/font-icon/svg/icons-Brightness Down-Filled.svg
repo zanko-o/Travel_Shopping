@@ -1,0 +1,13 @@
+<svg id="icons_Brightness_Down_Filled" data-name="icons/Brightness Down/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="DC37BEAD-58B2-421F-B501-86E02F48CC84" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(9)" fill="#777e90"/>
+    <path id="FAE952EF-1F49-48B6-A000-07F462ECD588" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(9 18)" fill="#777e90"/>
+    <path id="_73C48F00-53A3-4782-BAC5-DA670476F80D" data-name="73C48F00-53A3-4782-BAC5-DA670476F80D" d="M1,0A1,1,0,1,1,0,1,1,1,0,0,1,1,0Z" transform="translate(18 9)" fill="#777e90"/>
+    <path id="_572BCD09-D502-4DFA-86C1-9DD8E2D603FA" data-name="572BCD09-D502-4DFA-86C1-9DD8E2D603FA" d="M2,1A1,1,0,1,0,1,2,1,1,0,0,0,2,1Z" transform="translate(0 9)" fill="#777e90"/>
+    <path id="_6EA9AD54-ECB8-4757-B6DA-8D6D571A5DB7" data-name="6EA9AD54-ECB8-4757-B6DA-8D6D571A5DB7" d="M.293.293a1,1,0,1,1,0,1.414A1,1,0,0,1,.293.293Z" transform="translate(15.364 2.636)" fill="#777e90"/>
+    <path id="_558970C6-593E-44E0-8DD4-39AE93FFD8A2" data-name="558970C6-593E-44E0-8DD4-39AE93FFD8A2" d="M1.707.293a1,1,0,1,0,0,1.414A1,1,0,0,0,1.707.293Z" transform="translate(2.636 15.364)" fill="#777e90"/>
+    <path id="_15AFA11A-68DB-4FBB-A730-605F955CEFAC" data-name="15AFA11A-68DB-4FBB-A730-605F955CEFAC" d="M1.707.293a1,1,0,1,1-1.414,0A1,1,0,0,1,1.707.293Z" transform="translate(15.364 15.364)" fill="#777e90"/>
+    <path id="B4D72965-751F-4D75-A453-8DEA2BFE518B" d="M1.707,1.707a1,1,0,1,0-1.414,0A1,1,0,0,0,1.707,1.707Z" transform="translate(2.636 2.636)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4Z" transform="translate(8 8)" fill="#777e90"/>
+</svg>

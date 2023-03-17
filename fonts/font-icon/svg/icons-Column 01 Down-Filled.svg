@@ -1,0 +1,5 @@
+<svg id="icons_Column_01_Down_Filled" data-name="icons/Column 01 Down/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0-2A2,2,0,0,0,2,0,2,2,0,0,0,4-2V-8a2,2,0,0,0-2-2A2,2,0,0,0,0-8Z" transform="translate(22 12) rotate(180)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0-2A2,2,0,0,0,2,0,2,2,0,0,0,4-2V-12a2,2,0,0,0-2-2,2,2,0,0,0-2,2Z" transform="translate(14 8) rotate(180)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0-2A2,2,0,0,0,2,0,2,2,0,0,0,4-2V-18a2,2,0,0,0-2-2,2,2,0,0,0-2,2Z" transform="translate(6 2) rotate(180)" fill="#777e90"/>
+</svg>

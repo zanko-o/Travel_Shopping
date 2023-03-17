@@ -1,0 +1,3 @@
+<svg id="icons_Doughnut_Line" data-name="icons/Doughnut/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,20A10,10,0,1,0,0,10,10,10,0,0,0,10,20Zm6.32-5.094A8,8,0,0,0,11,2.062V6.126a4,4,0,0,1,2.446,5.906ZM14.906,16.32l-2.874-2.874a4,4,0,0,1-4.064,0L5.094,16.32a8,8,0,0,0,9.811,0ZM6,10a3.982,3.982,0,0,0,.554,2.032L3.68,14.906A8,8,0,0,1,9,2.062V6.126A4,4,0,0,0,6,10Zm4,2a2,2,0,1,0-2-2A2,2,0,0,0,10,12Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg id="icons_Design-grid_Line" data-name="icons/Design-grid/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M6,0A1,1,0,0,0,5,1V5H1A1,1,0,0,0,1,7H5v6H1a1,1,0,0,0,0,2H5v4a1,1,0,0,0,2,0V15h6v4a1,1,0,0,0,2,0V15h4a1,1,0,0,0,0-2H15V7h4a1,1,0,0,0,0-2H15V1a1,1,0,0,0-2,0V5H7V1A1,1,0,0,0,6,0Zm7,13V7H7v6Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M17,2H3A1,1,0,0,0,2,3V17a1,1,0,0,0,1,1H17a1,1,0,0,0,1-1V3A1,1,0,0,0,17,2ZM3,0A3,3,0,0,0,0,3V17a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

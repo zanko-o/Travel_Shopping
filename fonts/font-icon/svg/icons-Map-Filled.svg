@@ -1,0 +1,5 @@
+<svg id="icons_Map_Filled" data-name="icons/Map/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,18.256l2.424-.346A3,3,0,0,0,5,14.94V3A3,3,0,0,0,1.576.031L0,.256Z" transform="translate(17 3.458)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M6,20,0,18V0L6,2Z" transform="translate(9 2)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M2.576.346,5,0V18l-1.576.225A3,3,0,0,1,0,15.255V3.316A3,3,0,0,1,2.576.346Z" transform="translate(2 2.286)" fill="#777e90"/>
+</svg>

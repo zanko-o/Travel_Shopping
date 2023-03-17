@@ -1,0 +1,12 @@
+<svg id="icons_Loading_Line" data-name="icons/Loading/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="_996A303F-D5D5-4A78-BAA3-ACAE5DB1BBDA" data-name="996A303F-D5D5-4A78-BAA3-ACAE5DB1BBDA" d="M1,0A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4V1A1,1,0,0,0,1,0Z" transform="translate(9)" fill="#777e90"/>
+    <path id="_5B8C1D19-21E3-4E8D-84B1-5BC2D3507E7B" data-name="5B8C1D19-21E3-4E8D-84B1-5BC2D3507E7B" d="M1,0A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4V1A1,1,0,0,0,1,0Z" transform="translate(9 15)" fill="#777e90"/>
+    <path id="_863217E9-BC97-4253-B04F-2852E518EB61" data-name="863217E9-BC97-4253-B04F-2852E518EB61" d="M4,0A1,1,0,0,1,4,2H1A1,1,0,0,1,1,0Z" transform="translate(15 9)" fill="#777e90"/>
+    <path id="_40B246AB-5ECB-4F61-B4AF-8CF5185DB076" data-name="40B246AB-5ECB-4F61-B4AF-8CF5185DB076" d="M5,1A1,1,0,0,0,4,0H1A1,1,0,0,0,1,2H4A1,1,0,0,0,5,1Z" transform="translate(0 9)" fill="#777e90"/>
+    <path id="_6DFC9841-9576-4C02-A863-8E215B9C8787" data-name="6DFC9841-9576-4C02-A863-8E215B9C8787" d="M2.414.293A1,1,0,0,1,3.828,1.707L1.707,3.828A1,1,0,0,1,.293,2.414Z" transform="translate(13.243 2.636)" fill="#777e90"/>
+    <path id="_7748EE21-4320-4625-B794-495B84D7B8CE" data-name="7748EE21-4320-4625-B794-495B84D7B8CE" d="M3.828.293a1,1,0,0,0-1.414,0L.293,2.414A1,1,0,0,0,1.707,3.828L3.828,1.707A1,1,0,0,0,3.828.293Z" transform="translate(2.636 13.243)" fill="#777e90"/>
+    <path id="ED3A5AB7-DA24-45A5-84F6-D34519A524B9" d="M3.828,2.414A1,1,0,0,1,2.414,3.828L.293,1.707A1,1,0,0,1,1.707.293Z" transform="translate(13.243 13.243)" fill="#777e90"/>
+    <path id="EBEAD9AC-770D-449D-90A6-C4B5EDB67602" d="M3.828,3.828a1,1,0,0,0,0-1.414L1.707.293A1,1,0,0,0,.293,1.707L2.414,3.828A1,1,0,0,0,3.828,3.828Z" transform="translate(2.636 2.636)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="icons_Line_01_Up_Filled" data-name="icons/Line 01 Up/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M19.581.186a1,1,0,0,1,.233,1.395l-5,7a1,1,0,0,1-1.261.313L6.317,5.277l-4.5,6.3A1,1,0,1,1,.186,10.419l5-7a1,1,0,0,1,1.261-.313l7.236,3.618,4.5-6.3A1,1,0,0,1,19.581.186Z" transform="translate(2 6)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(0 4)">
+    <path id="E2FEA412-649B-467D-A01D-566B8B54125C" d="M3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" transform="translate(18)" fill="#777e90"/>
+    <path id="_7998C9A2-B621-4D1A-8AE8-A2A55F9741ED" data-name="7998C9A2-B621-4D1A-8AE8-A2A55F9741ED" d="M3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" transform="translate(5 3)" fill="#777e90"/>
+    <path id="A1A843A2-4E43-4576-A433-BAEA3CF4BCDC" d="M3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" transform="translate(0 10)" fill="#777e90"/>
+    <path id="_97CAB7CE-6323-45C4-AB86-952E3351F939" data-name="97CAB7CE-6323-45C4-AB86-952E3351F939" d="M6,3A3,3,0,1,1,3,0,3,3,0,0,1,6,3Z" transform="translate(13 7)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="icons_Pie_03_Line" data-name="icons/Pie 03/Line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icons_Pie_03_Line_clip_mask_" data-name="icons/Pie 03/Line (clip mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="icons_Pie_03_Line_clip_mask_2" data-name="icons/Pie 03/Line (clip mask)" width="24" height="24" fill="none"/>
+  <g id="Group_5" data-name="Group 5">
+    <g id="Mask_Group_61" data-name="Mask Group 61" clip-path="url(#clip-path)">
+      <g id="icons_Pie_03_Line_clip_group_" data-name="icons/Pie 03/Line (clip group)" transform="translate(2 2.431)">
+        <path id="Shape" d="M15.708,7A7,7,0,1,0,2.842,12.329L7.293,7.879A3,3,0,0,1,9.414,7Zm2.236,1A.919.919,0,0,1,17,9H9.414a1,1,0,0,0-.707.293L3.343,14.657a.919.919,0,0,1-1.374-.038A9,9,0,1,1,17.944,8Z" transform="translate(23.728 10.569) rotate(135)" fill="#777e90" fill-rule="evenodd"/>
+        <path id="Shape-2" data-name="Shape" d="M12.655,7A7,7,0,0,0,2.617,2.842L6.775,7Zm2.236,1a.919.919,0,0,1-.945,1H6.361a1,1,0,0,1-.707-.293L.289,3.343A.919.919,0,0,1,.327,1.97,9,9,0,0,1,14.891,8Z" transform="translate(0 15.515) rotate(-90)" fill="#777e90" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

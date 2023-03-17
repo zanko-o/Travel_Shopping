@@ -1,0 +1,8 @@
+<svg id="icons_Controller_Line" data-name="icons/Controller/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M15,12l.6.828a2.826,2.826,0,0,0,5.1-2l-.774-6.2A3,3,0,0,0,16.946,2H5.774A3,3,0,0,0,2.8,4.628l-.774,6.2a2.826,2.826,0,0,0,5.1,2l.6-.828Zm-1.022,2a4.826,4.826,0,0,0,8.7-3.424l-.774-6.2A5,5,0,0,0,16.946,0H5.774A5,5,0,0,0,.812,4.38l-.774,6.2A4.826,4.826,0,0,0,8.739,14Z" transform="translate(0.64 4)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M3,0A1,1,0,0,0,2,1V2H1A1,1,0,0,0,1,4H2V5A1,1,0,0,0,4,5V4H5A1,1,0,0,0,5,2H4V1A1,1,0,0,0,3,0Z" transform="translate(5 8)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(15 8)">
+    <path id="_6210432E-4661-4FEE-81F3-6D3B058E43F8" data-name="6210432E-4661-4FEE-81F3-6D3B058E43F8" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(2)" fill="#777e90"/>
+    <path id="_226BC51A-7B9D-4A82-83CA-8416D539EC1B" data-name="226BC51A-7B9D-4A82-83CA-8416D539EC1B" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+</svg>

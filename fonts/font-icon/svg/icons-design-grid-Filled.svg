@@ -1,0 +1,13 @@
+<svg id="icons_design-grid_Filled" data-name="icons/design-grid/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="E30B81BC-4703-4E4B-8F50-56984DCBF196" d="M0,2A2,2,0,0,1,2,0H4.5A.5.5,0,0,1,5,.5v4a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,4.5Z" fill="#777e90"/>
+    <path id="_1434C2E7-C53B-498B-AC5F-76DE43B14B77" data-name="1434C2E7-C53B-498B-AC5F-76DE43B14B77" d="M0,.5A.5.5,0,0,1,.5,0h4A.5.5,0,0,1,5,.5v5a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,5.5Z" transform="translate(0 7)" fill="#777e90"/>
+    <path id="CAFD3CA2-5FF3-4117-B381-FC9862947FF8" d="M.5,0A.5.5,0,0,0,0,.5V3A2,2,0,0,0,2,5H4.5A.5.5,0,0,0,5,4.5V.5A.5.5,0,0,0,4.5,0Z" transform="translate(0 15)" fill="#777e90"/>
+    <path id="_62E71C1E-311D-420A-88A8-276DDBD03ABC" data-name="62E71C1E-311D-420A-88A8-276DDBD03ABC" d="M.5,0A.5.5,0,0,0,0,.5v4A.5.5,0,0,0,.5,5h5A.5.5,0,0,0,6,4.5V.5A.5.5,0,0,0,5.5,0Z" transform="translate(7 15)" fill="#777e90"/>
+    <path id="D962E7EE-34E8-4771-8D87-5AE6F5C0AE0D" d="M.5,0A.5.5,0,0,0,0,.5v4A.5.5,0,0,0,.5,5H3A2,2,0,0,0,5,3V.5A.5.5,0,0,0,4.5,0Z" transform="translate(15 15)" fill="#777e90"/>
+    <path id="FC5A8970-6A65-4F48-A64D-D49D6A20BA9E" d="M5,5.5a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,5.5V.5A.5.5,0,0,1,.5,0h4A.5.5,0,0,1,5,.5Z" transform="translate(15 7)" fill="#777e90"/>
+    <path id="_2DFE7615-0CCA-44BD-9059-E1A28D7590AD" data-name="2DFE7615-0CCA-44BD-9059-E1A28D7590AD" d="M6,5.5a.5.5,0,0,1-.5.5H.5A.5.5,0,0,1,0,5.5V.5A.5.5,0,0,1,.5,0h5A.5.5,0,0,1,6,.5Z" transform="translate(7 7)" fill="#777e90"/>
+    <path id="EA82FA9F-3B60-4B34-BB8E-1FCA12AA271A" d="M0,4.5A.5.5,0,0,0,.5,5h5A.5.5,0,0,0,6,4.5V.5A.5.5,0,0,0,5.5,0H.5A.5.5,0,0,0,0,.5Z" transform="translate(7)" fill="#777e90"/>
+    <path id="_09C737DF-7EF8-4276-AD65-7F9679117B89" data-name="09C737DF-7EF8-4276-AD65-7F9679117B89" d="M0,4.5A.5.5,0,0,0,.5,5h4A.5.5,0,0,0,5,4.5V2A2,2,0,0,0,3,0H.5A.5.5,0,0,0,0,.5Z" transform="translate(15)" fill="#777e90"/>
+  </g>
+</svg>

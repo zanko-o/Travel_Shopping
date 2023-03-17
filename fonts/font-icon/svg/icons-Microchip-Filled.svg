@@ -1,0 +1,14 @@
+<svg id="icons_Microchip_Filled" data-name="icons/Microchip/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M2,0A2,2,0,0,0,0,2V12a2,2,0,0,0,2,2H12a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2ZM4,5A1,1,0,0,1,5,4H9a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1H5A1,1,0,0,1,4,9Z" transform="translate(5 5)" fill="#777e90" fill-rule="evenodd"/>
+  <rect id="Shape-2" data-name="Shape" width="2" height="2" transform="translate(11 11)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(2 2)">
+    <path id="_49BEB407-F810-4A60-9BB0-AC8C5C09CFD3" data-name="49BEB407-F810-4A60-9BB0-AC8C5C09CFD3" d="M1,0A1,1,0,0,0,0,1V3H2V1A1,1,0,0,0,1,0Z" transform="translate(6)" fill="#777e90"/>
+    <path id="D454B39D-5411-4A89-A06F-8AA9753677BE" d="M2,2V0H0V2A1,1,0,0,0,2,2Z" transform="translate(6 17)" fill="#777e90"/>
+    <path id="FC9D6499-6019-4F64-AD4B-63A9FFBF7C24" d="M0,1A1,1,0,0,1,2,1V3H0Z" transform="translate(12)" fill="#777e90"/>
+    <path id="C12783B7-BAF0-4DF2-B7EA-F1DACEF469CF" d="M2,2V0H0V2A1,1,0,0,0,2,2Z" transform="translate(12 17)" fill="#777e90"/>
+    <path id="_13F17496-F7D1-42D5-96ED-1ED53DDDB0C0" data-name="13F17496-F7D1-42D5-96ED-1ED53DDDB0C0" d="M2,0A1,1,0,0,1,2,2H0V0Z" transform="translate(17 6)" fill="#777e90"/>
+    <path id="F74F4CFB-C33A-4F90-8578-004E1719D912" d="M1,2H3V0H1A1,1,0,0,0,1,2Z" transform="translate(0 6)" fill="#777e90"/>
+    <path id="ECAC3DB9-3464-44B7-9E2B-466DA0452C69" d="M2,0A1,1,0,0,1,2,2H0V0Z" transform="translate(17 12)" fill="#777e90"/>
+    <path id="_4DA03D59-EEB8-4AE1-B15D-C809CCA9272D" data-name="4DA03D59-EEB8-4AE1-B15D-C809CCA9272D" d="M1,2H3V0H1A1,1,0,0,0,1,2Z" transform="translate(0 12)" fill="#777e90"/>
+  </g>
+</svg>

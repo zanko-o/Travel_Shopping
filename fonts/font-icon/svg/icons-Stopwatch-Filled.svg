@@ -1,0 +1,7 @@
+<svg id="icons_Stopwatch_Filled" data-name="icons/Stopwatch/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M18,9A9,9,0,1,1,9,0,9,9,0,0,1,18,9ZM9,4A1,1,0,0,0,8,5V9a1,1,0,0,0,2,0V5A1,1,0,0,0,9,4Z" transform="translate(3 5)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 1)">
+    <path id="_785CDB29-4980-4253-854D-324F8A3C326D" data-name="785CDB29-4980-4253-854D-324F8A3C326D" d="M1,0A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" fill="#777e90"/>
+    <path id="_2BB86D85-086E-4852-9BB8-83A21920BE33" data-name="2BB86D85-086E-4852-9BB8-83A21920BE33" d="M1.707.293A1,1,0,0,0,.293,1.707l1,1A1,1,0,0,0,2.707,1.293Z" transform="translate(10 3)" fill="#777e90"/>
+  </g>
+</svg>

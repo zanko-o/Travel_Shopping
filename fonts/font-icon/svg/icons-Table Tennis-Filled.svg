@@ -1,0 +1,8 @@
+<svg id="icons_Table_Tennis_Filled" data-name="icons/Table Tennis/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M4,4V1A1,1,0,0,0,3,0H1A1,1,0,0,0,0,1V4A2,2,0,0,0,4,4Z" transform="translate(10 18)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(4)">
+    <path id="_98B69B1B-B7BF-4452-B5FC-FF56F18E265C" data-name="98B69B1B-B7BF-4452-B5FC-FF56F18E265C" d="M9.574.935A.542.542,0,0,0,9.261.1,8.006,8.006,0,0,0,.355,10.365a.927.927,0,0,0,.9.635H14.745a.927.927,0,0,0,.9-.635A8.064,8.064,0,0,0,15.9,6.739a.542.542,0,0,0-.836-.313A4,4,0,0,1,9.574.935Z" fill="#777e90"/>
+    <path id="_79574717-EBCA-434E-BA39-9FA85F4008EC" data-name="79574717-EBCA-434E-BA39-9FA85F4008EC" d="M10.887,0a.448.448,0,0,1,.339.768A7.973,7.973,0,0,1,5.683,3,7.973,7.973,0,0,1,.14.768.448.448,0,0,1,.479,0Z" transform="translate(2.317 13)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(15 1)" fill="#777e90"/>
+</svg>

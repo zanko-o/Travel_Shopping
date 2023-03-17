@@ -1,0 +1,9 @@
+<svg id="icons_Medical_Chart_Line" data-name="icons/Medical Chart/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,1a1,1,0,0,0,1,1h3a2,2,0,0,1,2,2V16a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2H7A1,1,0,0,0,7,0H4A4,4,0,0,0,0,4V16a4,4,0,0,0,4,4H14a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4H11A1,1,0,0,0,10,1Z" transform="translate(3 3)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M2,3A1,1,0,1,0,3,2,1,1,0,0,0,2,3ZM3,0A3,3,0,1,0,6,3,3,3,0,0,0,3,0Z" transform="translate(9 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(7 9)">
+    <path id="_55056646-2823-4690-A102-C54F10793F96" data-name="55056646-2823-4690-A102-C54F10793F96" d="M1,0A1,1,0,0,0,1,2H9A1,1,0,0,0,9,0Z" fill="#777e90"/>
+    <path id="_0A5F28FD-51F3-43CD-98CD-DE5EFB739E7E" data-name="0A5F28FD-51F3-43CD-98CD-DE5EFB739E7E" d="M0,1A1,1,0,0,1,1,0H9A1,1,0,0,1,9,2H1A1,1,0,0,1,0,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_7BA63481-7AAE-416D-B048-1D6AF3958EEF" data-name="7BA63481-7AAE-416D-B048-1D6AF3958EEF" d="M0,1A1,1,0,0,1,1,0H5A1,1,0,0,1,5,2H1A1,1,0,0,1,0,1Z" transform="translate(0 8)" fill="#777e90"/>
+  </g>
+</svg>

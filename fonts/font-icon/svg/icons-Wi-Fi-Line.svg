@@ -1,0 +1,8 @@
+<svg id="icons_Wi-Fi_Line" data-name="icons/Wi-Fi/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(10 18)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(1 3)">
+    <path id="_7F05F8D0-AB2C-4F35-9C18-FF2E125CC89B" data-name="7F05F8D0-AB2C-4F35-9C18-FF2E125CC89B" d="M.191,4.841a1,1,0,0,1,.22-1.4,18,18,0,0,1,21.176,0,1,1,0,1,1-1.177,1.617,16,16,0,0,0-18.823,0A1,1,0,0,1,.191,4.841Z" transform="translate(0)" fill="#777e90"/>
+    <path id="_2B4DA69B-DF81-4FA7-9492-598E3977B44D" data-name="2B4DA69B-DF81-4FA7-9492-598E3977B44D" d="M3.025.99A13,13,0,0,1,15.583,2.441a1,1,0,1,1-1.167,1.624,11,11,0,0,0-12.833,0A1,1,0,0,1,.417,2.441,13,13,0,0,1,3.025.99Z" transform="translate(3 5)" fill="#777e90"/>
+    <path id="_132FFE79-981F-4A13-85B7-F3B90683F351" data-name="132FFE79-981F-4A13-85B7-F3B90683F351" d="M.381,1.714A1,1,0,1,0,1.619,3.286a6,6,0,0,1,7.423,0,1,1,0,0,0,1.237-1.571,8,8,0,0,0-9.9,0Z" transform="translate(5.67 10)" fill="#777e90"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="icons_Сalculator_Line" data-name="icons/Сalculator/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M14,2H4A2,2,0,0,0,2,4V18a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2V4A2,2,0,0,0,14,2ZM4,0A4,4,0,0,0,0,4V18a4,4,0,0,0,4,4H14a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(7 5)">
+    <path id="_35EE6791-9198-4FBE-ABE2-339E63D252A9" data-name="35EE6791-9198-4FBE-ABE2-339E63D252A9" d="M1,0A1,1,0,0,0,1,2H9A1,1,0,0,0,9,0Z" fill="#777e90"/>
+    <path id="F4464780-DCB1-4E98-9785-F35ECDB10BDF" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_64B82FE4-2AB7-4A10-9A53-DF45EF4D9B42" data-name="64B82FE4-2AB7-4A10-9A53-DF45EF4D9B42" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 4)" fill="#777e90"/>
+    <path id="C627C7CF-14C3-4B64-B423-6A39082A950A" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="_0145534A-C237-481B-BA1D-68721A4AFD9F" data-name="0145534A-C237-481B-BA1D-68721A4AFD9F" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="ED284EA6-515D-404B-BEDB-CDEA0A5C8FF1" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(4 8)" fill="#777e90"/>
+    <path id="F842E1E7-2758-48DB-AE29-4EB015D3BEF3" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 8)" fill="#777e90"/>
+    <path id="_3E3CD48A-E16F-4F8B-BE74-393E8C5EBE03" data-name="3E3CD48A-E16F-4F8B-BE74-393E8C5EBE03" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 12)" fill="#777e90"/>
+    <path id="_856F53A9-90F0-45A5-89C0-E1C3A070EFD6" data-name="856F53A9-90F0-45A5-89C0-E1C3A070EFD6" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 12)" fill="#777e90"/>
+    <path id="_0A199F01-CADD-454D-A274-31BE4B358769" data-name="0A199F01-CADD-454D-A274-31BE4B358769" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(8 12)" fill="#777e90"/>
+  </g>
+</svg>

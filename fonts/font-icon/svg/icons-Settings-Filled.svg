@@ -1,0 +1,15 @@
+<svg id="icons_Settings_Filled" data-name="icons/Settings/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(4 2)">
+    <path id="AC176172-2B08-4B05-96C7-712064E0F7EB" d="M2,1A1,1,0,0,0,0,1V8A1,1,0,0,0,2,8Z" transform="translate(14 11)" fill="#777e90"/>
+    <path id="_3FF07E5C-7467-4C23-9589-0C948EB1D59D" data-name="3FF07E5C-7467-4C23-9589-0C948EB1D59D" d="M1,0A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2V1A1,1,0,0,1,1,0Z" transform="translate(14 0)" fill="#777e90"/>
+    <path id="_6957FC0E-EA07-4EB1-83F8-FC89C0F3D116" data-name="6957FC0E-EA07-4EB1-83F8-FC89C0F3D116" d="M2,1A1,1,0,0,0,0,1V2A1,1,0,0,0,2,2Z" transform="translate(7 17)" fill="#777e90"/>
+    <path id="D5AB989C-DDBC-4D3C-9514-3822286BE4E2" d="M1,0A1,1,0,0,1,2,1V8A1,1,0,1,1,0,8V1A1,1,0,0,1,1,0Z" transform="translate(7 0)" fill="#777e90"/>
+    <path id="_1D5EE51E-1586-4B8D-B4ED-C0096F9F867A" data-name="1D5EE51E-1586-4B8D-B4ED-C0096F9F867A" d="M2,1A1,1,0,1,0,0,1V5A1,1,0,1,0,2,5Z" transform="translate(0 14)" fill="#777e90"/>
+    <path id="DDC62ABD-5B5B-4CDA-9868-19326D059E78" d="M2,1A1,1,0,1,0,0,1V5A1,1,0,1,0,2,5Z" transform="translate(0 0)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(3 7)">
+    <path id="_78F59945-1675-48C5-8EF1-5E9D0CAE23FE" data-name="78F59945-1675-48C5-8EF1-5E9D0CAE23FE" d="M2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(14 0)" fill="#777e90"/>
+    <path id="_2B65C9F2-DB62-4C89-95B9-58C8BAA97A71" data-name="2B65C9F2-DB62-4C89-95B9-58C8BAA97A71" d="M0,2A2,2,0,1,0,2,0,2,2,0,0,0,0,2Z" transform="translate(7 6)" fill="#777e90"/>
+    <path id="BF74CB9C-CDD7-4CED-A4F3-E3C9982D32B4" d="M0,2A2,2,0,1,0,2,0,2,2,0,0,0,0,2Z" transform="translate(0 3)" fill="#777e90"/>
+  </g>
+</svg>

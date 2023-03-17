@@ -1,0 +1,5 @@
+<svg id="icons_Calendar_Line" data-name="icons/Calendar/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M17,2H3A1,1,0,0,0,2,3V15a1,1,0,0,0,1,1H17a1,1,0,0,0,1-1V3A1,1,0,0,0,17,2ZM3,0A3,3,0,0,0,0,3V15a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(2 4)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M4,0A1,1,0,0,0,4,2h7a1,1,0,0,0,0-2ZM1,4A1,1,0,0,0,1,6H7A1,1,0,0,0,7,4Z" transform="translate(6 12)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M1,0A1,1,0,0,0,0,1V5A1,1,0,0,0,2,5V1A1,1,0,0,0,1,0ZM11,0a1,1,0,0,0-1,1V5a1,1,0,0,0,2,0V1A1,1,0,0,0,11,0Z" transform="translate(6 2)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg id="icons_Archive_Line" data-name="icons/Archive/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M16,2H2v8a2,2,0,0,0,2,2H14a2,2,0,0,0,2-2ZM0,0V10a4,4,0,0,0,4,4H14a4,4,0,0,0,4-4V0Z" transform="translate(3 8)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,1,0H5A1,1,0,0,1,5,2H1A1,1,0,0,1,0,1Z" transform="translate(9 12)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M17,2H3A1,1,0,0,0,2,3V5A1,1,0,0,0,3,6H17a1,1,0,0,0,1-1V3A1,1,0,0,0,17,2ZM3,0A3,3,0,0,0,0,3V5A3,3,0,0,0,3,8H17a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

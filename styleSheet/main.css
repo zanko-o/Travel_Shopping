@@ -1,0 +1,231 @@
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 20px;
+}
+
+.right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.right .suport-link {
+  font-size: 14px;
+  color: #777e90;
+  font-weight: 700;
+}
+
+.right .btn-Language {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.right .btn-Language {
+  margin-left: 45px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #777e90;
+}
+
+.right .btn-Language i {
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+.right .btn-header {
+  border: 2px solid #e6e8ec;
+  border-radius: 90px;
+  padding: 10px 22px;
+  margin-left: 45px;
+  font-size: 14px;
+  color: #23262f;
+  font-weight: 700;
+}
+
+.right .btn-header i {
+  margin-right: 13px;
+}
+
+.right .Notifications {
+  position: relative;
+  margin-left: 35px;
+}
+
+.right .Notifications i {
+  font-size: 21px;
+}
+
+.right .Notifications > span {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  background: #58c27d;
+  border-radius: 50%;
+  top: -10px;
+  right: -10px;
+}
+
+.right .profile-pic {
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-left: 34px;
+}
+
+.right .profile-pic img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.left .logo {
+  padding-right: 44px;
+  border-right: 1px solid #e6e8ec;
+}
+
+.left .logo a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.left .logo span {
+  font-size: 27px;
+  font-family: 'Poppins';
+  color: #23262F;
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.left .btn-travelers {
+  padding-left: 40px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #777e90;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.left .btn-travelers:hover {
+  color: #23262f;
+}
+
+.left .btn-travelers:hover > i::before {
+  color: #23262f;
+}
+
+.left .btn-travelers > i {
+  font-size: 22px;
+  margin-left: 5.5px;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.left .btn-travelers.show {
+  color: #23262f;
+}
+
+.left .btn-travelers.show > i {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.left .btn-travelers.show > i::before {
+  color: #23262f;
+}
+
+.left .btn-travelers .travelers-dropdown {
+  position: absolute;
+  top: 200%;
+  padding: 30px 16px;
+  left: 0;
+  width: 260px;
+  max-width: 292px;
+  border-radius: 20px;
+  background: #fcfcfd;
+  -webkit-box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+          box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+  display: none;
+}
+
+.left .btn-travelers .travelers-dropdown li {
+  padding: 14px 21px;
+  border-radius: 24px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.left .btn-travelers .travelers-dropdown li:hover {
+  background: #23262f;
+}
+
+.left .btn-travelers .travelers-dropdown li:hover a span {
+  color: #e6e8ec;
+}
+
+.left .btn-travelers .travelers-dropdown li:hover a i::before {
+  color: #e6e8ec;
+}
+
+.left .btn-travelers .travelers-dropdown li a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.left .btn-travelers .travelers-dropdown li a span {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  white-space: nowrap;
+}
+
+.left .btn-travelers .travelers-dropdown li a i {
+  font-size: 20px;
+  margin-right: 14px;
+}
+
+.left .btn-travelers .travelers-dropdown li a i::before {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.left .btn-travelers .travelers-dropdown.show {
+  display: block;
+}
+/*# sourceMappingURL=main.css.map */

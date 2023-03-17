@@ -1,0 +1,5 @@
+<svg id="icons_Globe_Line" data-name="icons/Globe/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M6.747,16.177A14.247,14.247,0,0,0,8,10,14.248,14.248,0,0,0,6.747,3.823C5.948,2.226,5.215,2,5,2s-.948.226-1.747,1.823A14.248,14.248,0,0,0,2,10a14.247,14.247,0,0,0,1.253,6.177C4.052,17.774,4.785,18,5,18S5.948,17.774,6.747,16.177ZM5,20c2.761,0,5-4.477,5-10S7.761,0,5,0,0,4.477,0,10,2.239,20,5,20Z" transform="translate(7 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M19.951,2Q20,1.507,20,1t-.049-1H.049Q0,.493,0,1T.049,2Z" transform="translate(2 11)" fill="#777e90"/>
+</svg>

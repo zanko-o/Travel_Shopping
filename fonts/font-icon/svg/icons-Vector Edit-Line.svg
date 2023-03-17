@@ -1,0 +1,14 @@
+<svg id="icons_Vector_Edit_Line" data-name="icons/Vector Edit/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3.35 5)">
+    <path id="A1E4F9EA-DF1E-4CBF-9693-64E9E886FDEA" d="M1,0A1,1,0,0,0,1,2H9A1,1,0,0,0,9,0Z" transform="translate(3.65)" fill="#777e90"/>
+    <path id="AE737D76-076B-4349-A6BF-0178E417B6B9" d="M1,0A1,1,0,0,0,1,2H13a1,1,0,0,0,0-2Z" transform="translate(1.65 12)" fill="#777e90"/>
+    <path id="_162DCA05-6561-46F3-B78E-859A10E8AD38" data-name="162DCA05-6561-46F3-B78E-859A10E8AD38" d="M2.461.013a1,1,0,0,1,.827,1.147l-1.3,8A1,1,0,1,1,.013,8.84l1.3-8A1,1,0,0,1,2.461.013Z" transform="translate(0 2)" fill="#777e90"/>
+    <path id="_4682BFCB-03EF-4972-91A0-766A67C57D7D" data-name="4682BFCB-03EF-4972-91A0-766A67C57D7D" d="M.013,1.161A1,1,0,1,1,1.987.84l1.3,8a1,1,0,1,1-1.974.321Z" transform="translate(14 2)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(1 3)">
+    <path id="_227096C0-F1E0-442B-BA58-1B5D72B6B327" data-name="227096C0-F1E0-442B-BA58-1B5D72B6B327" d="M20,3a3,3,0,1,1-3-3A3,3,0,0,1,20,3ZM18,3a1,1,0,1,1-1-1A1,1,0,0,1,18,3Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_3A246106-4190-4E53-ABFC-513F033BC05D" data-name="3A246106-4190-4E53-ABFC-513F033BC05D" d="M22,15a3,3,0,1,1-3-3A3,3,0,0,1,22,15Zm-2,0a1,1,0,1,1-1-1A1,1,0,0,1,20,15Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="C9EC0C2C-488D-4F74-A0E3-B7813B7E032B" d="M3,18a3,3,0,1,0-3-3A3,3,0,0,0,3,18Zm0-2a1,1,0,1,0-1-1A1,1,0,0,0,3,16Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="F2EC3B63-9C9E-4081-A54B-504CB7560606" d="M8,3A3,3,0,1,1,5,0,3,3,0,0,1,8,3ZM6,3A1,1,0,1,1,5,2,1,1,0,0,1,6,3Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="icons_Phone_Line" data-name="icons/Phone/Line" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icons_Phone_Line_clip_mask_" data-name="icons/Phone/Line (clip mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="icons_Phone_Line_clip_mask_2" data-name="icons/Phone/Line (clip mask)" width="24" height="24" fill="none"/>
+  <g id="Group_4" data-name="Group 4">
+    <g id="Mask_Group_60" data-name="Mask Group 60" clip-path="url(#clip-path)">
+      <g id="icons_Phone_Line_clip_group_" data-name="icons/Phone/Line (clip group)" transform="translate(-1.5 0.231)">
+        <path id="Shape" d="M8.694,0a3,3,0,0,1,2.97,3.424l-.429,3A3,3,0,0,1,8.265,9H6.37A8.041,8.041,0,0,0,6,12a8.042,8.042,0,0,0,.37,3h1.9a3,3,0,0,1,2.97,2.576l.429,3A3,3,0,0,1,8.694,24H7.01a6.146,6.146,0,0,1-3.685-1.638C1.552,20.738,0,17.678,0,12S1.552,3.262,3.324,1.638A5.662,5.662,0,0,1,7.01.008C8,0,8.128,0,8.694,0ZM4.676,3.112C3.448,4.238,2,6.678,2,12s1.448,7.762,2.676,8.888A3.959,3.959,0,0,0,7.01,22H8.694a1,1,0,0,0,.99-1.141l-.429-3A1,1,0,0,0,8.265,17C7.516,17,7,17,6,17c-2.077,0-2-3.644-2-5,0-1.248-.064-4.988,2-5H8.265a1,1,0,0,0,.99-.859l.429-3A1,1,0,0,0,8.694,2C8.134,2,7.5,2,7.01,2A3.365,3.365,0,0,0,4.676,3.112Z" transform="translate(0 8.269) rotate(-45)" fill="#777e90" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

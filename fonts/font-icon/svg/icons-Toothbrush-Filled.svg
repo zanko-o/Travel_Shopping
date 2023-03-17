@@ -1,0 +1,8 @@
+<svg id="icons_Toothbrush_Filled" data-name="icons/Toothbrush/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M15.707.293a1,1,0,0,1,0,1.414l-14,14A1,1,0,1,1,.293,14.293l14-14A1,1,0,0,1,15.707.293Z" transform="translate(5 5)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 1)">
+    <path id="_0A8BC5AD-ED9D-417D-BDCA-492317B70CF3" data-name="0A8BC5AD-ED9D-417D-BDCA-492317B70CF3" d="M.293.293a1,1,0,0,1,1.414,0l2.5,2.5A1,1,0,0,1,2.793,4.207l-2.5-2.5A1,1,0,0,1,.293.293Z" transform="translate(5 0)" fill="#777e90"/>
+    <path id="AAC0E505-ED48-41C4-8FAF-82E1C76BEA53" d="M.293.293a1,1,0,0,1,1.414,0l2,2A1,1,0,0,1,2.293,3.707l-2-2A1,1,0,0,1,.293.293Z" transform="translate(3 3)" fill="#777e90"/>
+    <path id="_3EE4279E-7568-4B60-A05E-02B49AD0ABF6" data-name="3EE4279E-7568-4B60-A05E-02B49AD0ABF6" d="M1.707.293A1,1,0,1,0,.293,1.707l2.5,2.5A1,1,0,0,0,4.207,2.793Z" transform="translate(0 5)" fill="#777e90"/>
+  </g>
+</svg>

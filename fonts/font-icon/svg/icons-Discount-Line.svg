@@ -1,0 +1,7 @@
+<svg id="icons_Discount_Line" data-name="icons/Discount/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="_7C0173F9-7F32-4FEA-AC7C-C422E5940EB0" data-name="7C0173F9-7F32-4FEA-AC7C-C422E5940EB0" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4ZM6,4A2,2,0,1,1,4,2,2,2,0,0,1,6,4Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="_482648EC-100B-47E7-9505-A0F3E3C7480A" data-name="482648EC-100B-47E7-9505-A0F3E3C7480A" d="M20,16a4,4,0,1,1-4-4A4,4,0,0,1,20,16Zm-2,0a2,2,0,1,1-2-2A2,2,0,0,1,18,16Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M15.614.211a1,1,0,0,1,.175,1.4l-14,18A1,1,0,0,1,.211,18.386l14-18A1,1,0,0,1,15.614.211Z" transform="translate(4 2)" fill="#777e90"/>
+</svg>

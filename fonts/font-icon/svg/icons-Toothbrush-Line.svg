@@ -1,0 +1,8 @@
+<svg id="icons_Toothbrush_Line" data-name="icons/Toothbrush/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12.914.914a3.121,3.121,0,0,1,4.414,4.414l-12,12A3.121,3.121,0,1,1,.914,12.914Zm3,1.414a1.121,1.121,0,0,0-1.586,0l-12,12a1.121,1.121,0,0,0,1.586,1.586l12-12A1.121,1.121,0,0,0,15.914,2.328Z" transform="translate(2.879 3.879)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 1)">
+    <path id="_56254313-CF60-41E2-8CAE-B228779D1FAF" data-name="56254313-CF60-41E2-8CAE-B228779D1FAF" d="M.293.293a1,1,0,0,1,1.414,0l3,3A1,1,0,0,1,3.293,4.707l-3-3A1,1,0,0,1,.293.293Z" transform="translate(5 0)" fill="#777e90"/>
+    <path id="D615BB5F-4C80-4445-8A0D-1323E0C7437F" d="M.293.293a1,1,0,0,1,1.414,0l2.5,2.5A1,1,0,0,1,2.793,4.207l-2.5-2.5A1,1,0,0,1,.293.293Z" transform="translate(3 3)" fill="#777e90"/>
+    <path id="_6D94E5E4-18AD-4CCF-BFB2-5FD1091F2181" data-name="6D94E5E4-18AD-4CCF-BFB2-5FD1091F2181" d="M1.707.293A1,1,0,1,0,.293,1.707l3,3A1,1,0,0,0,4.707,3.293Z" transform="translate(0 5)" fill="#777e90"/>
+  </g>
+</svg>

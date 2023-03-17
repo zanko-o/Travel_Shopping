@@ -1,0 +1,5 @@
+<svg id="icons_Bubble_Race_Filled" data-name="icons/Bubble Race/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M11,5.5A5.5,5.5,0,1,1,5.5,0,5.5,5.5,0,0,1,11,5.5Z" transform="translate(12 3)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M7,3.5A3.5,3.5,0,1,1,3.5,0,3.5,3.5,0,0,1,7,3.5Z" transform="translate(1 5)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4Z" transform="translate(5 13)" fill="#777e90"/>
+</svg>

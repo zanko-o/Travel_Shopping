@@ -1,0 +1,7 @@
+<svg id="icons_Volume_Line" data-name="icons/Volume/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(15 4)">
+    <path id="A2761B52-DB8A-408E-A3C9-D00EC2F1B7E1" d="M1,0A1,1,0,0,0,1,2,6,6,0,0,1,1,14a1,1,0,0,0,0,2A8,8,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="AC74EAFA-C8F2-451E-882E-DD3C311DED98" d="M1,0A1,1,0,0,0,1,2,2,2,0,0,1,1,6,1,1,0,0,0,1,8,4,4,0,0,0,1,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M5.828,5.763H3a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H5.828l3.464,3.464A1,1,0,0,0,11,12.521V3.006A1,1,0,0,0,9.293,2.3Zm-.828,6,2.879,2.879A3,3,0,0,0,13,12.521V3.006A3,3,0,0,0,7.879.885L5,3.763H3a3,3,0,0,0-3,3v2a3,3,0,0,0,3,3Z" transform="translate(0 4.237)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

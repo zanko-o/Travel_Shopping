@@ -1,0 +1,6 @@
+<svg id="icons_Bar_01_Up_Line" data-name="icons/Bar 01 Up/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,3A3,3,0,1,1,6,3V4A1,1,0,0,1,4,4V3A1,1,0,0,0,2,3V4A1,1,0,0,1,0,4Z" transform="translate(12 17) rotate(90)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0,3A3,3,0,0,1,6,3V8A1,1,0,0,1,4,8V3A1,1,0,0,0,2,3V8A1,1,0,0,1,0,8Z" transform="translate(16 9) rotate(90)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0,3A3,3,0,0,1,6,3V13a1,1,0,0,1-2,0V3A1,1,0,0,0,2,3V13a1,1,0,0,1-2,0Z" transform="translate(21 1) rotate(90)" fill="#777e90"/>
+  <path id="Shape-4" data-name="Shape" d="M1,0A1,1,0,0,1,2,1V21a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(3 1)" fill="#777e90"/>
+</svg>

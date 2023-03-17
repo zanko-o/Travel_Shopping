@@ -1,0 +1,5 @@
+<svg id="icons_Darts_Filled" data-name="icons/Darts/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9.879,1.707A1,1,0,0,0,8.464.293L6.757,2H3a2,2,0,0,0-1.414.586l-1,1a2,2,0,0,0,0,2.828L3.757,9.586a2,2,0,0,0,2.828,0l1-1a2,2,0,0,0,.586-1.414V3.414Z" transform="translate(2.828 11)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M3.621,4.621l1-1a2.121,2.121,0,0,0-3-3l-1,1a2.121,2.121,0,0,0,3,3Z" transform="translate(13.379 5.379)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M2.707.293a1,1,0,0,1,0,1.414l-1,1A1,1,0,0,1,.293,1.293l1-1A1,1,0,0,1,2.707.293Z" transform="translate(19 2)" fill="#777e90"/>
+</svg>

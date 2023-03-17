@@ -1,0 +1,9 @@
+<svg id="icons_Battery_100_Line" data-name="icons/Battery 100%/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M20,5.236V4a2,2,0,0,0-2-2H4A2,2,0,0,0,2,4v8a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V10.764l1.447-.724A1,1,0,0,0,22,9.146V6.854a1,1,0,0,0-.553-.894ZM22,4l.342.171A3,3,0,0,1,24,6.854V9.146a3,3,0,0,1-1.658,2.683L22,12a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0H18A4,4,0,0,1,22,4Z" transform="translate(0 4)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(4 8)">
+    <path id="_5A614F6F-CF8B-4F61-8ECB-41EBA34315E8" data-name="5A614F6F-CF8B-4F61-8ECB-41EBA34315E8" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_733338DA-A476-4527-B5FE-B9AB53F11F28" data-name="733338DA-A476-4527-B5FE-B9AB53F11F28" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" transform="translate(4)" fill="#777e90"/>
+    <path id="_243A8ABB-8433-406B-AF81-9A05061C0A6D" data-name="243A8ABB-8433-406B-AF81-9A05061C0A6D" d="M0,1A1,1,0,0,1,2,1V7A1,1,0,0,1,0,7Z" transform="translate(8)" fill="#777e90"/>
+    <path id="E16DF300-DF89-4911-B638-9FA8AD401683" d="M1,0A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7V1A1,1,0,0,0,1,0Z" transform="translate(12)" fill="#777e90"/>
+  </g>
+</svg>

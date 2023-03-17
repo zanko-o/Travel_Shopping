@@ -1,0 +1,8 @@
+<svg id="icons_Salt_Shaker_Line" data-name="icons/Salt Shaker/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 16)">
+    <path id="E8E58CE3-17DC-4CF5-A59F-C2414D0A0865" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" fill="#777e90"/>
+    <path id="_73C60364-345E-4EF5-818C-EC79837A08EF" data-name="73C60364-345E-4EF5-818C-EC79837A08EF" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="E38D2AF0-5166-4EE9-B36B-3707D9FC916A" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 3)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M8.636.879a3,3,0,0,1,4.243,0l2.757,2.757a3,3,0,0,1,0,4.243L7.879,15.636a3,3,0,0,1-4.243,0L.879,12.879a3,3,0,0,1,0-4.243Zm2.828,1.414L14.222,5.05a1,1,0,0,1,0,1.414L9.343,11.343,5.172,7.172,10.05,2.293A1,1,0,0,1,11.465,2.293ZM3.672,8.672,2.293,10.05a1,1,0,0,0,0,1.414L5.05,14.222a1,1,0,0,0,1.414,0l1.379-1.379Z" transform="translate(5.243 2.243)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

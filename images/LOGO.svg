@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Fleet_symbol_clip_mask_" data-name="Fleet symbol (clip mask)" width="36" height="36" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22afff"/>
+      <stop offset="1" stop-color="#1d41ff"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Polygon_4" data-name="Polygon 4" d="M13.007.83A6.193,6.193,0,0,1,19.2.83l9.91,5.722a6.193,6.193,0,0,1,3.1,5.364V23.359a6.194,6.194,0,0,1-3.1,5.364L19.2,34.444a6.193,6.193,0,0,1-6.194,0L3.1,28.723A6.194,6.194,0,0,1,0,23.359V11.915A6.194,6.194,0,0,1,3.1,6.552Z" transform="translate(2.491 0.958)" fill="#83e1e1" opacity="0"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1b3573"/>
+      <stop offset="1" stop-color="#131e39"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.937" y1="0.125" x2="-0.5" y2="2.25" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcfcfd"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.281" x2="0.938" y2="2.714" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#192e5f"/>
+    </linearGradient>
+  </defs>
+  <g id="Fleet_symbol" data-name="Fleet symbol" clip-path="url(#clip-path)">
+    <g id="Fleet_symbol_clip_group_" data-name="Fleet symbol (clip group)" transform="translate(-57.375 -15.75)">
+      <g id="Mask_Group" data-name="Mask Group" transform="translate(56.78 15.155)">
+        <path id="Polygon_3" data-name="Polygon 3" d="M13.007.83A6.193,6.193,0,0,1,19.2.83l9.91,5.722a6.193,6.193,0,0,1,3.1,5.364V23.359a6.194,6.194,0,0,1-3.1,5.364L19.2,34.444a6.193,6.193,0,0,1-6.194,0L3.1,28.723A6.194,6.194,0,0,1,0,23.359V11.915A6.194,6.194,0,0,1,3.1,6.552Z" transform="translate(2.491 0.958)" fill="url(#linear-gradient)"/>
+        <path id="Polygon_4-2" data-name="Polygon 4" d="M13.007.83A6.193,6.193,0,0,1,19.2.83l9.91,5.722a6.193,6.193,0,0,1,3.1,5.364V23.359a6.194,6.194,0,0,1-3.1,5.364L19.2,34.444a6.193,6.193,0,0,1-6.194,0L3.1,28.723A6.194,6.194,0,0,1,0,23.359V11.915A6.194,6.194,0,0,1,3.1,6.552Z" transform="translate(2.491 0.958)" fill="#83e1e1" opacity="0"/>
+        <g id="Mask_Group-2" data-name="Mask Group" clip-path="url(#clip-path-2)">
+          <path id="Vector_5" data-name="Vector 5" d="M20.382,3.951,9.755,10.622.548,16.853A1.25,1.25,0,0,0,0,17.888V47.44a1.243,1.243,0,0,0,1.239,1.247H62.516a1.243,1.243,0,0,0,1.239-1.247v-26.4a1.25,1.25,0,0,0-.576-1.054L32.16.194A1.232,1.232,0,0,0,30.62.366L25.277,5.751a1.233,1.233,0,0,1-1.753,0L21.914,4.128A1.232,1.232,0,0,0,20.382,3.951Z" transform="translate(-12.716 10.365)" fill="url(#linear-gradient-2)"/>
+          <path id="Vector_6" data-name="Vector 6" d="M6.33,0,0,5.1H4.846c.475,0,2.242,2.6,3.066,3.9L9,2.9Z" transform="translate(1.72 17.47)" fill="url(#linear-gradient-3)"/>
+          <path id="Vector_7" data-name="Vector 7" d="M1.147,5.625,4.5,0,18,7.875,14.908,9.247,7.313,9,0,15.75,3.375,7.875Z" transform="translate(14.095 14.095)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

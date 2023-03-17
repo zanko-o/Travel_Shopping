@@ -1,0 +1,7 @@
+<svg id="icons_Intravenous_Therapy_Filled" data-name="icons/Intravenous Therapy/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(8 17)">
+    <path id="AA24538C-0A99-40DB-964E-0641BCEA1733" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="F9564373-8FDD-4F45-A111-51BE8732E821" d="M2,1A1,1,0,0,0,0,1V3A3,3,0,0,0,3,6H8A1,1,0,0,0,8,4H3A1,1,0,0,1,2,3Z" transform="translate(4)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M10,2A2,2,0,0,0,6,2H3A3,3,0,0,0,0,5V15a3,3,0,0,0,3,3H13a3,3,0,0,0,3-3V13H12a1,1,0,0,1,0-2h4V9H12a1,1,0,0,1,0-2h4V5a3,3,0,0,0-3-3Z" transform="translate(3 1)" fill="#777e90"/>
+</svg>

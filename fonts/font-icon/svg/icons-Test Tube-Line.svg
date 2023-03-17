@@ -1,0 +1,9 @@
+<svg id="icons_Test_Tube_Line" data-name="icons/Test Tube/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M1,0A1,1,0,0,0,1,2H2V16a6,6,0,0,0,12,0V2h1a1,1,0,0,0,0-2ZM12,2H4V16a4,4,0,0,0,8,0Z" transform="translate(4 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 11)">
+    <path id="_91A03549-49CE-4FA8-8723-A3C723F9E343" data-name="91A03549-49CE-4FA8-8723-A3C723F9E343" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" fill="#777e90"/>
+    <path id="_72066332-CC6C-468E-97C9-305E4085BE00" data-name="72066332-CC6C-468E-97C9-305E4085BE00" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(1 6)" fill="#777e90"/>
+    <path id="F75E0977-202B-4BC9-A260-F1F664A97FCB" d="M1.5,3A1.5,1.5,0,1,0,0,1.5,1.5,1.5,0,0,0,1.5,3Z" transform="translate(3 2)" fill="#777e90"/>
+  </g>
+  <rect id="Shape-3" data-name="Shape" width="12" height="2" rx="1" transform="translate(6 8)" fill="#777e90"/>
+</svg>

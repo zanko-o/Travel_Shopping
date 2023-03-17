@@ -1,0 +1,5 @@
+<svg id="icons_Wallet_Line" data-name="icons/Wallet/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M18,2H4A2,2,0,0,0,2,4V14a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V4A2,2,0,0,0,18,2ZM4,0A4,4,0,0,0,0,4V14a4,4,0,0,0,4,4H18a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z" transform="translate(1 3)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,5A5,5,0,0,1,5,0H9A1,1,0,0,1,9,2H5A3,3,0,0,0,5,8H9a1,1,0,0,1,0,2H5A5,5,0,0,1,0,5Z" transform="translate(13 7)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(17 11)" fill="#777e90"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="icons_Pie_03_Filled" data-name="icons/Pie 03/Filled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icons_Pie_03_Filled_clip_mask_" data-name="icons/Pie 03/Filled (clip mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="icons_Pie_03_Filled_clip_mask_2" data-name="icons/Pie 03/Filled (clip mask)" width="24" height="24" fill="none"/>
+  <g id="Group_1" data-name="Group 1">
+    <g id="Mask_Group_57" data-name="Mask Group 57" clip-path="url(#clip-path)">
+      <g id="icons_Pie_03_Filled_clip_group_" data-name="icons/Pie 03/Filled (clip group)" transform="translate(2 2.431)">
+        <path id="Shape" d="M14.891,8a.919.919,0,0,1-.945,1H6.361a1,1,0,0,1-.707-.293L.289,3.343A.919.919,0,0,1,.327,1.97,9,9,0,0,1,14.891,8Z" transform="translate(0 15.515) rotate(-90)" fill="#777e90"/>
+        <path id="Shape-2" data-name="Shape" d="M17.945,8A.919.919,0,0,1,17,9H9.414a1,1,0,0,0-.707.293L3.343,14.657a.919.919,0,0,1-1.374-.038A9,9,0,1,1,17.945,8Z" transform="translate(23.728 10.569) rotate(135)" fill="#777e90"/>
+      </g>
+    </g>
+  </g>
+</svg>

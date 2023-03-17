@@ -1,0 +1,4 @@
+<svg id="icons_Flash_Drive_Filled" data-name="icons/Flash Drive/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M5.879,9.464.293,3.879a1,1,0,0,1,0-1.414L2.172.586A2,2,0,0,1,5,.586L9.172,4.757a2,2,0,0,1,0,2.828L7.293,9.464A1,1,0,0,1,5.879,9.464Z" transform="translate(12.414 1.828)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M1.757,13.828l1.515,1.515a6,6,0,0,0,8.485,0l5.05-5.05a1,1,0,0,0,0-1.414L8.222.293a1,1,0,0,0-1.414,0l-5.05,5.05A6,6,0,0,0,1.757,13.828Zm4.757-2.243a1,1,0,1,0-1-1A1,1,0,0,0,6.515,11.586Z" transform="translate(1.485 5.414)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="icons_Beaker_Filled" data-name="icons/Beaker/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M12.781,2V5.73a1,1,0,0,0,.136.5l4.232,7.255A3,3,0,0,1,14.558,18H3A3,3,0,0,1,.413,13.488L4.645,6.234a1,1,0,0,0,.136-.5V2a1,1,0,0,1,0-2h8a1,1,0,1,1,0,2ZM11.19,7.241,15.422,14.5a1,1,0,0,1-.864,1.5H3a1,1,0,0,1-.864-1.5L6.373,7.241A3,3,0,0,0,6.781,5.73V2h4V5.73A3,3,0,0,0,11.19,7.241Z" transform="translate(3.219 5)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M15.7,0H1.865L.413,2.488A3,3,0,0,0,3,7H14.558A3,3,0,0,0,17.15,2.488Z" transform="translate(3.219 16)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(9 1)">
+    <path id="A6503270-A33E-409B-83F8-D4071D42A3D9" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4)" fill="#777e90"/>
+    <path id="_187F5B83-97E8-4D6E-B7DB-4C12ED47497C" data-name="187F5B83-97E8-4D6E-B7DB-4C12ED47497C" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(0 1)" fill="#777e90"/>
+  </g>
+</svg>

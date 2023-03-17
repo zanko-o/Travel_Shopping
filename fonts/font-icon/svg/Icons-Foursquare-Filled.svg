@@ -1,0 +1,17 @@
+<svg id="Icons_Foursquare_Filled" data-name="Icons/Foursquare/Filled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icons_Foursquare_Filled_clip_mask_" data-name="Icons/Foursquare/Filled (clip mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Icons_Foursquare_Filled_clip_mask_2" data-name="Icons/Foursquare/Filled (clip mask)" width="24" height="24" fill="none"/>
+  <g id="Group_2" data-name="Group 2">
+    <g id="Mask_Group_58" data-name="Mask Group 58" clip-path="url(#clip-path)">
+      <g id="Icons_Foursquare_Filled_clip_group_" data-name="Icons/Foursquare/Filled (clip group)" transform="translate(4)">
+        <g id="Group">
+          <path id="Vector" d="M0,2A2,2,0,0,1,2,0H14.763a2,2,0,0,1,1.956,2.419l-.9,4.186a.5.5,0,0,1-.489.4H8A1,1,0,0,0,8,9h6.69a.5.5,0,0,1,.489.6l-1.032,4.814A2,2,0,0,1,12.192,16H8.907a1,1,0,0,0-.752.342l-6.4,7.317A1,1,0,0,1,0,23Z" fill="#777e90"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="icons_Intravenous_Therapy_Line" data-name="icons/Intravenous Therapy/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9.415,4,8.944,2.666a1,1,0,0,0-1.887,0L6.585,4H4A2,2,0,0,0,2,6v8a2,2,0,0,0,2,2h8a2,2,0,0,0,2-2V6a2,2,0,0,0-2-2ZM5.171,2H4A4,4,0,0,0,0,6v8a4,4,0,0,0,4,4h8a4,4,0,0,0,4-4V6a4,4,0,0,0-4-4H10.829A3,3,0,0,0,5.171,2Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(8 17)">
+    <path id="_8B1EF107-3773-4DAB-9BAC-07BF2E9B5BB2" data-name="8B1EF107-3773-4DAB-9BAC-07BF2E9B5BB2" d="M1,0A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_4F79578C-75E4-4982-B8A2-FE7C043237B0" data-name="4F79578C-75E4-4982-B8A2-FE7C043237B0" d="M2,1A1,1,0,0,0,0,1V3A3,3,0,0,0,3,6H8A1,1,0,0,0,8,4H3A1,1,0,0,1,2,3Z" transform="translate(4)" fill="#777e90"/>
+  </g>
+  <g id="Shape-3" data-name="Shape" transform="translate(14 8)">
+    <path id="_0F6962DB-CF97-40E9-B98E-9001914D82D4" data-name="0F6962DB-CF97-40E9-B98E-9001914D82D4" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Z" fill="#777e90"/>
+    <path id="_816E456D-F470-41C6-A67A-DD0290785FB6" data-name="816E456D-F470-41C6-A67A-DD0290785FB6" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+</svg>

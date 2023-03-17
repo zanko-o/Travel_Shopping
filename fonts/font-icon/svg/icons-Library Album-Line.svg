@@ -1,0 +1,5 @@
+<svg id="icons_Library_Album_Line" data-name="icons/Library Album/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M15,2H3A1,1,0,0,0,2,3V15a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V3A1,1,0,0,0,15,2ZM3,0A3,3,0,0,0,0,3V15a3,3,0,0,0,3,3H15a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(3 5)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,0,1,2H11a1,1,0,0,0,0-2H1A1,1,0,0,0,0,1Z" transform="translate(6 1)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M5,8A3,3,0,1,0,2,5,3,3,0,0,0,5,8Zm0,2A5,5,0,1,0,0,5,5,5,0,0,0,5,10Z" transform="translate(7 9)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

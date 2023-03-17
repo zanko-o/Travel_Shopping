@@ -1,0 +1,9 @@
+<svg id="icons_Salt_Shaker_Filled" data-name="icons/Salt Shaker/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 16)">
+    <path id="F88EBFB6-207A-4F3C-8C9F-649E0140ECE5" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" fill="#777e90"/>
+    <path id="_36C72403-19EA-402C-97E7-C9934D204D74" data-name="36C72403-19EA-402C-97E7-C9934D204D74" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_81B1CB7E-03E0-475B-B3DE-85361D3AFE32" data-name="81B1CB7E-03E0-475B-B3DE-85361D3AFE32" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(4 3)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M8.568,6.646a.5.5,0,0,0,0-.707L2.775.146a.5.5,0,0,0-.707,0L.586,1.629a2,2,0,0,0,0,2.828L4.257,8.129a2,2,0,0,0,2.828,0Z" transform="translate(5.328 9.957)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M7.957.586a2,2,0,0,0-2.828,0L.146,5.568a.5.5,0,0,0,0,.707l5.793,5.793a.5.5,0,0,0,.707,0l4.982-4.982a2,2,0,0,0,0-2.828Z" transform="translate(9.457 2.328)" fill="#777e90"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="icons_Music_01_Line" data-name="icons/Music 01/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M13,3A3,3,0,0,0,9.463.049l-7,1.273A3,3,0,0,0,0,4.274V18.1H2V8.439L11,6.8v9.3h2ZM9.821,2.017A1,1,0,0,1,11,3V4.77L2,6.406V4.274a1,1,0,0,1,.821-.984Z" transform="translate(8 1.396)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(3 14)">
+    <path id="_39B11952-54FF-43B2-93A9-1BD80FBEAE72" data-name="39B11952-54FF-43B2-93A9-1BD80FBEAE72" d="M18,3.5A3.5,3.5,0,1,1,14.5,0,3.5,3.5,0,0,1,18,3.5Zm-2,0A1.5,1.5,0,1,1,14.5,2,1.5,1.5,0,0,1,16,3.5Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="A6BB95A9-7C55-4307-86B3-B14B36E82152" d="M7,5.5A3.5,3.5,0,1,1,3.5,2,3.5,3.5,0,0,1,7,5.5Zm-2,0A1.5,1.5,0,1,1,3.5,4,1.5,1.5,0,0,1,5,5.5Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+</svg>

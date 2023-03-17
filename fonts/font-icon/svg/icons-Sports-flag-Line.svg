@@ -1,0 +1,4 @@
+<svg id="icons_Sports-flag_Line" data-name="icons/Sports-flag/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,2,1V23a1,1,0,0,1-2,0Z" transform="translate(4)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M7.171,12H0V0H6A3,3,0,0,1,8.829,2h4.935a2,2,0,0,1,1.789,2.894L14,8l1.553,3.106A2,2,0,0,1,13.764,14H10A3,3,0,0,1,7.171,12ZM2,2H6A1,1,0,0,1,7,3v7H2Zm7,9a1,1,0,0,0,1,1h3.764l-2-4,2-4H9Z" transform="translate(4 2)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

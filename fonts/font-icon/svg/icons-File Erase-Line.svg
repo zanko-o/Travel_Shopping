@@ -1,0 +1,12 @@
+<svg id="icons_File_Erase_Line" data-name="icons/File Erase/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 17)">
+    <path id="B9F49EF2-B036-4041-80D0-B5161103CAEF" d="M0,1A1,1,0,1,1,1,2,1,1,0,0,1,0,1Z" fill="#777e90"/>
+    <path id="_56B929C3-50A7-45C2-9E16-C16DA754E2E0" data-name="56B929C3-50A7-45C2-9E16-C16DA754E2E0" d="M0,1A1,1,0,1,1,1,2,1,1,0,0,1,0,1Z" transform="translate(4 4)" fill="#777e90"/>
+    <path id="DD82AB89-708D-4D5A-81B7-963D85795F6F" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="D37D2C03-7199-427B-AC2F-5EA2D575AC23" d="M0,1A1,1,0,1,1,1,2,1,1,0,0,1,0,1Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="_0019CEEA-AA71-4093-9973-4AD6416EF8C5" data-name="0019CEEA-AA71-4093-9973-4AD6416EF8C5" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(16 4)" fill="#777e90"/>
+    <path id="_5A718163-0661-4157-AE63-6FC889D7F996" data-name="5A718163-0661-4157-AE63-6FC889D7F996" d="M0,1A1,1,0,1,1,1,2,1,1,0,0,1,0,1Z" transform="translate(12 4)" fill="#777e90"/>
+    <path id="C1F72F1A-2451-4243-A3E4-B2FEB84A09E5" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(16)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M2,4A2,2,0,0,1,4,2h7V4a3,3,0,0,0,3,3h2v6a1,1,0,0,0,2,0V5.743a4,4,0,0,0-1.172-2.828L15.086,1.172A4,4,0,0,0,12.257,0H4A4,4,0,0,0,0,4v9a1,1,0,0,0,2,0ZM15.857,5a2,2,0,0,0-.443-.672L13.672,2.586A2,2,0,0,0,13,2.143V4a1,1,0,0,0,1,1Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

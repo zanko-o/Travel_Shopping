@@ -1,0 +1,5 @@
+<svg id="icons_Pie_04_Filled" data-name="icons/Pie 04/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M8.945,7.952A.919.919,0,0,1,8,8.95H1a1,1,0,0,1-1-1v-7A.919.919,0,0,1,1,.006a9,9,0,0,1,2.446.63,9,9,0,0,1,2.92,1.951,9,9,0,0,1,1.951,2.92A9,9,0,0,1,8.945,7.952Z" transform="translate(21.95 13) rotate(90)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M7.952.006a.919.919,0,0,1,1,.945v7a1,1,0,0,1-1,1h-7a.919.919,0,0,1-.945-1A9,9,0,0,1,7.952.006Z" transform="translate(21.95 2.05) rotate(90)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M17.895,8a.919.919,0,0,1-.944,1H.95A.919.919,0,0,1,.006,8,9,9,0,0,1,17.895,8Z" transform="translate(2 20.95) rotate(-90)" fill="#777e90"/>
+</svg>

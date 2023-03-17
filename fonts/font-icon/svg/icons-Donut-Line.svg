@@ -1,0 +1,15 @@
+<svg id="icons_Donut_Line" data-name="icons/Donut/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(2 2)">
+    <path id="_00D36E5D-80BF-4897-AAD6-8E4AD0591A82" data-name="00D36E5D-80BF-4897-AAD6-8E4AD0591A82" d="M14,10a4,4,0,1,1-4-4A4,4,0,0,1,14,10Zm-2,0a2,2,0,1,1-2-2A2,2,0,0,1,12,10Z" fill="#777e90" fill-rule="evenodd"/>
+    <path id="A604B4E2-D1FF-47FF-9E13-4DEA31139E96" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Zm-2,0a8,8,0,1,1-8-8A8,8,0,0,1,18,10Z" fill="#777e90" fill-rule="evenodd"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(5 4)">
+    <path id="_0564C827-15FD-427D-AB2B-C795A452984C" data-name="0564C827-15FD-427D-AB2B-C795A452984C" d="M.052.684A1,1,0,0,1,1.316.052l3,1a1,1,0,1,1-.632,1.9l-3-1A1,1,0,0,1,.052.684Z" transform="translate(1 0)" fill="#777e90"/>
+    <path id="F68EF6F1-2989-46B9-9D69-A0E5C013F491" d="M.106.553A1,1,0,0,1,1.447.106l2,1a1,1,0,0,1-.894,1.789l-2-1A1,1,0,0,1,.106.553Z" transform="translate(1 6)" fill="#777e90"/>
+    <path id="_14C65D6F-DA2F-4864-A890-C6785A2F27D7" data-name="14C65D6F-DA2F-4864-A890-C6785A2F27D7" d="M3.207,1.707A1,1,0,0,0,1.793.293l-1.5,1.5A1,1,0,1,0,1.707,3.207Z" transform="translate(5.5 14)" fill="#777e90"/>
+    <path id="_91E1F901-AA3B-4A61-A50D-0127B6626250" data-name="91E1F901-AA3B-4A61-A50D-0127B6626250" d="M.293.293a1,1,0,0,1,1.414,0l.5.5A1,1,0,0,1,.793,2.207l-.5-.5A1,1,0,0,1,.293.293Z" transform="translate(8.5 9.5)" fill="#777e90"/>
+    <path id="AC209489-B34C-4B7C-BBC2-4786729FBEF1" d="M2.895,1.447A1,1,0,0,0,1.106.553l-1,2a1,1,0,0,0,1.789.894Z" transform="translate(0 11)" fill="#777e90"/>
+    <path id="_8F3B21AF-507B-4888-B532-F6259373C402" data-name="8F3B21AF-507B-4888-B532-F6259373C402" d="M3.895.553a1,1,0,0,1-.447,1.342l-2,1A1,1,0,0,1,.553,1.106l2-1A1,1,0,0,1,3.895.553Z" transform="translate(13 7)" fill="#777e90"/>
+    <path id="_7614D95B-F856-411C-8F4F-B583024C1D1F" data-name="7614D95B-F856-411C-8F4F-B583024C1D1F" d="M2.449,1.316A1,1,0,0,0,.552.684l-.5,1.5a1,1,0,0,0,1.9.632Z" transform="translate(8.5 3)" fill="#777e90"/>
+  </g>
+</svg>

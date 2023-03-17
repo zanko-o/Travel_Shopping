@@ -1,0 +1,10 @@
+<svg id="icons_Triangle_Ruler_Line" data-name="icons/Triangle Ruler/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,2.588V1A1,1,0,0,1,1.707.295L3.293,1.881a1,1,0,0,1-.707,1.707H1A1,1,0,0,1,0,2.588Z" transform="translate(8 12.412)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 8)">
+    <path id="_9A449533-CDF7-4B7A-BB73-1F85908AE660" data-name="9A449533-CDF7-4B7A-BB73-1F85908AE660" d="M1,0A1,1,0,0,0,1,2H3A1,1,0,0,0,3,0Z" fill="#777e90"/>
+    <path id="_19B6DB49-2E26-40DE-866A-AB21734B66EF" data-name="19B6DB49-2E26-40DE-866A-AB21734B66EF" d="M1,0A1,1,0,0,0,1,2H3A1,1,0,0,0,3,0Z" transform="translate(0 6)" fill="#777e90"/>
+    <path id="_3F1C74F2-E3E0-4506-B364-4748F6A11AB9" data-name="3F1C74F2-E3E0-4506-B364-4748F6A11AB9" d="M1,4A1,1,0,0,1,0,3V1A1,1,0,0,1,2,1V3A1,1,0,0,1,1,4Z" transform="translate(6 10)" fill="#777e90"/>
+    <path id="_572AC0F6-5AF4-4BC9-B911-B4A98F4E43E6" data-name="572AC0F6-5AF4-4BC9-B911-B4A98F4E43E6" d="M0,3A1,1,0,0,0,2,3V1A1,1,0,0,0,0,1Z" transform="translate(12 10)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M2,3.006V16.763a1,1,0,0,0,1,1H16.757a1,1,0,0,0,.707-1.707L3.707,2.3A1,1,0,0,0,2,3.006Zm-2,0V16.763a3,3,0,0,0,3,3H16.757a3,3,0,0,0,2.121-5.121L5.121.885A3,3,0,0,0,0,3.006Z" transform="translate(2 2.237)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

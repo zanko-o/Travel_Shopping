@@ -1,0 +1,10 @@
+<svg id="icons_Petri_Dish_Line" data-name="icons/Petri Dish/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(6 7)">
+    <path id="_6F9BD076-806B-477C-9212-676082DCA4A3" data-name="6F9BD076-806B-477C-9212-676082DCA4A3" d="M3.293.293A1,1,0,0,1,4.707,1.707l-3,3A1,1,0,0,1,.293,3.293Z" transform="translate(5 0)" fill="#777e90"/>
+    <path id="_2961DD60-86A8-4B31-A6E6-E464FB4407B6" data-name="2961DD60-86A8-4B31-A6E6-E464FB4407B6" d="M.293.293a1,1,0,0,1,1.414,0l1,1A1,1,0,1,1,1.293,2.707l-1-1A1,1,0,0,1,.293.293Z" transform="translate(0 3)" fill="#777e90"/>
+    <path id="FE136E43-689D-47F9-A32B-B97B890D16FA" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(3 0)" fill="#777e90"/>
+    <path id="A0BF2C53-E7BE-4F18-A7C4-F3F621C2C0A6" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(2 8)" fill="#777e90"/>
+    <path id="_1D15B57D-94C9-4FC7-A412-1E08E757F6FF" data-name="1D15B57D-94C9-4FC7-A412-1E08E757F6FF" d="M6,1A1,1,0,0,0,4,1v.5a1,1,0,0,1-1,1,3,3,0,0,0-3,3V6A1,1,0,0,0,2,6V5.5a1,1,0,0,1,1-1,3,3,0,0,0,3-3Z" transform="translate(6 3.5)" fill="#777e90"/>
+  </g>
+</svg>

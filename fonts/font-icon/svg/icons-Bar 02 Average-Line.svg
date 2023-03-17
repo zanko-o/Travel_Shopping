@@ -1,0 +1,9 @@
+<svg id="icons_Bar_02_Average_Line" data-name="icons/Bar 02 Average/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(6 5)">
+    <path id="_6CD669AF-6C66-47EC-AC94-11DB111C6CCA" data-name="6CD669AF-6C66-47EC-AC94-11DB111C6CCA" d="M1,0A1,1,0,0,0,1,2H13a1,1,0,0,0,0-2Z" fill="#777e90"/>
+    <path id="_5F762145-729D-4FFF-8CB1-2754A79379BD" data-name="5F762145-729D-4FFF-8CB1-2754A79379BD" d="M1,0A1,1,0,0,0,1,2H7A1,1,0,0,0,7,0Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_274F7C71-A28E-4298-8CED-859E70EEACCF" data-name="274F7C71-A28E-4298-8CED-859E70EEACCF" d="M1,0A1,1,0,0,0,1,2H15a1,1,0,0,0,0-2Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="_4633F356-2536-40E3-B768-9427B5ED9CFD" data-name="4633F356-2536-40E3-B768-9427B5ED9CFD" d="M0,1A1,1,0,0,1,1,0H11a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(0 12)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M1,0A1,1,0,0,1,2,1V19a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" transform="translate(2 2)" fill="#777e90"/>
+</svg>

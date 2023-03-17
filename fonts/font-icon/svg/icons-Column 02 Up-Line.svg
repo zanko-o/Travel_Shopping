@@ -1,0 +1,10 @@
+<svg id="icons_Column_02_Up_Line" data-name="icons/Column 02 Up/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,1,0H21a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(1 19)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(3 3)">
+    <path id="_67CEDB44-07F7-4508-A2EE-688E01400BB8" data-name="67CEDB44-07F7-4508-A2EE-688E01400BB8" d="M1,0A1,1,0,0,0,0,1V13a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(16)" fill="#777e90"/>
+    <path id="_530F2355-8282-4198-8627-DC9CC3779ABE" data-name="530F2355-8282-4198-8627-DC9CC3779ABE" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(8 2)" fill="#777e90"/>
+    <path id="D3774923-B3F6-48F4-9B65-4A98573B6256" d="M0,1A1,1,0,0,1,2,1V5A1,1,0,0,1,0,5Z" transform="translate(4 8)" fill="#777e90"/>
+    <path id="CD076B22-F197-40EA-9E63-499102ADFDBA" d="M0,1A1,1,0,0,1,2,1V3A1,1,0,0,1,0,3Z" transform="translate(0 10)" fill="#777e90"/>
+    <path id="CCEE76F2-946C-48EC-BAAD-B7F559F4A320" d="M0,1A1,1,0,0,1,2,1V9A1,1,0,0,1,0,9Z" transform="translate(12 4)" fill="#777e90"/>
+  </g>
+</svg>

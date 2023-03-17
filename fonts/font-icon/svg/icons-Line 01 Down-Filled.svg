@@ -1,0 +1,9 @@
+<svg id="icons_Line_01_Down_Filled" data-name="icons/Line 01 Down/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M.419.186A1,1,0,0,0,.186,1.581l5,7a1,1,0,0,0,1.261.313l7.236-3.618,4.5,6.3a1,1,0,1,0,1.628-1.163l-5-7a1,1,0,0,0-1.261-.313L6.317,6.724l-4.5-6.3A1,1,0,0,0,.419.186Z" transform="translate(2 6)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(0 4)">
+    <path id="_3FE7834B-1382-4451-AD80-BC59A06B9656" data-name="3FE7834B-1382-4451-AD80-BC59A06B9656" d="M3,6A3,3,0,1,1,6,3,3,3,0,0,1,3,6Z" fill="#777e90"/>
+    <path id="ED8D98B3-A429-4ABA-913C-0A03EC9949FB" d="M3,6A3,3,0,1,1,6,3,3,3,0,0,1,3,6Z" transform="translate(13 3)" fill="#777e90"/>
+    <path id="_4C7DD9E2-870E-4443-AF3F-A23E959BF826" data-name="4C7DD9E2-870E-4443-AF3F-A23E959BF826" d="M3,6A3,3,0,1,1,6,3,3,3,0,0,1,3,6Z" transform="translate(18 10)" fill="#777e90"/>
+    <path id="B40B759D-ADB3-431D-9064-A8036C2B59F7" d="M0,3A3,3,0,1,0,3,0,3,3,0,0,0,0,3Z" transform="translate(5 7)" fill="#777e90"/>
+  </g>
+</svg>

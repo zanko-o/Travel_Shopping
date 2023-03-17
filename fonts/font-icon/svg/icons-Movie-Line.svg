@@ -1,0 +1,13 @@
+<svg id="icons_Movie_Line" data-name="icons/Movie/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M15,2H3A1,1,0,0,0,2,3V19a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V3A1,1,0,0,0,15,2ZM3,0A3,3,0,0,0,0,3V19a3,3,0,0,0,3,3H15a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(7 5)">
+    <path id="_27A75404-AA79-47C7-B520-B2E01D37A0DC" data-name="27A75404-AA79-47C7-B520-B2E01D37A0DC" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" fill="#777e90"/>
+    <path id="F1D2FD2B-9549-4E51-8FEC-AB92C45075EE" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8)" fill="#777e90"/>
+    <path id="_3B171B44-5E1F-4027-BADF-C6C05F5E49B9" data-name="3B171B44-5E1F-4027-BADF-C6C05F5E49B9" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 4)" fill="#777e90"/>
+    <path id="_594FAB73-EC3A-4C1E-94AF-327FE0A4BD29" data-name="594FAB73-EC3A-4C1E-94AF-327FE0A4BD29" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="_5870A90A-6821-493F-B9B0-B217025877B8" data-name="5870A90A-6821-493F-B9B0-B217025877B8" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 8)" fill="#777e90"/>
+    <path id="_8226D919-A4CB-44E1-AD5D-B6680BEF42CD" data-name="8226D919-A4CB-44E1-AD5D-B6680BEF42CD" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 8)" fill="#777e90"/>
+    <path id="_0113139F-755B-4784-8612-4DB124371663" data-name="0113139F-755B-4784-8612-4DB124371663" d="M2,1A1,1,0,1,1,1,0,1,1,0,0,1,2,1Z" transform="translate(0 12)" fill="#777e90"/>
+    <path id="_1B98481F-87DA-4C17-82E6-6C25521CC313" data-name="1B98481F-87DA-4C17-82E6-6C25521CC313" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 12)" fill="#777e90"/>
+  </g>
+</svg>

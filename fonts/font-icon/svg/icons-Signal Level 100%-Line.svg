@@ -1,0 +1,9 @@
+<svg id="icons_Signal_Level_100_Line" data-name="icons/Signal Level 100%/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(1 7)">
+    <path id="_7607B759-7C91-4C2E-A270-29B01E0543FE" data-name="7607B759-7C91-4C2E-A270-29B01E0543FE" d="M1,0A1,1,0,0,0,0,1V13a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(15)" fill="#777e90"/>
+    <path id="_46DF8C83-714A-4978-8ECB-BE624335F585" data-name="46DF8C83-714A-4978-8ECB-BE624335F585" d="M1,0A1,1,0,0,0,0,1V9A1,1,0,0,0,2,9V1A1,1,0,0,0,1,0Z" transform="translate(10 4)" fill="#777e90"/>
+    <path id="_1A0AE93B-5D48-42D1-A379-07196C06AB97" data-name="1A0AE93B-5D48-42D1-A379-07196C06AB97" d="M0,1A1,1,0,0,1,2,1V5A1,1,0,0,1,0,5Z" transform="translate(5 8)" fill="#777e90"/>
+    <path id="BB1D6B09-3362-4793-B4D6-E40B57AB7E61" d="M1,0A1,1,0,1,0,2,1,1,1,0,0,0,1,0Z" transform="translate(0 12)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,2,1V17a1,1,0,0,1-2,0Z" transform="translate(21 3)" fill="#777e90"/>
+</svg>

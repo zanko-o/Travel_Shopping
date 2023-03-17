@@ -1,0 +1,14 @@
+<svg id="icons_Microchip_Line" data-name="icons/Microchip/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M11,2H3A1,1,0,0,0,2,3v8a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V3A1,1,0,0,0,11,2ZM3,0A3,3,0,0,0,0,3v8a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(5 5)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M2,2V4H4V2ZM1,0A1,1,0,0,0,0,1V5A1,1,0,0,0,1,6H5A1,1,0,0,0,6,5V1A1,1,0,0,0,5,0Z" transform="translate(9 9)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(2 2)">
+    <path id="_488E01A1-514C-4AFB-BDF0-57CC88BAA4E0" data-name="488E01A1-514C-4AFB-BDF0-57CC88BAA4E0" d="M1,0A1,1,0,0,0,0,1V3H2V1A1,1,0,0,0,1,0Z" transform="translate(6)" fill="#777e90"/>
+    <path id="CE5A5162-00A2-4AC4-831D-9EA5CA473A9C" d="M2,2V0H0V2A1,1,0,0,0,2,2Z" transform="translate(6 17)" fill="#777e90"/>
+    <path id="_7FDA66E5-3359-4E4C-B4A4-578C3E4B8126" data-name="7FDA66E5-3359-4E4C-B4A4-578C3E4B8126" d="M0,1A1,1,0,0,1,2,1V3H0Z" transform="translate(12)" fill="#777e90"/>
+    <path id="_0599A1F3-2A00-4A38-8246-2D36B351738E" data-name="0599A1F3-2A00-4A38-8246-2D36B351738E" d="M2,2V0H0V2A1,1,0,0,0,2,2Z" transform="translate(12 17)" fill="#777e90"/>
+    <path id="_1ACE4CD1-A051-4CD1-AC85-7EE59F3260D5" data-name="1ACE4CD1-A051-4CD1-AC85-7EE59F3260D5" d="M2,0A1,1,0,0,1,2,2H0V0Z" transform="translate(17 6)" fill="#777e90"/>
+    <path id="_2D5ED427-EC4C-4CDB-B3B8-4F62FFBF8E53" data-name="2D5ED427-EC4C-4CDB-B3B8-4F62FFBF8E53" d="M1,2H3V0H1A1,1,0,0,0,1,2Z" transform="translate(0 6)" fill="#777e90"/>
+    <path id="_416FDA60-9E8D-4C3F-B67D-4EFA321564EF" data-name="416FDA60-9E8D-4C3F-B67D-4EFA321564EF" d="M2,0A1,1,0,0,1,2,2H0V0Z" transform="translate(17 12)" fill="#777e90"/>
+    <path id="_3058254A-7DCF-4328-A864-4F67B8C5EB1A" data-name="3058254A-7DCF-4328-A864-4F67B8C5EB1A" d="M1,2H3V0H1A1,1,0,0,0,1,2Z" transform="translate(0 12)" fill="#777e90"/>
+  </g>
+</svg>

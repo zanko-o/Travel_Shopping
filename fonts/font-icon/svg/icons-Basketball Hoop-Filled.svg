@@ -1,0 +1,8 @@
+<svg id="icons_Basketball_Hoop_Filled" data-name="icons/Basketball Hoop/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,0V5A1,1,0,0,0,2,5V4H4V5A1,1,0,0,0,6,5V4H8V5a1,1,0,0,0,2,0V0H8V2H6V0H4V2H2V0Z" transform="translate(7 16)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(2 2)">
+    <path id="A9E43558-7F2A-4916-BB18-08B63096082B" d="M2,0A2,2,0,0,0,0,2V12a2,2,0,0,0,2,2H5V10A1,1,0,0,1,5,8H15a1,1,0,0,1,0,2v4h3a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2Z" fill="#777e90"/>
+    <path id="C6E49341-2814-405D-81BC-B5E5E8FC347B" d="M0,0H2V2H0Z" transform="translate(7 10)" fill="#777e90"/>
+    <path id="B7B685E9-14A4-42DE-90CC-304E77138F36" d="M0,0V2H2V0Z" transform="translate(11 10)" fill="#777e90"/>
+  </g>
+</svg>

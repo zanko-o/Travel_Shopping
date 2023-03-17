@@ -1,0 +1,7 @@
+<svg id="icons_Cabinet_Files_Line" data-name="icons/Cabinet Files/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,4A4,4,0,0,1,4,0H16a4,4,0,0,1,4,4V16a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM4,2H16a2,2,0,0,1,2,2V9H2V4A2,2,0,0,1,4,2ZM2,11v5a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V11Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(9 6)">
+    <path id="C00868FB-589D-46D8-9A94-45CBEE8D4D4B" d="M1,0A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" fill="#777e90"/>
+    <path id="C9755838-730B-4557-9CD9-B74E4A9F2860" d="M1,0A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" transform="translate(0 9)" fill="#777e90"/>
+  </g>
+</svg>

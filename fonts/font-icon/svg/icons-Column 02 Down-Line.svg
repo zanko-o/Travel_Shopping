@@ -1,0 +1,10 @@
+<svg id="icons_Column_02_Down_Line" data-name="icons/Column 02 Down/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,1,0H21a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(1 19)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(3 3)">
+    <path id="_0AF9DD7F-1CF2-4985-810F-8B027B5C3C5B" data-name="0AF9DD7F-1CF2-4985-810F-8B027B5C3C5B" d="M1,0A1,1,0,0,0,0,1V13a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="_1AA3B31A-B4C7-4FE5-8A78-19C58735D3D5" data-name="1AA3B31A-B4C7-4FE5-8A78-19C58735D3D5" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(8 2)" fill="#777e90"/>
+    <path id="_91523BBE-99F5-4078-B331-868B1035BF9F" data-name="91523BBE-99F5-4078-B331-868B1035BF9F" d="M0,1A1,1,0,0,1,2,1V5A1,1,0,0,1,0,5Z" transform="translate(12 8)" fill="#777e90"/>
+    <path id="_74DFF5B3-D7AB-44EC-B119-AA0E500B9650" data-name="74DFF5B3-D7AB-44EC-B119-AA0E500B9650" d="M0,1A1,1,0,0,1,2,1V3A1,1,0,0,1,0,3Z" transform="translate(16 10)" fill="#777e90"/>
+    <path id="_795CE0F1-D415-4CEB-8303-07FB7791A7CD" data-name="795CE0F1-D415-4CEB-8303-07FB7791A7CD" d="M0,1A1,1,0,0,1,2,1V9A1,1,0,0,1,0,9Z" transform="translate(4 4)" fill="#777e90"/>
+  </g>
+</svg>

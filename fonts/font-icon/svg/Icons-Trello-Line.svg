@@ -1,0 +1,5 @@
+<svg id="Icons_Trello_Line" data-name="Icons/Trello/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Vector" d="M16,2H4A2,2,0,0,0,2,4V16a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V4A2,2,0,0,0,16,2ZM4,0A4,4,0,0,0,0,4V16a4,4,0,0,0,4,4H16a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Vector-2" data-name="Vector" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,1,1H4a1,1,0,0,0,1-1V1A1,1,0,0,0,4,0Z" transform="translate(6 6)" fill="#777e90"/>
+  <path id="Vector-3" data-name="Vector" d="M1,0A1,1,0,0,0,0,1V5A1,1,0,0,0,1,6H4A1,1,0,0,0,5,5V1A1,1,0,0,0,4,0Z" transform="translate(13 6)" fill="#777e90"/>
+</svg>

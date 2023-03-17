@@ -1,0 +1,5 @@
+<svg id="icons_Column_01_Up_Line" data-name="icons/Column 01 Up/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M4,15V3A1,1,0,0,0,2,3V15a1,1,0,0,0,2,0ZM3,0A3,3,0,0,0,0,3V15a3,3,0,0,0,6,0V3A3,3,0,0,0,3,0Z" transform="translate(17 3)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M4,10V3A1,1,0,0,0,2,3v7a1,1,0,0,0,2,0ZM3,0A3,3,0,0,0,0,3v7a3,3,0,0,0,6,0V3A3,3,0,0,0,3,0Z" transform="translate(9 8)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M4,6V3A1,1,0,0,0,2,3V6A1,1,0,0,0,4,6ZM3,0A3,3,0,0,0,0,3V6A3,3,0,0,0,6,6V3A3,3,0,0,0,3,0Z" transform="translate(1 12)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

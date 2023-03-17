@@ -1,0 +1,8 @@
+<svg id="icons_Delivery_Truck_Filled" data-name="icons/Delivery Truck/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1V8A1,1,0,0,0,1,9H9a1,1,0,0,0,1-1V4.664a2,2,0,0,0-.821-1.616L5.527.384A2,2,0,0,0,4.348,0H1A1,1,0,0,0,0,1Z" transform="translate(14 8)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M10,0H2A2,2,0,0,0,0,2v8a2,2,0,0,0,2,2h9a1,1,0,0,0,1-1V2A2,2,0,0,0,10,0Z" transform="translate(0 5)" fill="#777e90"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(3 15)">
+    <path id="_32E8B2A7-620E-4C41-9972-9C726BBFFC1A" data-name="32E8B2A7-620E-4C41-9972-9C726BBFFC1A" d="M2,4A2,2,0,1,0,0,2,2,2,0,0,0,2,4Z" fill="#777e90"/>
+    <path id="_3D64CC1F-93EF-4989-AC9F-F0888DEA9006" data-name="3D64CC1F-93EF-4989-AC9F-F0888DEA9006" d="M2,4A2,2,0,1,0,0,2,2,2,0,0,0,2,4Z" transform="translate(14)" fill="#777e90"/>
+  </g>
+</svg>

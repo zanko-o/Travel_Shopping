@@ -1,0 +1,7 @@
+<svg id="icons_Volume_Filled" data-name="icons/Volume/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(15 4)">
+    <path id="E81BE927-E3AC-49AD-A284-F1B388DCA3E7" d="M1,0A1,1,0,0,0,1,2,6,6,0,0,1,1,14a1,1,0,0,0,0,2A8,8,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="D561E0C5-2E98-4C39-B772-06CBF187BDF8" d="M1,0A1,1,0,0,0,1,2,2,2,0,0,1,1,6,1,1,0,0,0,1,8,4,4,0,0,0,1,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M5,4.888,9.632.545A2,2,0,0,1,13,2V13.771A2,2,0,0,1,9.632,15.23L5,10.888H2a2,2,0,0,1-2-2v-2a2,2,0,0,1,2-2Z" transform="translate(0 4.112)" fill="#777e90"/>
+</svg>

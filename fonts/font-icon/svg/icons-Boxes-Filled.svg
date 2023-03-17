@@ -1,0 +1,5 @@
+<svg id="icons_Boxes_Filled" data-name="icons/Boxes/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M2,0A2,2,0,0,0,0,2V8a2,2,0,0,0,2,2H8a2,2,0,0,0,2-2V2A2,2,0,0,0,8,0H6.5A.5.5,0,0,0,6,.5V2A1,1,0,0,1,4,2V.5A.5.5,0,0,0,3.5,0Z" transform="translate(13 13)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M2,0A2,2,0,0,0,0,2V8a2,2,0,0,0,2,2H8a2,2,0,0,0,2-2V2A2,2,0,0,0,8,0H6.5A.5.5,0,0,0,6,.5V2A1,1,0,0,1,4,2V.5A.5.5,0,0,0,3.5,0Z" transform="translate(1 13)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M2,0A2,2,0,0,0,0,2V8a2,2,0,0,0,2,2H8a2,2,0,0,0,2-2V2A2,2,0,0,0,8,0H6.5A.5.5,0,0,0,6,.5V2A1,1,0,0,1,4,2V.5A.5.5,0,0,0,3.5,0Z" transform="translate(7 1)" fill="#777e90"/>
+</svg>

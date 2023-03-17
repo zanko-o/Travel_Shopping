@@ -1,0 +1,9 @@
+<svg id="icons_Soccer_Field_Filled" data-name="icons/Soccer Field/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(0 4)">
+    <path id="_56821E4C-DB68-406D-A5CD-2F4CE65AF385" data-name="56821E4C-DB68-406D-A5CD-2F4CE65AF385" d="M0,3A3,3,0,0,1,3,0h7.5a.5.5,0,0,1,.5.5V3.738a.545.545,0,0,1-.37.5,4,4,0,0,0,0,7.518.545.545,0,0,1,.37.5V15.5a.5.5,0,0,1-.5.5H3a3,3,0,0,1-3-3v-.5A.5.5,0,0,1,.5,12H2A3,3,0,0,0,5,9V7A3,3,0,0,0,2,4H.5A.5.5,0,0,1,0,3.5Z" fill="#777e90"/>
+    <path id="_7452176B-931B-4D5F-89DA-BDBBCEF2D9A8" data-name="7452176B-931B-4D5F-89DA-BDBBCEF2D9A8" d="M.5,0A.5.5,0,0,0,0,.5v3A.5.5,0,0,0,.5,4H2A1,1,0,0,0,3,3V1A1,1,0,0,0,2,0Z" transform="translate(0 6)" fill="#777e90"/>
+    <path id="_0DB400BD-FBDB-490E-B199-9246D5BB6C90" data-name="0DB400BD-FBDB-490E-B199-9246D5BB6C90" d="M.37,4.241a.545.545,0,0,1-.37-.5V.5A.5.5,0,0,1,.5,0H8a3,3,0,0,1,3,3v.5a.5.5,0,0,1-.5.5H9A3,3,0,0,0,6,7V9a3,3,0,0,0,3,3h1.5a.5.5,0,0,1,.5.5V13a3,3,0,0,1-3,3H.5a.5.5,0,0,1-.5-.5V12.262a.545.545,0,0,1,.37-.5A4,4,0,0,0,3,8,4,4,0,0,0,.37,4.241Z" transform="translate(13)" fill="#777e90"/>
+    <path id="DFFA75B9-C1AF-47A4-9F20-1FE3BAD220C6" d="M2.5,4A.5.5,0,0,0,3,3.5V.5A.5.5,0,0,0,2.5,0H1A1,1,0,0,0,0,1V3A1,1,0,0,0,1,4Z" transform="translate(21 6)" fill="#777e90"/>
+    <path id="D7E61E84-78FC-4548-B4B1-EBB0EC9BB55C" d="M2,4A2,2,0,1,0,0,2,2,2,0,0,0,2,4Z" transform="translate(10 6)" fill="#777e90"/>
+  </g>
+</svg>

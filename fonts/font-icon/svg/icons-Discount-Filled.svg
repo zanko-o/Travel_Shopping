@@ -1,0 +1,7 @@
+<svg id="icons_Discount_Filled" data-name="icons/Discount/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 3)">
+    <path id="BB967C01-4B2C-4683-B94D-3B227A10460C" d="M3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" fill="#777e90"/>
+    <path id="_4B2184BF-C1C0-43FC-9E68-0AADD14272DB" data-name="4B2184BF-C1C0-43FC-9E68-0AADD14272DB" d="M3,6A3,3,0,1,0,0,3,3,3,0,0,0,3,6Z" transform="translate(12 12)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M13.6.2a1,1,0,0,1,.2,1.4l-12,16A1,1,0,1,1,.2,16.4l12-16A1,1,0,0,1,13.6.2Z" transform="translate(5 3)" fill="#777e90"/>
+</svg>

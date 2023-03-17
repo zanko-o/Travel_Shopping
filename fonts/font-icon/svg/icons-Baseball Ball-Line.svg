@@ -1,0 +1,7 @@
+<svg id="icons_Baseball_Ball_Line" data-name="icons/Baseball Ball/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10,18a8,8,0,1,0-8-8A8,8,0,0,0,10,18Zm0,2A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(2 2)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(4.5 3.999)">
+    <path id="_15A7E361-C191-40D0-936D-B5A73C48E4DD" data-name="15A7E361-C191-40D0-936D-B5A73C48E4DD" d="M1.5,16a9.985,9.985,0,0,0,4-8,9.985,9.985,0,0,0-4-8A10.059,10.059,0,0,0,0,1.386,7.992,7.992,0,0,1,3.5,8,7.992,7.992,0,0,1,0,14.616,10.066,10.066,0,0,0,1.5,16Z" fill="#777e90"/>
+    <path id="CD9C9ED1-F0DB-4700-9C91-E8C36548B4E5" d="M4,0A10,10,0,0,0,4,16a10.069,10.069,0,0,0,1.5-1.386,8,8,0,0,1,0-13.23A10.061,10.061,0,0,0,4,0Z" transform="translate(9.5 0)" fill="#777e90"/>
+  </g>
+</svg>

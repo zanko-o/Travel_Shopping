@@ -1,0 +1,4 @@
+<svg id="icons_Eye_Filled" data-name="icons/Eye/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M11.224,16c5.026,0,8.474-3.158,10.342-5.506a3.967,3.967,0,0,0,0-4.988C19.7,3.158,16.251,0,11.224,0S2.75,3.158.882,5.506a3.967,3.967,0,0,0,0,4.988C2.75,12.842,6.2,16,11.224,16Zm0-4a4,4,0,1,0-4-4A4,4,0,0,0,11.224,12Z" transform="translate(0.776 4)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1.915Q0,1.957,0,2A2,2,0,1,0,2,0L1.915,0A1.5,1.5,0,0,1,0,1.915Z" transform="translate(10 10)" fill="#777e90"/>
+</svg>

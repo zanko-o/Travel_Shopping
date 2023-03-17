@@ -1,0 +1,9 @@
+<svg id="icons_Calculator_Line" data-name="icons/Calculator/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(14 15)">
+    <path id="E7634C5C-6868-414F-9119-7FAF717DCD64" d="M1,0A1,1,0,0,0,1,2H7A1,1,0,0,0,7,0Z" fill="#777e90"/>
+    <path id="_5DAA596A-526A-423A-A55B-78D0FD9A5B7C" data-name="5DAA596A-526A-423A-A55B-78D0FD9A5B7C" d="M1,0A1,1,0,0,0,1,2H7A1,1,0,0,0,7,0Z" transform="translate(0 4)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M1.707.293A1,1,0,0,0,.293,1.707L2.086,3.5.293,5.293A1,1,0,0,0,1.707,6.707L3.5,4.914,5.293,6.707A1,1,0,0,0,6.707,5.293L4.914,3.5,6.707,1.707A1,1,0,1,0,5.293.293L3.5,2.086Z" transform="translate(2.5 14.5)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M3,7A1,1,0,0,0,5,7V5H7A1,1,0,0,0,7,3H5V1A1,1,0,0,0,3,1V3H1A1,1,0,0,0,1,5H3Z" transform="translate(14 2)" fill="#777e90"/>
+  <path id="Shape-4" data-name="Shape" d="M0,1A1,1,0,0,1,1,0H7A1,1,0,0,1,7,2H1A1,1,0,0,1,0,1Z" transform="translate(2 5)" fill="#777e90"/>
+</svg>

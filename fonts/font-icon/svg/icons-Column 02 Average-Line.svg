@@ -1,0 +1,10 @@
+<svg id="icons_Column_02_Average_Line" data-name="icons/Column 02 Average/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,1A1,1,0,0,1,1,0H21a1,1,0,0,1,0,2H1A1,1,0,0,1,0,1Z" transform="translate(1 19)" fill="#777e90"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(3 3)">
+    <path id="CAC371FD-66BE-4702-AA03-9FECF0CCDA10" d="M1,0A1,1,0,0,0,0,1V13a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" fill="#777e90"/>
+    <path id="E8D1CCE8-ED9C-45E7-A6BA-6A9FABFC1EB6" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(16 2)" fill="#777e90"/>
+    <path id="_2D9B4717-4CE6-410D-971F-6FF532C4D1FA" data-name="2D9B4717-4CE6-410D-971F-6FF532C4D1FA" d="M0,1A1,1,0,0,1,2,1V5A1,1,0,0,1,0,5Z" transform="translate(12 8)" fill="#777e90"/>
+    <path id="_2ECE7B5A-5661-43E5-BC2D-CABC465753F9" data-name="2ECE7B5A-5661-43E5-BC2D-CABC465753F9" d="M0,1A1,1,0,0,1,2,1V3A1,1,0,0,1,0,3Z" transform="translate(4 10)" fill="#777e90"/>
+    <path id="_9D9659C5-BFDA-4DDF-9B39-1FAED2B0CFDC" data-name="9D9659C5-BFDA-4DDF-9B39-1FAED2B0CFDC" d="M0,1A1,1,0,0,1,2,1V9A1,1,0,0,1,0,9Z" transform="translate(8 4)" fill="#777e90"/>
+  </g>
+</svg>

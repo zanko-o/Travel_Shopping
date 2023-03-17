@@ -1,0 +1,9 @@
+<svg id="icons_Medical_Mask_Line" data-name="icons/Medical Mask/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M16,8.354V3.377a1,1,0,0,0-.89-.994l-.81-.09a48,48,0,0,0-10.6,0l-.81.09A1,1,0,0,0,2,3.377V8.354a4.676,4.676,0,0,0,2.777,4.273,10.4,10.4,0,0,0,8.446,0A4.676,4.676,0,0,0,16,8.354ZM2.669.4A3,3,0,0,0,0,3.377V8.354a6.676,6.676,0,0,0,3.965,6.1,12.4,12.4,0,0,0,10.071,0A6.676,6.676,0,0,0,18,8.354V3.377A3,3,0,0,0,15.331.4l-.81-.09a50,50,0,0,0-11.043,0Z" transform="translate(3 4.308)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(0 8)">
+    <path id="FF042F03-1815-4349-8379-8FADD52E5ACE" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Z" fill="#777e90"/>
+    <path id="_3A950C00-92A8-45AF-B8BF-33ACBE4A61E9" data-name="3A950C00-92A8-45AF-B8BF-33ACBE4A61E9" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Z" transform="translate(19)" fill="#777e90"/>
+    <path id="_5DDA772F-1BBD-4292-A174-54FD569EF59C" data-name="5DDA772F-1BBD-4292-A174-54FD569EF59C" d="M0,1A1,1,0,0,1,1,0H4A1,1,0,0,1,4,2H1A1,1,0,0,1,0,1Z" transform="translate(0 5)" fill="#777e90"/>
+    <path id="A7670815-83D4-4928-AD75-A57A5CE0A23C" d="M1,0A1,1,0,0,0,1,2H4A1,1,0,0,0,4,0Z" transform="translate(19 5)" fill="#777e90"/>
+  </g>
+</svg>

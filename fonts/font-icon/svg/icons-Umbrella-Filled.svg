@@ -1,0 +1,5 @@
+<svg id="icons_Umbrella_Filled" data-name="icons/Umbrella/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M2,1A1,1,0,0,0,0,1V4A3,3,0,0,0,6,4,1,1,0,0,0,4,4,1,1,0,0,1,2,4Z" transform="translate(11 15)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M17.785,9.325a1.322,1.322,0,0,0,1.808-1.446A10.075,10.075,0,0,0,9.811,0,10.075,10.075,0,0,0,.029,7.879,1.322,1.322,0,0,0,1.838,9.325a3.079,3.079,0,0,1,1.947,0l1.2.4a3,3,0,0,0,1.676.064l2.425-.606a3,3,0,0,1,1.455,0l2.425.606a3,3,0,0,0,1.676-.064l1.2-.4A3.079,3.079,0,0,1,17.785,9.325Z" transform="translate(2.189 4)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0,1A1,1,0,0,1,2,1V2A1,1,0,0,1,0,2Z" transform="translate(11 2)" fill="#777e90"/>
+</svg>

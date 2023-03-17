@@ -1,0 +1,9 @@
+<svg id="icons_File_Table_Filled" data-name="icons/File Table/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 1)">
+    <path id="AE5D0465-30BE-4A15-87E2-9BB96CF8C522" d="M6,.5A.5.5,0,0,0,5.5,0H3A3,3,0,0,0,0,3V13.5a.5.5,0,0,0,.5.5h5a.5.5,0,0,0,.5-.5Z" fill="#777e90"/>
+    <path id="_8A84CACD-B93D-49D0-8251-CFAE5D80F15B" data-name="8A84CACD-B93D-49D0-8251-CFAE5D80F15B" d="M.5,0A.5.5,0,0,0,0,.5V3A3,3,0,0,0,3,6H5.5A.5.5,0,0,0,6,5.5V.5A.5.5,0,0,0,5.5,0Z" transform="translate(0 16)" fill="#777e90"/>
+    <path id="_4D31F97F-AB46-4C32-AF36-E7036DBBFB47" data-name="4D31F97F-AB46-4C32-AF36-E7036DBBFB47" d="M0,5.5A.5.5,0,0,0,.5,6H7a3,3,0,0,0,3-3V.5A.5.5,0,0,0,9.5,0H.5A.5.5,0,0,0,0,.5Z" transform="translate(8 16)" fill="#777e90"/>
+    <path id="_78607099-E132-44EA-9A5F-1699A67A5EED" data-name="78607099-E132-44EA-9A5F-1699A67A5EED" d="M10,13.5a.5.5,0,0,1-.5.5H.5a.5.5,0,0,1-.5-.5V.5A.5.5,0,0,1,.5,0H2A1,1,0,0,1,3,1V4A3,3,0,0,0,6,7H9a1,1,0,0,1,1,1Z" transform="translate(8)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M.977.052C.468-.162,0,.322,0,.874v3a1,1,0,0,0,1,1H4c.552,0,1.036-.468.822-.977a1.88,1.88,0,0,0-.408-.608L1.586.46A1.88,1.88,0,0,0,.977.052Z" transform="translate(16 1.126)" fill="#777e90"/>
+</svg>

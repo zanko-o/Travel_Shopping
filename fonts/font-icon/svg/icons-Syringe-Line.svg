@@ -1,0 +1,8 @@
+<svg id="icons_Syringe_Line" data-name="icons/Syringe/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M10.707.293A1,1,0,0,0,9.293,1.707L9.586,2,3.807,7.779A5,5,0,0,0,2.439,12.3l.475,2.376L.293,17.293a1,1,0,0,0,1.414,1.414l2.622-2.622,2.376.475a5,5,0,0,0,4.516-1.367L17,9.414l.293.293a1,1,0,0,0,1.414-1.414ZM11,3.414,5.221,9.193A3,3,0,0,0,4.4,11.9L4.85,14.15,7.1,14.6a3,3,0,0,0,2.71-.82L15.586,8Z" transform="translate(2 3)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(10 11)">
+    <path id="_7F849EA5-0C84-474A-89B8-B18669EDF8C1" data-name="7F849EA5-0C84-474A-89B8-B18669EDF8C1" d="M1.707.293A1,1,0,0,0,.293,1.707l2,2A1,1,0,0,0,3.707,2.293Z" transform="translate(3 0)" fill="#777e90"/>
+    <path id="_88158F14-3DCD-43D7-B6B5-817AD1B81D57" data-name="88158F14-3DCD-43D7-B6B5-817AD1B81D57" d="M1.707.293A1,1,0,1,0,.293,1.707l2,2A1,1,0,1,0,3.707,2.293Z" transform="translate(0 3)" fill="#777e90"/>
+  </g>
+  <path id="Shape-3" data-name="Shape" d="M2,.293A1,1,0,0,0,.586,1.707L1.879,3,.293,4.586A1,1,0,0,0,1.707,6L3.293,4.414,4.586,5.707A1,1,0,0,0,6,4.293Z" transform="translate(15.707 2)" fill="#777e90"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg id="icons_Paint_Roller_Filled" data-name="icons/Paint Roller/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,2A2,2,0,0,1,2,0H12a2,2,0,0,1,2,2V4a2,2,0,0,1-2,2H2A2,2,0,0,1,0,4Z" transform="translate(3 1)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M11,0a1,1,0,0,1,1,1V4.36A3,3,0,0,1,9.588,7.3L2.8,8.659A1,1,0,0,0,2,9.64V12a1,1,0,0,1-2,0V9.64A3,3,0,0,1,2.412,6.7L9.2,5.341A1,1,0,0,0,10,4.36V1A1,1,0,0,1,11,0Z" transform="translate(9 3)" fill="#777e90"/>
+  <path id="Shape-3" data-name="Shape" d="M0,2A2,2,0,0,1,4,2V7A2,2,0,0,1,0,7Z" transform="translate(8 14)" fill="#777e90"/>
+</svg>

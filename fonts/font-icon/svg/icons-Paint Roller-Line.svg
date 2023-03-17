@@ -1,0 +1,5 @@
+<svg id="icons_Paint_Roller_Line" data-name="icons/Paint Roller/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M8,2A1,1,0,0,1,9,3V5.21a1,1,0,0,1-.89.994l-5.442.6A3,3,0,0,0,0,9.79V11a1,1,0,0,0,2,0V9.79A1,1,0,0,1,2.89,8.8l5.442-.6A3,3,0,0,0,11,5.21V3A3,3,0,0,0,8,0,1,1,0,0,0,8,2Z" transform="translate(10 4)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M4,6V3A1,1,0,0,0,2,3V6A1,1,0,0,0,4,6ZM3,0A3,3,0,0,0,0,3V6A3,3,0,0,0,6,6V3A3,3,0,0,0,3,0Z" transform="translate(8 14)" fill="#777e90" fill-rule="evenodd"/>
+  <path id="Shape-3" data-name="Shape" d="M13,2H3A1,1,0,0,0,2,3V5A1,1,0,0,0,3,6H13a1,1,0,0,0,1-1V3A1,1,0,0,0,13,2ZM3,0A3,3,0,0,0,0,3V5A3,3,0,0,0,3,8H13a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

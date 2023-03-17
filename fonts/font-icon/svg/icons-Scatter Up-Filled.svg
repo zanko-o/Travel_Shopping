@@ -1,0 +1,15 @@
+<svg id="icons_Scatter_Up_Filled" data-name="icons/Scatter Up/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 11)">
+    <path id="_62B4E913-C98F-4C48-87A6-731CACD9B13D" data-name="62B4E913-C98F-4C48-87A6-731CACD9B13D" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(16)" fill="#777e90"/>
+    <path id="A852114B-15D8-4190-A946-DC99C2AA282C" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(16 4)" fill="#777e90"/>
+    <path id="_927374CA-A3C6-4E18-8515-44D2BE6D69CC" data-name="927374CA-A3C6-4E18-8515-44D2BE6D69CC" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(16 8)" fill="#777e90"/>
+    <path id="B88A3E36-9F0A-4467-93A2-9E091FED9E4D" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="AAC0BBD8-F6A3-47AD-8D3B-037FEEB80BFF" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(8 8)" fill="#777e90"/>
+    <path id="_7B8D2407-6430-4EB7-9706-DF0EF3E0EE00" data-name="7B8D2407-6430-4EB7-9706-DF0EF3E0EE00" d="M1,2A1,1,0,1,0,0,1,1,1,0,0,0,1,2Z" transform="translate(0 8)" fill="#777e90"/>
+  </g>
+  <g id="Shape-2" data-name="Shape" transform="translate(1 3)">
+    <path id="C718CC29-40FF-49EA-9D52-68D4F03D48B1" d="M0,3A3,3,0,1,0,3,0,3,3,0,0,0,0,3Z" transform="translate(16)" fill="#777e90"/>
+    <path id="F362F69E-628A-4D97-A0AE-7C251851C806" d="M0,3A3,3,0,1,0,3,0,3,3,0,0,0,0,3Z" transform="translate(8 4)" fill="#777e90"/>
+    <path id="EADF0A3C-75F3-4F8C-AAB4-5BA7B8CA4CE4" d="M3,6A3,3,0,1,1,6,3,3,3,0,0,1,3,6Z" transform="translate(0 8)" fill="#777e90"/>
+  </g>
+</svg>

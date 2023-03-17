@@ -1,0 +1,4 @@
+<svg id="icons_Circular_02_Line" data-name="icons/Circular 02/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M9,1a1,1,0,0,1,1-1A10,10,0,1,1,0,10a1,1,0,0,1,2,0,8,8,0,1,0,8-8A1,1,0,0,1,9,1Z" transform="translate(2 2)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M0,1A1,1,0,0,1,1,0,5,5,0,0,1,1,10,1,1,0,0,1,1,8,3,3,0,0,0,1,2,1,1,0,0,1,0,1Z" transform="translate(11 7)" fill="#777e90"/>
+</svg>

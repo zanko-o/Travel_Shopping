@@ -1,0 +1,17 @@
+<svg id="icons_Candlesticks_Line" data-name="icons/Candlesticks/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(3 3)">
+    <path id="_8E807AE5-B015-4F01-9FC4-71F12521AACB" data-name="8E807AE5-B015-4F01-9FC4-71F12521AACB" d="M2,1A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3Z" fill="#777e90"/>
+    <path id="E22FC6D7-7248-4FB0-86FB-DB00DAC6526A" d="M2,1A1,1,0,0,0,0,1V7A1,1,0,0,0,2,7Z" transform="translate(0 8)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M4,5V3A1,1,0,0,0,2,3V5A1,1,0,0,0,4,5ZM3,0A3,3,0,0,0,0,3V5A3,3,0,0,0,6,5V3A3,3,0,0,0,3,0Z" transform="translate(1 5)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-3" data-name="Shape" transform="translate(11 7)">
+    <path id="C2A02136-EF6C-4B99-B331-8DE83D75FC94" d="M2,1A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4Z" fill="#777e90"/>
+    <path id="_5262FFA7-BC7D-47FC-8B81-4A1A2C0F4CC1" data-name="5262FFA7-BC7D-47FC-8B81-4A1A2C0F4CC1" d="M2,1A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3Z" transform="translate(0 10)" fill="#777e90"/>
+  </g>
+  <path id="Shape-4" data-name="Shape" d="M4,6V3A1,1,0,0,0,2,3V6A1,1,0,0,0,4,6ZM3,0A3,3,0,0,0,0,3V6A3,3,0,0,0,6,6V3A3,3,0,0,0,3,0Z" transform="translate(9 10)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-5" data-name="Shape" transform="translate(19 3)">
+    <path id="_11613007-1305-4F83-BA56-222FA4A4E1C7" data-name="11613007-1305-4F83-BA56-222FA4A4E1C7" d="M2,1A1,1,0,0,0,0,1V3A1,1,0,0,0,2,3Z" fill="#777e90"/>
+    <path id="C2553669-0395-4C5A-935E-FB1BB04188F3" d="M2,1A1,1,0,0,0,0,1V4A1,1,0,0,0,2,4Z" transform="translate(0 11)" fill="#777e90"/>
+  </g>
+  <path id="Shape-6" data-name="Shape" d="M4,8V3A1,1,0,0,0,2,3V8A1,1,0,0,0,4,8ZM3,0A3,3,0,0,0,0,3V8A3,3,0,0,0,6,8V3A3,3,0,0,0,3,0Z" transform="translate(17 5)" fill="#777e90" fill-rule="evenodd"/>
+</svg>

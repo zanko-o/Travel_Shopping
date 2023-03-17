@@ -1,0 +1,4 @@
+<svg id="icons_Lollipop_Filled" data-name="icons/Lollipop/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M7.707.293a1,1,0,0,1,0,1.414l-6,6A1,1,0,0,1,.293,6.293l6-6A1,1,0,0,1,7.707.293Z" transform="translate(2 14)" fill="#777e90"/>
+  <path id="Shape-2" data-name="Shape" d="M7.545,11A5.494,5.494,0,1,0,2.169,6.669a.54.54,0,0,1-.38.645L.758,7.572A1,1,0,0,0,.294,9.249l3.5,3.5a1,1,0,0,0,1.677-.465l.258-1.031a.54.54,0,0,1,.645-.38A5.521,5.521,0,0,0,7.545,11Z" transform="translate(8.955 2)" fill="#777e90"/>
+</svg>

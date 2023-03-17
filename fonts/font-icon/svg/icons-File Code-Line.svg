@@ -1,0 +1,7 @@
+<svg id="icons_File_Code_Line" data-name="icons/File Code/Line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,4A4,4,0,0,1,4,0h8.343a4,4,0,0,1,2.829,1.172l1.657,1.657A4,4,0,0,1,18,5.657V18a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM16,7V18a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V4A2,2,0,0,1,4,2h7V4a3,3,0,0,0,3,3Zm-.111-2a2,2,0,0,0-.475-.757L13.757,2.586A2,2,0,0,0,13,2.111V4a1,1,0,0,0,1,1Z" transform="translate(3 1)" fill="#777e90" fill-rule="evenodd"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(7 11)">
+    <path id="_1DB677C4-FA30-4DD6-834F-8A42A86C24AA" data-name="1DB677C4-FA30-4DD6-834F-8A42A86C24AA" d="M.293,2.293a1,1,0,0,0,0,1.414l2,2A1,1,0,0,0,3.707,4.293L2.414,3,3.707,1.707A1,1,0,0,0,2.293.293Z" transform="translate(0 0)" fill="#777e90"/>
+    <path id="E21FB91D-6523-4C61-BFEF-6FD328193992" d="M1.707.293l2,2a1,1,0,0,1,0,1.414l-2,2A1,1,0,0,1,.293,4.293L1.586,3,.293,1.707A1,1,0,0,1,1.707.293Z" transform="translate(6 0)" fill="#777e90"/>
+  </g>
+</svg>

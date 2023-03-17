@@ -1,0 +1,7 @@
+<svg id="icons_Hospital_Building_Filled" data-name="icons/Hospital Building/Filled" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Shape" transform="translate(1 9)">
+    <path id="_679A535D-F48C-4C5C-89E3-CF1E4D93443D" data-name="679A535D-F48C-4C5C-89E3-CF1E4D93443D" d="M1,0A1,1,0,0,1,2,1V11a1,1,0,0,1-2,0V1A1,1,0,0,1,1,0Z" fill="#777e90"/>
+    <path id="_3E16B915-2CC2-490D-8E3A-0123FCD789BE" data-name="3E16B915-2CC2-490D-8E3A-0123FCD789BE" d="M1,0A1,1,0,0,0,0,1V11a1,1,0,0,0,2,0V1A1,1,0,0,0,1,0Z" transform="translate(20)" fill="#777e90"/>
+  </g>
+  <path id="Shape-2" data-name="Shape" d="M0,3A3,3,0,0,1,3,0h8a3,3,0,0,1,3,3V17a1,1,0,0,1-1,1H9V14a1,1,0,0,0-1-1H6a1,1,0,0,0-1,1v4H1a1,1,0,0,1-1-1ZM7,3A1,1,0,0,0,6,4V5H5A1,1,0,0,0,5,7H6V8A1,1,0,0,0,8,8V7H9A1,1,0,0,0,9,5H8V4A1,1,0,0,0,7,3Z" transform="translate(5 3)" fill="#777e90" fill-rule="evenodd"/>
+</svg>
