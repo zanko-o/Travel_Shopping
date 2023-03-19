@@ -7,17 +7,25 @@ function outsideElementClickHandler(elementorSelector, functionHandler) {
   });
 }
 $(document).ready(function () {
-
-    let btnTravelers = document.getElementById("btn-travelers");
-    let travelersDropdown = $('#travelersDropdown')
-    console.log(travelersDropdown);
-    btnTravelers.addEventListener("click", function () {
-        $('#travelersDropdown').addClass("show");
-        $(this).addClass("show");
-    });
-    outsideElementClickHandler("#btn-travelers", function (e) {
-      $('#travelersDropdown').removeClass("show");
-      $('#btn-travelers').removeClass("show");
-
-    });
+  let btnTravelers = $("#btn-travelers");;
+  let travelersDropdown = $("#travelersDropdown");
+  let btnLanguage = $("#btnLanguage");
+  let LanguageDropdown = $("#LanguageDropdown");
+  // console.log(travelersDropdown);
+  btnTravelers.on("click", function () {
+    travelersDropdown.toggleClass("show");
+    $(this).toggleClass("show");
+  });
+  outsideElementClickHandler("#btn-travelers", function (e) {
+    travelersDropdown.removeClass("show");
+    $("#btn-travelers").removeClass("show");
+  });
+  btnLanguage.on("click", function () {
+    LanguageDropdown.toggleClass("show");
+    $(this).toggleClass("show");
+  });
+  outsideElementClickHandler("#btnLanguage", function (e) {
+    btnLanguage.removeClass("show");
+    LanguageDropdown.removeClass("show");
+  });
 });
