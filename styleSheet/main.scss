@@ -2,7 +2,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-around;
- padding: 20px 0;
+  padding: 20px 0;
 }
 .right {
   display: flex;
@@ -22,10 +22,10 @@ header {
     font-weight: 700;
     color: #777e90;
     position: relative;
-    transition: .3s;
-    &.show{
-      color: #23262F;
-      >i::before{
+    transition: 0.3s;
+    &.show {
+      color: #23262f;
+      > i::before {
         color: inherit;
       }
     }
@@ -33,13 +33,14 @@ header {
       margin-right: 8px;
       font-size: 14px;
     }
-    .Language-dropdown{
+    .Language-dropdown {
       position: absolute;
       top: 62px;
       left: 0;
       border-radius: 20px;
-      background: #FCFCFD;
-      box-shadow:0 40px 32px rgba(15, 15, 15, 0.12);
+      background: #fcfcfd;
+      // box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+      box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
       padding: 16px 42px 28px 16px;
       min-width: 292px;
       max-width: 400px;
@@ -48,35 +49,33 @@ header {
       justify-content: center;
       flex-wrap: wrap;
       display: none;
-      transition: .3s;
-      &.show{
+      transition: 0.3s;
+      &.show {
         display: flex;
-
       }
-      li{
+      li {
         border-radius: 8px;
         padding: 11px 28px 12px 20px;
         width: 50%;
-        transition: .3s;
+        transition: 0.3s;
         text-align: left;
-        &:hover{
-        background: #F4F5F6;
+        &:hover {
+          background: #f4f5f6;
         }
-        a{
+        a {
           display: flex;
           flex-direction: column;
-          .Language-name{
+          .Language-name {
             font-size: 14px;
             font-weight: 700;
-            color: #23262F;
+            color: #23262f;
             white-space: nowrap;
-            
           }
-         .Language-country{
+          .Language-country {
             font-size: 12px;
-            font-family: 'Poppins';
+            font-family: "Poppins";
             font-weight: 400;
-            color: #B1B5C3;
+            color: #b1b5c3;
             white-space: nowrap;
           }
         }
@@ -91,6 +90,7 @@ header {
     font-size: 14px;
     color: #23262f;
     font-weight: 700;
+    white-space: nowrap;
     i {
       margin-right: 13px;
     }
@@ -98,7 +98,13 @@ header {
   .Notifications {
     position: relative;
     margin-left: 35px;
-    i {
+    margin-top: 8px;
+    &.show {
+      > i::before {
+        color: #141416;
+      }
+    }
+    > i {
       font-size: 21px;
     }
     > span {
@@ -110,15 +116,231 @@ header {
       top: -10px;
       right: -10px;
     }
+    position: relative;
+    transition: 0.3s;
+    #NotificationsDropdown {
+      display: none;
+      position: absolute;
+      top: 62px;
+      right: 0;
+      min-width: 320px;
+      max-width: 350px;
+      height: 385px;
+      overflow-y: auto;
+      background: linear-gradient(
+        83.59deg,
+        #fcfcfd 36.52%,
+        rgba(252, 252, 253, 0.83) 98.8%
+      );
+      box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+      border-radius: 24px;
+      padding: 40px 16px 32px;
+
+      /*======================== scroll Bar ===========================  */
+      /* width */
+      &::-webkit-scrollbar {
+        width: 5px;
+      }
+
+      /* Track */
+      &::-webkit-scrollbar-track {
+        background: transparent;
+      }
+
+      /* Handle */
+      &::-webkit-scrollbar-thumb {
+        background: #a8a8a8;
+        border-radius: 3px;
+      }
+
+      /* Handle on hover */
+      &::-webkit-scrollbar-thumb:hover {
+        background: #888;
+      }
+      /*======================== END scroll Bar =======================  */
+      &.show {
+        display: block;
+      }
+
+      h4 {
+        font-family: "Poppins";
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 20px;
+      }
+      .Notifications-message {
+        transition: 0.3s ease;
+        padding: 5px;
+        border-radius: 5px;
+        &:hover {
+          background: #ececec;
+        }
+        &:not(:last-child) {
+          margin-bottom: 12px;
+        }
+        > a {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+        }
+        .message-pic {
+          width: 48px;
+          min-width: 48px;
+          height: 48px;
+          min-height: 48px;
+
+          border-radius: 50%;
+          overflow: hidden;
+          margin-right: 24px;
+          align-self: flex-start;
+          img {
+            object-fit: cover;
+          }
+        }
+        .message-detils {
+          display: flex;
+          // align-items: center;
+          flex-direction: column;
+          font-family: "Poppins";
+          margin-right: 15px;
+          width: 65%;
+          > span {
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+          }
+          .message-name {
+            font-size: 16px;
+            font-weight: 500;
+            color: #141416;
+            margin-bottom: 4px;
+          }
+          .message-text {
+            font-size: 14px;
+            font-weight: 400;
+            color: #353945;
+          }
+          .message-time {
+            font-size: 12px;
+            font-weight: 400;
+            color: #777e90;
+          }
+        }
+        .wr-message-status {
+          .message-status {
+            display: block;
+            background: #3b71fe;
+            width: 12px;
+            height: 12px;
+            border-radius: 12px;
+          }
+        }
+      }
+    }
   }
-  .profile-pic {
-    width: 40px;
-    height: 40px;
-    overflow: hidden;
-    border-radius: 50%;
-    margin-left: 34px;
-    img {
-      object-fit: cover;
+  .profileUser {
+    position: relative;
+    .show {
+    }
+    .profile-pic {
+      width: 40px;
+      height: 40px;
+      overflow: hidden;
+      border-radius: 50%;
+      margin-left: 34px;
+      img {
+        object-fit: cover;
+      }
+    }
+    #profileUserDropdown {
+      position: absolute;
+      top: 62px;
+      right: 0;
+      background: #fcfcfd;
+      padding: 0 16px 16px;
+      width: 260px;
+      box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+      border-radius: 20px;
+      display: none;
+      &.show {
+        display: block;
+      }
+      > ul.profileUser-menu {
+        padding: 16px 0;
+        border-bottom: 1px solid #e6e8ec;
+        &.border-bottom-none {
+          border-bottom: 0;
+        }
+        li {
+          display: block;
+          a {
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            border-radius: 24px;
+            transition: 0.3s ease;
+            &:hover {
+              background: #23262f;
+              i::before {
+                color: #e6e8ec;
+              }
+
+              span {
+                color: #e6e8ec;
+              }
+            }
+            i {
+              margin-right: 12px;
+            }
+            span {
+              color: #777e90;
+              font-size: 14px;
+              font-family: "DM Sans";
+              font-weight: 700;
+            }
+          }
+        }
+      }
+      .profileUser-menu {
+      }
+      .profileUser-menu-2 {
+      }
+      .profileUser-btn {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .Account {
+          font-weight: 700;
+          font-size: 14px;
+          background: #3b71fe;
+          padding: 12px;
+          color: #fcfcfd;
+          border-radius: 90px;
+          white-space: nowrap;
+          margin-right: 8px;
+          flex: 1;
+          text-align: center;
+          transition: 0.3s;
+          &:hover {
+            box-shadow: 0px 4px 16px rgba(59, 113, 254, 0.4);
+          }
+        }
+        .Logout {
+          white-space: nowrap;
+          font-weight: 700;
+          font-size: 14px;
+          padding: 12px;
+          text-align: center;
+          color: #23262f;
+          flex: 1;
+          border-radius: 90px;
+          border: 2px solid #e6e8ec;
+          &:hover {
+            border-color: #bcbec2;
+          }
+        }
+      }
     }
   }
 }
@@ -128,14 +350,14 @@ header {
   .logo {
     padding-right: 44px;
     border-right: 1px solid #e6e8ec;
-    a{
+    a {
       display: flex;
       align-items: center;
     }
-    span{
+    span {
       font-size: 27px;
-      font-family: 'Poppins';
-      color: #23262F;
+      font-family: "Poppins";
+      color: #23262f;
       margin-left: 10px;
       font-weight: 600;
     }
@@ -158,11 +380,11 @@ header {
     > i {
       font-size: 22px;
       margin-left: 5.5px;
-      transition: .3s;
+      transition: 0.3s;
     }
-    &.show{
+    &.show {
       color: #23262f;
-      >i {
+      > i {
         transform: rotate(180deg);
       }
       > i::before {
@@ -179,7 +401,9 @@ header {
       border-radius: 20px;
       // border: 1px solid red;
       background: #fcfcfd;
-      box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+      // box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+      box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
+
       display: none;
       li {
         padding: 14px 21px;
@@ -217,6 +441,26 @@ header {
       &.show {
         display: block;
       }
+    }
+  }
+}
+
+@media screen and(max-width:992px) {
+  .left{
+    .logo{
+      padding-right: 20px;
+      span{
+        font-size: 22px;
+      }
+    }
+    .btn-travelers{
+      padding-left: 20px;
+    }
+  }
+  .right {
+    .suport-link,
+    .btn-Language {
+      display: none;
     }
   }
 }

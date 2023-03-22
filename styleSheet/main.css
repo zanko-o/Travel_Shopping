@@ -40,12 +40,12 @@ header {
   font-weight: 700;
   color: #777e90;
   position: relative;
-  -webkit-transition: .3s;
-  transition: .3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
 .right .btn-Language.show {
-  color: #23262F;
+  color: #23262f;
 }
 
 .right .btn-Language.show > i::before {
@@ -62,9 +62,9 @@ header {
   top: 62px;
   left: 0;
   border-radius: 20px;
-  background: #FCFCFD;
-  -webkit-box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
-          box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+  background: #fcfcfd;
+  -webkit-box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
+          box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
   padding: 16px 42px 28px 16px;
   min-width: 292px;
   max-width: 400px;
@@ -80,8 +80,8 @@ header {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   display: none;
-  -webkit-transition: .3s;
-  transition: .3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
 .right .btn-Language .Language-dropdown.show {
@@ -94,13 +94,13 @@ header {
   border-radius: 8px;
   padding: 11px 28px 12px 20px;
   width: 50%;
-  -webkit-transition: .3s;
-  transition: .3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
   text-align: left;
 }
 
 .right .btn-Language .Language-dropdown li:hover {
-  background: #F4F5F6;
+  background: #f4f5f6;
 }
 
 .right .btn-Language .Language-dropdown li a {
@@ -116,15 +116,15 @@ header {
 .right .btn-Language .Language-dropdown li a .Language-name {
   font-size: 14px;
   font-weight: 700;
-  color: #23262F;
+  color: #23262f;
   white-space: nowrap;
 }
 
 .right .btn-Language .Language-dropdown li a .Language-country {
   font-size: 12px;
-  font-family: 'Poppins';
+  font-family: "Poppins";
   font-weight: 400;
-  color: #B1B5C3;
+  color: #b1b5c3;
   white-space: nowrap;
 }
 
@@ -136,6 +136,7 @@ header {
   font-size: 14px;
   color: #23262f;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .right .btn-header i {
@@ -145,9 +146,17 @@ header {
 .right .Notifications {
   position: relative;
   margin-left: 35px;
+  margin-top: 8px;
+  position: relative;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
-.right .Notifications i {
+.right .Notifications.show > i::before {
+  color: #141416;
+}
+
+.right .Notifications > i {
   font-size: 21px;
 }
 
@@ -161,7 +170,152 @@ header {
   right: -10px;
 }
 
-.right .profile-pic {
+.right .Notifications #NotificationsDropdown {
+  display: none;
+  position: absolute;
+  top: 62px;
+  right: 0;
+  min-width: 320px;
+  max-width: 350px;
+  height: 385px;
+  overflow-y: auto;
+  background: linear-gradient(83.59deg, #fcfcfd 36.52%, rgba(252, 252, 253, 0.83) 98.8%);
+  -webkit-box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+          box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+  border-radius: 24px;
+  padding: 40px 16px 32px;
+  /*======================== scroll Bar ===========================  */
+  /* width */
+  /* Track */
+  /* Handle */
+  /* Handle on hover */
+  /*======================== END scroll Bar =======================  */
+}
+
+.right .Notifications #NotificationsDropdown::-webkit-scrollbar {
+  width: 5px;
+}
+
+.right .Notifications #NotificationsDropdown::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.right .Notifications #NotificationsDropdown::-webkit-scrollbar-thumb {
+  background: #a8a8a8;
+  border-radius: 3px;
+}
+
+.right .Notifications #NotificationsDropdown::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.right .Notifications #NotificationsDropdown.show {
+  display: block;
+}
+
+.right .Notifications #NotificationsDropdown h4 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message {
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message:hover {
+  background: #ececec;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message > a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-pic {
+  width: 48px;
+  min-width: 48px;
+  height: 48px;
+  min-height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 24px;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-pic img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-detils {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-family: "Poppins";
+  margin-right: 15px;
+  width: 65%;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-detils > span {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-name {
+  font-size: 16px;
+  font-weight: 500;
+  color: #141416;
+  margin-bottom: 4px;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #353945;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-time {
+  font-size: 12px;
+  font-weight: 400;
+  color: #777e90;
+}
+
+.right .Notifications #NotificationsDropdown .Notifications-message .wr-message-status .message-status {
+  display: block;
+  background: #3b71fe;
+  width: 12px;
+  height: 12px;
+  border-radius: 12px;
+}
+
+.right .profileUser {
+  position: relative;
+}
+
+.right .profileUser .profile-pic {
   width: 40px;
   height: 40px;
   overflow: hidden;
@@ -169,9 +323,127 @@ header {
   margin-left: 34px;
 }
 
-.right .profile-pic img {
+.right .profileUser .profile-pic img {
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.right .profileUser #profileUserDropdown {
+  position: absolute;
+  top: 62px;
+  right: 0;
+  background: #fcfcfd;
+  padding: 0 16px 16px;
+  width: 260px;
+  -webkit-box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+          box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
+  border-radius: 20px;
+  display: none;
+}
+
+.right .profileUser #profileUserDropdown.show {
+  display: block;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu {
+  padding: 16px 0;
+  border-bottom: 1px solid #e6e8ec;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu.border-bottom-none {
+  border-bottom: 0;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li {
+  display: block;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a {
+  padding: 12px 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 24px;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover {
+  background: #23262f;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover i::before {
+  color: #e6e8ec;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover span {
+  color: #e6e8ec;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a i {
+  margin-right: 12px;
+}
+
+.right .profileUser #profileUserDropdown > ul.profileUser-menu li a span {
+  color: #777e90;
+  font-size: 14px;
+  font-family: "DM Sans";
+  font-weight: 700;
+}
+
+.right .profileUser #profileUserDropdown .profileUser-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.right .profileUser #profileUserDropdown .profileUser-btn .Account {
+  font-weight: 700;
+  font-size: 14px;
+  background: #3b71fe;
+  padding: 12px;
+  color: #fcfcfd;
+  border-radius: 90px;
+  white-space: nowrap;
+  margin-right: 8px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.right .profileUser #profileUserDropdown .profileUser-btn .Account:hover {
+  -webkit-box-shadow: 0px 4px 16px rgba(59, 113, 254, 0.4);
+          box-shadow: 0px 4px 16px rgba(59, 113, 254, 0.4);
+}
+
+.right .profileUser #profileUserDropdown .profileUser-btn .Logout {
+  white-space: nowrap;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 12px;
+  text-align: center;
+  color: #23262f;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  border-radius: 90px;
+  border: 2px solid #e6e8ec;
+}
+
+.right .profileUser #profileUserDropdown .profileUser-btn .Logout:hover {
+  border-color: #bcbec2;
 }
 
 .left {
@@ -199,8 +471,8 @@ header {
 
 .left .logo span {
   font-size: 27px;
-  font-family: 'Poppins';
-  color: #23262F;
+  font-family: "Poppins";
+  color: #23262f;
   margin-left: 10px;
   font-weight: 600;
 }
@@ -232,8 +504,8 @@ header {
 .left .btn-travelers > i {
   font-size: 22px;
   margin-left: 5.5px;
-  -webkit-transition: .3s;
-  transition: .3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
 .left .btn-travelers.show {
@@ -258,8 +530,8 @@ header {
   max-width: 292px;
   border-radius: 20px;
   background: #fcfcfd;
-  -webkit-box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
-          box-shadow: 0 40px 32px rgba(15, 15, 15, 0.12);
+  -webkit-box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
+          box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
   display: none;
 }
 
@@ -309,5 +581,21 @@ header {
 
 .left .btn-travelers .travelers-dropdown.show {
   display: block;
+}
+
+@media screen and (max-width: 992px) {
+  .left .logo {
+    padding-right: 20px;
+  }
+  .left .logo span {
+    font-size: 22px;
+  }
+  .left .btn-travelers {
+    padding-left: 20px;
+  }
+  .right .suport-link,
+  .right .btn-Language {
+    display: none;
+  }
 }
 /*# sourceMappingURL=main.css.map */

@@ -6,26 +6,51 @@ function outsideElementClickHandler(elementorSelector, functionHandler) {
     }
   });
 }
+function outElement(primirElement,btnElemnt,DropdownElement){
+  outsideElementClickHandler(primirElement, function (e) {
+    btnElemnt.removeClass("show");
+    DropdownElement.removeClass("show");
+  });
+}
 $(document).ready(function () {
-  let btnTravelers = $("#btn-travelers");;
-  let travelersDropdown = $("#travelersDropdown");
-  let btnLanguage = $("#btnLanguage");
-  let LanguageDropdown = $("#LanguageDropdown");
+  const btnTravelers = $("#btn-travelers");;
+  const travelersDropdown = $("#travelersDropdown");
+  const btnLanguage = $("#btnLanguage");
+  const LanguageDropdown = $("#LanguageDropdown");
+  const Notifications = $("#Notifications");
+  const NotificationsDropdown = $("#NotificationsDropdown");
+  const profileUser = $("#profileUser");
+  const profileUserDropdown = $("#profileUserDropdown");
   // console.log(travelersDropdown);
   btnTravelers.on("click", function () {
     travelersDropdown.toggleClass("show");
     $(this).toggleClass("show");
   });
-  outsideElementClickHandler("#btn-travelers", function (e) {
-    travelersDropdown.removeClass("show");
-    $("#btn-travelers").removeClass("show");
-  });
+  outElement("#btn-travelers",travelersDropdown,btnTravelers);
+  // outsideElementClickHandler("#btn-travelers", function (e) {
+  //   travelersDropdown.removeClass("show");
+  //   $("#btn-travelers").removeClass("show");
+  // });
   btnLanguage.on("click", function () {
     LanguageDropdown.toggleClass("show");
     $(this).toggleClass("show");
   });
-  outsideElementClickHandler("#btnLanguage", function (e) {
-    btnLanguage.removeClass("show");
-    LanguageDropdown.removeClass("show");
+  outElement("#btnLanguage",btnLanguage,LanguageDropdown);
+
+  Notifications.on("click", function () {
+    NotificationsDropdown.toggleClass("show");
+    $(this).toggleClass("show");
   });
+  outElement("#Notifications",Notifications,NotificationsDropdown);
+
+  profileUser.on("click", function () {
+    profileUserDropdown.toggleClass("show");
+    $(this).toggleClass("show");
+  });
+  outElement("#profileUser",profileUser,profileUserDropdown);
+  // outsideElementClickHandler("#btnLanguage", function (e) {
+  //   btnLanguage.removeClass("show");
+  //   LanguageDropdown.removeClass("show");
+  // });
+
 });
