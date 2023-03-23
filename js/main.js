@@ -21,6 +21,8 @@ $(document).ready(function () {
   const NotificationsDropdown = $("#NotificationsDropdown");
   const profileUser = $("#profileUser");
   const profileUserDropdown = $("#profileUserDropdown");
+  const humbergerMenu = $("#humbergerMenu");
+  const humbergerMenuDropdown = $("#humbergerMenuDropdown");
   // console.log(travelersDropdown);
   btnTravelers.on("click", function () {
     travelersDropdown.toggleClass("show");
@@ -48,6 +50,10 @@ $(document).ready(function () {
     $(this).toggleClass("show");
   });
   outElement("#profileUser",profileUser,profileUserDropdown);
+  humbergerMenu.on("click", function () {
+    humbergerMenuDropdown.toggleClass("show");
+    $(this).toggleClass("show");
+  });
   // outsideElementClickHandler("#btnLanguage", function (e) {
   //   btnLanguage.removeClass("show");
   //   LanguageDropdown.removeClass("show");

@@ -21,7 +21,7 @@ header {
 
 .right .suport-link {
   font-size: 14px;
-  color: #777e90;
+  color: var(--color-gray-1);
   font-weight: 700;
 }
 
@@ -38,14 +38,14 @@ header {
   margin-left: 45px;
   font-size: 14px;
   font-weight: 700;
-  color: #777e90;
+  color: var(--color-gray-1);
   position: relative;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
 
 .right .btn-Language.show {
-  color: #23262f;
+  color: var(--color-block-2);
 }
 
 .right .btn-Language.show > i::before {
@@ -62,7 +62,7 @@ header {
   top: 62px;
   left: 0;
   border-radius: 20px;
-  background: #fcfcfd;
+  background: var(--color-white-2);
   -webkit-box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
           box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
   padding: 16px 42px 28px 16px;
@@ -100,7 +100,7 @@ header {
 }
 
 .right .btn-Language .Language-dropdown li:hover {
-  background: #f4f5f6;
+  background: var(--color-white-1);
 }
 
 .right .btn-Language .Language-dropdown li a {
@@ -116,7 +116,7 @@ header {
 .right .btn-Language .Language-dropdown li a .Language-name {
   font-size: 14px;
   font-weight: 700;
-  color: #23262f;
+  color: var(--color-block-2);
   white-space: nowrap;
 }
 
@@ -124,17 +124,17 @@ header {
   font-size: 12px;
   font-family: "Poppins";
   font-weight: 400;
-  color: #b1b5c3;
+  color: var(--color-gray-2);
   white-space: nowrap;
 }
 
 .right .btn-header {
-  border: 2px solid #e6e8ec;
+  border: 2px solid var(--color-gray-3);
   border-radius: 90px;
   padding: 10px 22px;
   margin-left: 45px;
   font-size: 14px;
-  color: #23262f;
+  color: var(--color-block-2);
   font-weight: 700;
   white-space: nowrap;
 }
@@ -153,7 +153,7 @@ header {
 }
 
 .right .Notifications.show > i::before {
-  color: #141416;
+  color: var(--color-block-1);
 }
 
 .right .Notifications > i {
@@ -164,7 +164,7 @@ header {
   position: absolute;
   width: 12px;
   height: 12px;
-  background: #58c27d;
+  background: var(--color-green);
   border-radius: 50%;
   top: -10px;
   right: -10px;
@@ -179,7 +179,7 @@ header {
   max-width: 350px;
   height: 385px;
   overflow-y: auto;
-  background: linear-gradient(83.59deg, #fcfcfd 36.52%, rgba(252, 252, 253, 0.83) 98.8%);
+  background: linear-gradient(83.59deg, var(--color-white-2) 36.52%, rgba(252, 252, 253, 0.83) 98.8%);
   -webkit-box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
           box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
   border-radius: 24px;
@@ -287,25 +287,25 @@ header {
 .right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-name {
   font-size: 16px;
   font-weight: 500;
-  color: #141416;
+  color: var(--color-block-1);
   margin-bottom: 4px;
 }
 
 .right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-text {
   font-size: 14px;
   font-weight: 400;
-  color: #353945;
+  color: var(--color-block-3);
 }
 
 .right .Notifications #NotificationsDropdown .Notifications-message .message-detils .message-time {
   font-size: 12px;
   font-weight: 400;
-  color: #777e90;
+  color: var(--color-gray-1);
 }
 
 .right .Notifications #NotificationsDropdown .Notifications-message .wr-message-status .message-status {
   display: block;
-  background: #3b71fe;
+  background: var(--color-blue);
   width: 12px;
   height: 12px;
   border-radius: 12px;
@@ -332,7 +332,7 @@ header {
   position: absolute;
   top: 62px;
   right: 0;
-  background: #fcfcfd;
+  background: var(--color-white-2);
   padding: 0 16px 16px;
   width: 260px;
   -webkit-box-shadow: 0px 16px 64px -48px rgba(31, 47, 70, 0.4);
@@ -347,7 +347,7 @@ header {
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu {
   padding: 16px 0;
-  border-bottom: 1px solid #e6e8ec;
+  border-bottom: 1px solid var(--color-gray-3);
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu.border-bottom-none {
@@ -372,15 +372,15 @@ header {
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover {
-  background: #23262f;
+  background: var(--color-block-2);
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover i::before {
-  color: #e6e8ec;
+  color: var(--color-gray-3);
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu li a:hover span {
-  color: #e6e8ec;
+  color: var(--color-gray-3);
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu li a i {
@@ -388,7 +388,7 @@ header {
 }
 
 .right .profileUser #profileUserDropdown > ul.profileUser-menu li a span {
-  color: #777e90;
+  color: var(--color-gray-1);
   font-size: 14px;
   font-family: "DM Sans";
   font-weight: 700;
@@ -409,9 +409,9 @@ header {
 .right .profileUser #profileUserDropdown .profileUser-btn .Account {
   font-weight: 700;
   font-size: 14px;
-  background: #3b71fe;
+  background: var(--color-blue);
   padding: 12px;
-  color: #fcfcfd;
+  color: var(--color-white-2);
   border-radius: 90px;
   white-space: nowrap;
   margin-right: 8px;
@@ -434,16 +434,32 @@ header {
   font-size: 14px;
   padding: 12px;
   text-align: center;
-  color: #23262f;
+  color: var(--color-block-2);
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
   border-radius: 90px;
-  border: 2px solid #e6e8ec;
+  border: 2px solid var(--color-gray-3);
 }
 
 .right .profileUser #profileUserDropdown .profileUser-btn .Logout:hover {
   border-color: #bcbec2;
+}
+
+.right .humbergerMenu {
+  display: none;
+  margin-left: 20px;
+  z-index: 100;
+  padding-top: 7px;
+}
+
+.right .humbergerMenu i {
+  font-size: 24px;
+}
+
+.right .humbergerMenu i::before {
+  -webkit-transition: .3s;
+  transition: .3s;
 }
 
 .left {
@@ -456,8 +472,9 @@ header {
 }
 
 .left .logo {
+  z-index: 100;
   padding-right: 44px;
-  border-right: 1px solid #e6e8ec;
+  border-right: 1px solid var(--color-gray-3);
 }
 
 .left .logo a {
@@ -472,7 +489,7 @@ header {
 .left .logo span {
   font-size: 27px;
   font-family: "Poppins";
-  color: #23262f;
+  color: var(--color-block-2);
   margin-left: 10px;
   font-weight: 600;
 }
@@ -481,7 +498,7 @@ header {
   padding-left: 40px;
   font-size: 14px;
   font-weight: 700;
-  color: #777e90;
+  color: var(--color-gray-1);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -494,11 +511,11 @@ header {
 }
 
 .left .btn-travelers:hover {
-  color: #23262f;
+  color: var(--color-block-2);
 }
 
 .left .btn-travelers:hover > i::before {
-  color: #23262f;
+  color: var(--color-block-2);
 }
 
 .left .btn-travelers > i {
@@ -509,7 +526,7 @@ header {
 }
 
 .left .btn-travelers.show {
-  color: #23262f;
+  color: var(--color-block-2);
 }
 
 .left .btn-travelers.show > i {
@@ -518,7 +535,7 @@ header {
 }
 
 .left .btn-travelers.show > i::before {
-  color: #23262f;
+  color: var(--color-block-2);
 }
 
 .left .btn-travelers .travelers-dropdown {
@@ -529,7 +546,7 @@ header {
   width: 260px;
   max-width: 292px;
   border-radius: 20px;
-  background: #fcfcfd;
+  background: var(--color-white-2);
   -webkit-box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
           box-shadow: 0px 40px 32px -24px rgba(15, 15, 15, 0.12);
   display: none;
@@ -543,15 +560,15 @@ header {
 }
 
 .left .btn-travelers .travelers-dropdown li:hover {
-  background: #23262f;
+  background: var(--color-block-2);
 }
 
 .left .btn-travelers .travelers-dropdown li:hover a span {
-  color: #e6e8ec;
+  color: var(--color-gray-3);
 }
 
 .left .btn-travelers .travelers-dropdown li:hover a i::before {
-  color: #e6e8ec;
+  color: var(--color-gray-3);
 }
 
 .left .btn-travelers .travelers-dropdown li a {
@@ -583,6 +600,57 @@ header {
   display: block;
 }
 
+#humbergerMenuDropdown {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: var(--color-white-2);
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+  -webkit-transition: -webkit-transform .3s ease;
+  transition: -webkit-transform .3s ease;
+  transition: transform .3s ease;
+  transition: transform .3s ease, -webkit-transform .3s ease;
+  z-index: 99;
+  padding-top: 100px;
+}
+
+#humbergerMenuDropdown > ul li {
+  position: relative;
+}
+
+#humbergerMenuDropdown > ul li a {
+  font-family: "Poppins";
+  display: block;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+  padding: 14px 30px;
+}
+
+#humbergerMenuDropdown > ul li a:hover::before {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+#humbergerMenuDropdown > ul li a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background-color: var(--color-blue);
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transition: -webkit-transform .3s ease;
+  transition: -webkit-transform .3s ease;
+  transition: transform .3s ease;
+  transition: transform .3s ease, -webkit-transform .3s ease;
+}
+
 @media screen and (max-width: 992px) {
   .left .logo {
     padding-right: 20px;
@@ -594,8 +662,72 @@ header {
     padding-left: 20px;
   }
   .right .suport-link,
-  .right .btn-Language {
+  .right .btn-Language,
+  .right .btn-header {
     display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .right .btn-header {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 578px) {
+  header {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .left .logo {
+    border: none;
+    padding-right: 0;
+  }
+  .left .btn-travelers {
+    display: none;
+  }
+  .right .btn-header {
+    display: none;
+  }
+  .right .Notifications {
+    margin-left: 0;
+    position: static;
+  }
+  .right .Notifications span {
+    top: auto;
+    right: auto;
+  }
+  .right .Notifications #NotificationsDropdown {
+    width: 90%;
+    margin: 0 auto;
+    left: 0;
+    top: 80px;
+  }
+  .right .profileUser {
+    position: static;
+  }
+  .right .profileUser .profile-pic {
+    margin-left: 20px;
+  }
+  .right .profileUser #profileUserDropdown {
+    left: 0;
+    width: 90%;
+    top: 80px;
+    margin: 0 auto;
+  }
+  .right .profileUser #profileUserDropdown > ul.profileUser-menu {
+    padding: 8px 0;
+  }
+  .right .humbergerMenu {
+    display: block;
+  }
+  .right .humbergerMenu.show i::before {
+    content: "\e97a";
+  }
+  #humbergerMenuDropdown.show {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
   }
 }
 /*# sourceMappingURL=main.css.map */

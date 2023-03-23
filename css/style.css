@@ -1,5 +1,35 @@
+html{
+  width: 100vw;
+  overflow-x: hidden !important;
+}
 body {
   font-family: "DM Sans",'Poppins', sans-serif, "icomoon";
   font-weight: 700;
-  background: #FCFCFD;
+  background: var(--color-white-2);
+  height: 5000px;
+  position: relative;
+  overflow-x: hidden !important;
+
+}
+
+:root{
+  /** Primary */
+  --color-blue:#3B71FE;
+  --color-blue-light:#8BC5E5;
+  --color-Purple:#92A5EF;
+  --color-green:#58C27D;
+  /** Secondary */
+  --color-blue-:#A4CDE3;
+  --color-brown-light:#E4D7CF;
+  --color-yellow:#FFD166;
+  --color-orange:#FA8F54;
+  /**  Neutrals  */
+  --color-block-1:#141416;
+  --color-block-2:#23262F;
+  --color-block-3:#353945;
+  --color-gray-1:#777E90;
+  --color-gray-2:#B1B5C3;
+  --color-gray-3:#E6E8EC;
+  --color-white-1:#F4F5F6;
+  --color-white-2:#FCFCFD;
 }
